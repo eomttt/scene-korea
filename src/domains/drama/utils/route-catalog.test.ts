@@ -26,8 +26,10 @@ test("published tours have day-length estimates, searchable categories and local
   }
 });
 
-test("localized title aliases find every story belonging to that work", () => {
+test("English and Korean titles find every story belonging to that work", () => {
   const routes = dramaRoutes.filter((route) => route.title === "Winter Sonata");
   assert.ok(routes.length >= 2);
-  assert.ok(routes.every((route) => matchesRouteSearch(route, "冬のソナタ")));
+  for (const query of ["Winter Sonata", "겨울연가"]) {
+    assert.ok(routes.every((route) => matchesRouteSearch(route, query)), query);
+  }
 });

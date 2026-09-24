@@ -86,9 +86,7 @@
       "seoDescription": "From Sol’s front gate to a riverside confession. Explore Lovely Runner filming locations in Haenggung-dong, Suwon with scene notes and maps.",
       "category": "drama",
       "maxHours": 4,
-      "aliases": [
-        "ソンジェ背負って走れ"
-      ]
+      "aliases": []
     },
     {
       "id": "hometown",
@@ -169,10 +167,7 @@
       "seoDescription": "Market mornings, the hilltop boat and a sea breeze. Explore Hometown Cha-Cha-Cha filming locations in Cheongha and Cheongjin, Pohang with scene notes and maps.",
       "category": "drama",
       "maxHours": 7,
-      "aliases": [
-        "海岸村恰恰恰",
-        "海街チャチャチャ"
-      ]
+      "aliases": []
     },
     {
       "id": "goblin",
@@ -236,10 +231,7 @@
       "seoDescription": "Follow the forest confession and the seaside flower encounter. Explore Goblin filming locations in Pyeongchang and Gangneung with scene notes and maps.",
       "category": "drama",
       "maxHours": 7,
-      "aliases": [
-        "鬼怪",
-        "トッケビ～君がくれた愛しい日々～"
-      ]
+      "aliases": []
     },
     {
       "id": "summer",
@@ -310,9 +302,7 @@
       "seoDescription": "Ung’s neighborhood, fortress walks and Yeon-su’s green gate. Explore Our Beloved Summer filming locations in Hwaseong Fortress, Suwon with scene notes and maps.",
       "category": "drama",
       "maxHours": 5,
-      "aliases": [
-        "その年、私たちは"
-      ]
+      "aliases": []
     },
     {
       "id": "itaewon",
@@ -372,9 +362,7 @@
       "seoDescription": "Find DanBam, then take in Saeroyi’s city skyline. Explore Itaewon Class filming locations in Itaewon, Seoul with scene notes and maps.",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "梨泰院クラス"
-      ]
+      "aliases": []
     },
     {
       "id": "vincenzo",
@@ -447,10 +435,7 @@
       "seoDescription": "Walk into the plaza, then follow the city after dark. Explore Vincenzo filming locations in Central Seoul with scene notes and maps.",
       "category": "drama",
       "maxHours": 5,
-      "aliases": [
-        "文森佐",
-        "ヴィンチェンツォ"
-      ]
+      "aliases": []
     },
     {
       "id": "cloy",
@@ -510,10 +495,7 @@
       "seoDescription": "A reunion bench, a lakeside walk and a second love story. Explore Crash Landing on You filming locations in Chungju with scene notes and maps.",
       "category": "drama",
       "maxHours": 4,
-      "aliases": [
-        "爱的迫降",
-        "愛の不時着"
-      ]
+      "aliases": []
     },
     {
       "id": "woo",
@@ -573,10 +555,7 @@
       "seoDescription": "A temple path, a window through the rocks and time by the sea. Explore Extraordinary Attorney Woo filming locations in Jeju City with scene notes and maps.",
       "category": "drama",
       "maxHours": 6,
-      "aliases": [
-        "非常律师禹英禑",
-        "ウ・ヨンウ弁護士は天才肌"
-      ]
+      "aliases": []
     },
     {
       "id": "squid",
@@ -636,10 +615,7 @@
       "seoDescription": "The everyday streets before the games begin. Explore Squid Game filming locations in Ssangmun-dong, Seoul with scene notes and maps.",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "鱿鱼游戏",
-        "イカゲーム"
-      ]
+      "aliases": []
     },
     {
       "id": "okay",
@@ -699,9 +675,7 @@
       "seoDescription": "The hospital garden and the beach from their escape. Explore It’s Okay to Not Be Okay filming locations in Ayajin, Goseong with scene notes and maps.",
       "category": "drama",
       "maxHours": 4,
-      "aliases": [
-        "サイコだけど大丈夫"
-      ]
+      "aliases": []
     },
     {
       "id": "queen-of-tears-seoul",
@@ -1236,9 +1210,7 @@
       "seoDescription": "Enter the royal courts where a hidden illness becomes a struggle for power. Explore Kingdom filming locations in Jongno, Seoul with scene notes and maps.",
       "category": "drama",
       "maxHours": 4,
-      "aliases": [
-        "王国"
-      ]
+      "aliases": []
     },
     {
       "id": "reply-1988-first-love",
@@ -1798,9 +1770,7 @@
       "seoDescription": "From an apology in the neighborhood to Saeroyi and Yi-seo’s kiss. Explore Itaewon Class filming locations in Itaewon and Namsan, Seoul with scene notes and maps.",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "梨泰院クラス"
-      ]
+      "aliases": []
     },
     {
       "id": "king-between-worlds",
@@ -2335,10 +2305,7 @@
       ],
       "category": "drama",
       "maxHours": 4,
-      "aliases": [
-        "鬼怪",
-        "トッケビ～君がくれた愛しい日々～"
-      ]
+      "aliases": []
     },
     {
       "id": "lovely-bukchon-future",
@@ -2398,9 +2365,7 @@
       ],
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "ソンジェ背負って走れ"
-      ]
+      "aliases": []
     },
     {
       "id": "queen-mungyeong-goodbyes",
@@ -2696,9 +2661,7 @@
       "format": "Drama",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "欢迎来到三达里"
-      ]
+      "aliases": []
     },
     {
       "id": "tangerines-hallim-homecoming",
@@ -2754,9 +2717,7 @@
       "format": "Drama",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "苦尽柑来遇见你"
-      ]
+      "aliases": []
     },
     {
       "id": "our-blues-hallim-hearts",
@@ -2876,9 +2837,7 @@
       "format": "Drama",
       "category": "drama",
       "maxHours": 2,
-      "aliases": [
-        "太阳的后裔"
-      ]
+      "aliases": []
     },
     {
       "id": "winter-sonata-nami-first-kiss",
@@ -2942,10 +2901,7 @@
       "format": "Drama",
       "category": "drama",
       "maxHours": 3,
-      "aliases": [
-        "冬のソナタ",
-        "冬ソナ"
-      ]
+      "aliases": []
     },
     {
       "id": "dae-jang-geum-jeju-new-calling",
@@ -3050,9 +3006,7 @@
       "format": "Drama",
       "category": "drama",
       "maxHours": 5,
-      "aliases": [
-        "王国"
-      ]
+      "aliases": []
     },
     {
       "id": "hero-busan-investigation",
@@ -3062,10 +3016,7 @@
       "category": "international-film",
       "maxHours": 5,
       "aliases": [
-        "HERO 2007",
-        "ヒーロー",
-        "律政英雄",
-        "木村拓哉"
+        "HERO 2007"
       ],
       "course": "A case that leads all the way to Busan",
       "hook": "Follow Kuryu and Amamiya from the hillside lanes of Gamcheon to the markets of Nampo in the 2007 Japanese film.",
@@ -3207,7 +3158,6 @@
       "seoTitle": "Architecture 101 Seoul Tour: Jeongneung to Kyung Hee",
       "seoDescription": "Follow Architecture 101’s first-love scenes from Jeongneung’s wooded path to Kyung Hee University on a half-day route through northeast Seoul.",
       "aliases": [
-        "建築学概論",
         "Introduction to Architecture"
       ],
       "audienceType": "Japanese fan travel",
@@ -3262,10 +3212,7 @@
       ],
       "seoTitle": "Christmas in August Tour: Gunsan’s Chowon Photo Studio",
       "seoDescription": "Visit the restored Chowon Photo Studio in Gunsan, where Christmas in August’s quiet romance unfolds, with film context and practical notes for a short stop.",
-      "aliases": [
-        "八月のクリスマス",
-        "8月のクリスマス"
-      ],
+      "aliases": [],
       "audienceType": "Japanese fan travel",
       "audience": "Japanese fan travel diaries describe making a special trip to Gunsan for this film, including a viewer who waited fourteen years to visit the studio.",
       "audienceKo": "",
@@ -3330,8 +3277,6 @@
       "seoTitle": "My Mister Yongsan Walking Tour: Baekbin and Hugye’s Lanes",
       "seoDescription": "Walk My Mister’s real Yongsan neighborhood from Baekbin Railroad Crossing to the nearby lanes used as Hugye, on a compact one-to-two-hour Seoul tour.",
       "aliases": [
-        "マイ・ディア・ミスター",
-        "私のおじさん",
         "My Ahjussi"
       ],
       "audienceType": "Japanese fan travel",
@@ -3397,10 +3342,7 @@
       ],
       "seoTitle": "Navillera Seoul Tour: Ankara Park and the Final Reunion",
       "seoDescription": "Follow Navillera’s moving park dance and final railway reunion from Yeouido’s Ankara Park to Baekbin Crossing in a single relaxed Seoul afternoon.",
-      "aliases": [
-        "ナビレラ",
-        "ナビレラ－それでも蝶は舞う－"
-      ],
+      "aliases": [],
       "audienceType": "Japanese fan travel",
       "audience": "A Japanese fan guide documents an on-site search for the episode-eight park and finale crossing, matching the locations with the drama’s camera positions.",
       "audienceKo": "",
@@ -3479,10 +3421,7 @@
       ],
       "seoTitle": "Love Rain Daegu Tour: Three-Second Love at Keimyung",
       "seoDescription": "Explore Love Rain’s 1970s first-love scenes at Keimyung University’s Daemyeong campus, from Adams Hall to Wilson’s bench and Shattuck’s forecourt.",
-      "aliases": [
-        "ラブレイン",
-        "サランピ"
-      ],
+      "aliases": [],
       "audienceType": "Japanese fan travel",
       "audience": "Japanese 4travel and Ameblo visitors retrace Love Rain’s Daemyeong campus scenes, including posing at its steps and recognizing the university’s 1970s setting.",
       "audienceKo": "",
@@ -3550,10 +3489,7 @@
       ],
       "seoTitle": "Winter Sonata Chuncheon Tour: A Bus Ride and a Promise",
       "seoDescription": "Revisit Winter Sonata’s missed-bus scene at Gongjicheon and Yu-jin’s wait on Chuncheon Myeongdong Street, with a half-day route and location-change notes.",
-      "aliases": [
-        "冬のソナタ",
-        "冬ソナ"
-      ],
+      "aliases": [],
       "audienceType": "Japanese fan travel",
       "audience": "Japanese 4travel diaries record Winter Sonata pilgrimages in Chuncheon, while a newer Japanese travel guide distinguishes surviving memorials from demolished locations.",
       "audienceKo": "",
@@ -3575,9 +3511,7 @@
       "tourArea": "Buam-dong, Seoul",
       "maxHours": 2,
       "aliases": [
-        "커피프린스 1호점",
-        "咖啡王子一號店",
-        "咖啡王子1号店"
+        "커피프린스 1호점"
       ],
       "audienceType": "Fan visit",
       "audience": "Taiwan-based blogger windko included Sanmotoonge in a documented 2017 Korean-drama location trip with friends. This is evidence of a fan visit, not a current popularity ranking.",
@@ -3632,10 +3566,7 @@
       "tourArea": "Pocheon Art Valley, Pocheon",
       "maxHours": 2,
       "aliases": [
-        "달의 연인 - 보보경심 려",
-        "月之戀人－步步驚心：麗",
-        "步步驚心：麗",
-        "步步惊心：丽"
+        "달의 연인 - 보보경심 려"
       ],
       "audienceType": "Fan visit",
       "audience": "A Traditional Chinese travel blogger described wanting to see this lake after watching Moon Lovers and then documented the visit in 2019, even in heavy rain.",
@@ -3690,11 +3621,7 @@
       "tourArea": "Abai Village, Sokcho",
       "maxHours": 2,
       "aliases": [
-        "가을동화",
-        "藍色生死戀",
-        "蓝色生死恋",
-        "秋天的童話",
-        "秋天的童话"
+        "가을동화"
       ],
       "audienceType": "Fan visit",
       "audience": "Taiwan blogger 索尼客 called this their first Korean drama and described setting aside a day specifically to visit Abai Village. The post records an actual 2011 trip.",
@@ -3760,11 +3687,7 @@
       "tourArea": "Daemyeong-dong, Daegu",
       "maxHours": 2,
       "aliases": [
-        "꽃보다 남자",
-        "花樣男子",
-        "花样男子",
-        "韓版流星花園",
-        "韩版流星花园"
+        "꽃보다 남자"
       ],
       "audienceType": "Trip intent",
       "audience": "In a 2009 Backpackers Taiwan forum thread, a viewer asked which filming locations to visit on an upcoming Korea trip. A reply specifically identified Keimyung’s two campuses.",
@@ -3820,7 +3743,6 @@
       "maxHours": 1,
       "aliases": [
         "미생",
-        "未生",
         "Misaeng"
       ],
       "audienceType": "Fan visit",

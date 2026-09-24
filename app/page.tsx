@@ -8,8 +8,8 @@ import { getSiteUrl } from "@/common/utils/site-url";
 import { StructuredData } from "@/common/components/StructuredData";
 
 export const metadata: Metadata = {
-  title: "K-drama & Film Locations: 30 Story Itineraries",
-  description: "Explore 30 story itineraries from Korean dramas and films. Follow Parasite, Lovely Runner and more with scene guides, Google Maps and NAVER Map links.",
+  title: `${dramaRoutes.length} K-Drama & Film Location Tours in Korea`,
+  description: `Explore ${dramaRoutes.length} self-guided K-drama and film location tours in Korea. Follow nearby scenes in a day with Google Maps, NAVER Map and visiting tips.`,
   alternates: { canonical: "/" },
   openGraph: { title: "You know the story. Now step inside.", description: "K-drama and film filming locations, memorable scenes and self-guided routes in Korea.", url: "/", siteName: "Scene Korea", type: "website", images: [{ url: "/share-image", width: 1200, height: 630, alt: "Scene Korea · Follow your favourite K-drama" }] },
 };

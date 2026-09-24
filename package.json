@@ -11,7 +11,7 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "node --import tsx --test src/domains/feedback/utils/*.test.ts src/domains/advertising/utils/*.test.ts",
+    "test": "node --import tsx --test src/domains/feedback/utils/*.test.ts src/domains/advertising/utils/*.test.ts src/domains/drama/utils/*.test.ts",
     "check": "npm run lint && npm run typecheck && npm test"
   },
   "dependencies": {

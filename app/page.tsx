@@ -16,7 +16,7 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   return <>
-    <StructuredData data={{ "@context": "https://schema.org", "@type": "WebSite", name: "Scene Korea", url: getSiteUrl(), inLanguage: "en", description: "Self-guided Korean drama and film story itineraries for international fans." }} />
+    <StructuredData data={{ "@context": "https://schema.org", "@type": "WebSite", name: "Scene Korea", url: getSiteUrl(), inLanguage: "en", description: "Self-guided filming-location tours in Korea, from Korean dramas and films to international cinema." }} />
     <StructuredData data={{ "@context": "https://schema.org", "@type": "ItemList", name: "K-drama and film filming routes in Korea", numberOfItems: dramaRoutes.length, itemListElement: dramaRoutes.map((route, index) => ({ "@type": "ListItem", position: index + 1, name: `${route.title}: ${route.course}`, url: `${getSiteUrl()}/stories/${route.id}` })) }} />
     <section className="hero"><div><p className="eyebrow">The story doesn’t end on screen</p><h1>You know the story.<br />Now step inside.</h1></div><div className="hero-aside"><p>One film. More than one story.<br />Choose the moments you love, then follow their filming locations across Korea.</p><a href="#collection" className="text-link">Find your story <span aria-hidden="true">↓</span></a></div></section>
     <DramaCollection routes={dramaRoutes} />

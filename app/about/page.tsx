@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+
+export const metadata: Metadata = { title: "About the collection", alternates: { canonical: "/about" } };
+export default function AboutPage() {
+  return <article className="prose-page"><p className="eyebrow">From the screen to your day</p><h1>Places that already<br />feel familiar.</h1><p>Scene Korea is an independent collection of self-guided filming-location routes for international K-drama fans. Start with a story you love, then follow its memorable moments into real places.</p><h2>Every stop has a story</h2><p>Our routes link filming locations in a suggested visiting order. Each stop explains the scene, offers a practical visiting note and links to Google Maps and NAVER Map. Location references appear beside each description.</p><h2>Take your time</h2><p>Route durations are editorial estimates for the local outing, including photo breaks. Travel to the first stop is extra. Check current opening hours, transport and access before setting out.</p><h2>Images and scene references</h2><p>Images are labeled as drama stills or location photographs. Credits and source links appear on each route. The collection is not affiliated with the shows, broadcasters or tourism organizations featured here.</p><h2>Help shape the next route</h2><p>Have a drama, film or scene in mind? <Link href="/request">Send a request</Link> and tell us what you’d love to visit.</p></article>;
+}

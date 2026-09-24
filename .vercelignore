@@ -1,0 +1,9 @@
+.git
+.env*
+!.env.example
+docs
+README.md
+AGENTS.md
+CLAUDE.md
+**/*.test.ts
+*.tsbuildinfo

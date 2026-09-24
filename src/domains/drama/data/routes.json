@@ -1,0 +1,611 @@
+{
+  "checkedAt": "2026-09-24",
+  "method": "Editorial itinerary concepts for international fans. Selection order is not a popularity ranking. Local durations are estimates including photo and rest time; travel to the first stop is excluded. Filming evidence does not confirm current business hours or public access. Social posts are qualitative examples, not a representative survey.",
+  "routes": [
+    {
+      "id": "lovely",
+      "title": "Lovely Runner",
+      "ko": "선재 업고 튀어",
+      "course": "An afternoon with Sol & Sun-jae",
+      "hook": "From Sol’s front gate to a riverside confession.",
+      "duration": "3–4 hours",
+      "transport": "Walk",
+      "start": "Mongted café, Suwon",
+      "image": "lovely-scene",
+      "imageType": "Drama still",
+      "imageCaption": "Sun-jae’s confession near Hwahongmun",
+      "credit": "tvN · reproduced in Hey Roseanne’s location guide",
+      "imageSource": "https://heyroseanne.com/lovely-runner-filming-locations/",
+      "audienceType": "Fan visit",
+      "audience": "A Filipina traveler based in California documented visiting these locations. TIME also selected the series as its best K-drama of 2024.",
+      "audienceKo": "해외 팬의 실제 방문 기록과 해외 매체의 작품 평가를 함께 확인했다. 로맨스 팬을 대상으로 가장 먼저 시험할 후보.",
+      "visitNote": "Photograph homes from the public street. Café opening hours need a fresh check.",
+      "stops": [
+        {
+          "name": "Mongted café",
+          "ko": "몽테드 · 솔이네 집 외관",
+          "kind": "Filming location",
+          "scene": "The café exterior plays Im Sol’s house. The facing blue gate helps you recognize the neighborhood where their school-day story unfolds.",
+          "query": "수원 몽테드",
+          "sceneTitle": "Sol’s home, just across from Sun-jae",
+          "visit": "Look for the entrance from the street, then stop for coffee if the café is open.",
+          "episode": "",
+          "source": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        },
+        {
+          "name": "Haenggung-dong lanes",
+          "ko": "행궁동 골목",
+          "kind": "Filming location",
+          "scene": "Sol pushes Sun-jae against a wall to keep him from getting splashed. Their flustered moment was filmed in the lanes around her house.",
+          "query": "수원 행궁동 벽화마을",
+          "sceneTitle": "The splash and the almost-embrace",
+          "visit": "Begin near Mongted and follow the neighboring lanes; the map opens the wider neighborhood.",
+          "episode": "",
+          "source": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        },
+        {
+          "name": "Hwahongmun stream bridge",
+          "ko": "화홍문 앞 수원천 다리",
+          "kind": "Filming location",
+          "scene": "On the small pedestrian bridge over Suwoncheon, Sun-jae tells Sol he likes her. Hwahongmun forms the backdrop.",
+          "query": "수원 화홍문",
+          "sceneTitle": "Sun-jae’s first confession",
+          "visit": "Look for the small stream bridge in front of the gate, rather than the gate itself.",
+          "episode": "",
+          "source": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        },
+        {
+          "name": "Yongyeon Pond",
+          "ko": "방화수류정 아래 용연",
+          "kind": "Filming location",
+          "scene": "Sun-jae teaches Sol to ride a bicycle along the paths beside Yongyeon Pond.",
+          "query": "수원 방화수류정 용연",
+          "sceneTitle": "Learning to ride together",
+          "visit": "Follow the pond path below Banghwasuryujeong Pavilion.",
+          "episode": "",
+          "source": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · official filming route",
+          "url": "https://german.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=528048"
+        },
+        {
+          "label": "Hey Roseanne · first-person visit & still",
+          "url": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        },
+        {
+          "label": "TIME · best K-dramas of 2024",
+          "url": "https://time.com/7201080/best-k-dramas-2024/"
+        }
+      ]
+    },
+    {
+      "id": "hometown",
+      "title": "Hometown Cha-Cha-Cha",
+      "ko": "갯마을 차차차",
+      "course": "A day in Gongjin",
+      "hook": "Market mornings, the hilltop boat and a sea breeze.",
+      "duration": "6–7 hours",
+      "transport": "Car or booked taxi + walks",
+      "start": "Cheongha Market, Pohang",
+      "image": "hometown-scene",
+      "placeImage": "hometown-place",
+      "imageType": "Drama still",
+      "imageCaption": "Hye-jin and Du-sik’s wedding photos at the hilltop boat",
+      "placeCaption": "The boat at Sabang Memorial Park",
+      "credit": "Studio Dragon · still via KTO; location photo via KTO",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805",
+      "audienceType": "Trip intent",
+      "audience": "An English-language Korea travel post specifically considers adding Pohang to a trip because of this drama. Another asks how to reach the locations without renting a car.",
+      "audienceKo": "해외 여행 커뮤니티에서 이 작품 때문에 포항을 일정에 넣으려는 질문을 확인했다. 차량 이동 안내가 상품의 중요한 가치가 된다.",
+      "visitNote": "Book transport between stops. The boat and hilltop viewpoint involve uphill walking. Set dressing can change.",
+      "stops": [
+        {
+          "name": "Cheongha Market",
+          "ko": "청하공진시장",
+          "kind": "Filming location",
+          "scene": "Cheongha Market stands in for Gongjin’s market, including the settings for Bora Supermarket, Oyun Café and the hardware store.",
+          "query": "포항 청하공진시장",
+          "sceneTitle": "The everyday heart of Gongjin",
+          "visit": "Walk the market lanes and look for the central squid statue. These remain working premises.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+        },
+        {
+          "name": "Yoon Dental Clinic exterior",
+          "ko": "청진3리 어민복지회관 · 윤치과 외관",
+          "kind": "Filming location",
+          "query": "포항 해안로 1884-2",
+          "sceneTitle": "Hye-jin’s seaside dental clinic",
+          "scene": "The fishermen’s welfare center was dressed as Yoon Dental Clinic, where Hye-jin begins her new life in Gongjin.",
+          "visit": "View the exterior from the public street. Interior access is not part of this route.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+        },
+        {
+          "name": "Sabang Memorial Park",
+          "ko": "사방기념공원 · 묵은봉 배",
+          "kind": "Filming location",
+          "scene": "The boat on Mugeunbong is Chief Hong’s hilltop retreat. It also appears in the couple’s wedding-photo scene.",
+          "query": "포항 사방기념공원",
+          "sceneTitle": "Du-sik’s boat above the sea",
+          "visit": "Walk uphill from Sabang Memorial Park for the boat and coastal backdrop.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · official 15.4 km route",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=385585&menuSn=217"
+        },
+        {
+          "label": "KTO · scenes & location photos",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+        },
+        {
+          "label": "Reddit · adding Pohang for the drama",
+          "url": "https://www.reddit.com/r/koreatravel/comments/1kadltb/"
+        },
+        {
+          "label": "Reddit · visiting without a rental car",
+          "url": "https://www.reddit.com/r/koreatravel/comments/1ev0bqj/"
+        }
+      ]
+    },
+    {
+      "id": "goblin",
+      "title": "Goblin",
+      "ko": "도깨비",
+      "course": "Where the sea meets the forest",
+      "hook": "Follow the forest confession and the seaside flower encounter.",
+      "duration": "6–7 hours",
+      "transport": "Car or booked driver + walks",
+      "start": "Woljeongsa forest, Pyeongchang",
+      "image": "goblin-place",
+      "imageType": "Location photo",
+      "imageCaption": "Jumunjin Breakwater, the iconic seaside filming spot",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67191",
+      "audienceType": "International fan ratings",
+      "audience": "Viki’s international audience page shows a 9.7 rating at the time of research. This indicates an established fan audience, not measured demand for this itinerary.",
+      "audienceKo": "Viki의 해외 팬 평점으로 작품 선호를 확인했다. 꽃을 들고 장면을 재현하는 경험을 시험할 후보이며 코스 구매 수요는 아직 확인하지 않았다.",
+      "visitNote": "The forest and coast are separate driving stops. Avoid the breakwater when waves or access restrictions make it unsafe.",
+      "stops": [
+        {
+          "name": "Woljeongsa fir forest",
+          "ko": "월정사 전나무숲길",
+          "kind": "Filming location",
+          "scene": "The fir-tree path is the setting for Kim Shin and Eun-tak’s romantic forest scene, where they confirm their feelings.",
+          "query": "월정사 전나무숲길",
+          "sceneTitle": "A promise in the snowy forest",
+          "visit": "Follow the marked forest path. Snow depends on the season; the scene’s winter setting is not year-round.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=174088"
+        },
+        {
+          "name": "Jumunjin Breakwater",
+          "ko": "주문진 도깨비 방사제",
+          "kind": "Filming location",
+          "scene": "The breakwater is the setting for Kim Shin and Eun-tak’s seaside encounter, remembered for the buckwheat flowers.",
+          "query": "강릉 도깨비 촬영지 방사제",
+          "sceneTitle": "The flowers by the sea",
+          "visit": "Find the filming breakwater near Yeongjin Beach. Stay ashore if waves or access restrictions make the pier unsafe.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67191"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · forest scene",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=174088"
+        },
+        {
+          "label": "KTO · breakwater & photo",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67191"
+        },
+        {
+          "label": "Viki · international fan reviews",
+          "url": "https://www.viki.com/tv/31706c-goblin"
+        }
+      ]
+    },
+    {
+      "id": "summer",
+      "title": "Our Beloved Summer",
+      "ko": "그 해 우리는",
+      "course": "The long way back to you",
+      "hook": "Ung’s neighborhood, fortress walks and Yeon-su’s green gate.",
+      "duration": "4–5 hours",
+      "transport": "Walk",
+      "start": "Choi Ung’s house exterior, Suwon",
+      "image": "summer-place",
+      "imageType": "Location photo",
+      "imageCaption": "Jidong’s residential lanes near Yeon-su’s house",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177328",
+      "audienceType": "Fan visit",
+      "audience": "A CIEE study-abroad participant documented a dedicated trip to the show’s locations and meeting other fans there.",
+      "audienceKo": "미국에서 온 교환학생의 촬영지 방문 기록을 확인했다. 조용한 동네 산책과 사진을 좋아하는 팬에게 맞는 후보.",
+      "visitNote": "Both home stops are exterior-only concepts. Keep entrances clear and respect residents.",
+      "stops": [
+        {
+          "name": "Choi Ung’s house exterior",
+          "ko": "최웅 집 외관 · 장안동 109-1",
+          "kind": "Filming location",
+          "scene": "The white-walled building appears as Choi Ung’s home, one of the recurring settings in his story with Yeon-su.",
+          "query": "수원 장안동 109-1",
+          "sceneTitle": "Back at Ung’s front door",
+          "visit": "Enjoy the exterior from the street; do not assume the former café is operating.",
+          "episode": "",
+          "source": "https://www.ciee.org/go-abroad/college-study-abroad/blog/visiting-k-drama-our-beloved-summer-geu-hae-ulineun-filming-locations"
+        },
+        {
+          "name": "Hwaseong Fortress walk",
+          "ko": "수원화성 산책",
+          "kind": "Filming area",
+          "scene": "Hwaseong’s surroundings connect the couple’s home locations and date settings. This stop explores the filming area rather than a single confirmed camera position.",
+          "query": "수원 화홍문",
+          "sceneTitle": "Walking through their old neighborhood",
+          "visit": "Take the fortress-side path through Hwahongmun toward Jidong.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177328"
+        },
+        {
+          "name": "Yeon-su’s house lane",
+          "ko": "지동 벽화마을 · 창룡문로 75-5",
+          "kind": "Filming location",
+          "scene": "The green gate beside Jidong Supermarket appears as Yeon-su’s home. The nearby rainbow mural recurs in neighborhood scenes.",
+          "query": "수원 창룡문로 75-5",
+          "sceneTitle": "Yeon-su’s familiar green gate",
+          "visit": "Keep the lane and residents’ doorways clear when taking a photo.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177328"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · filming locations & photo",
+          "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=508&vcontsId=177328"
+        },
+        {
+          "label": "CIEE · first-person fan visit",
+          "url": "https://www.ciee.org/go-abroad/college-study-abroad/blog/visiting-k-drama-our-beloved-summer-geu-hae-ulineun-filming-locations"
+        }
+      ]
+    },
+    {
+      "id": "itaewon",
+      "title": "Itaewon Class",
+      "ko": "이태원 클라쓰",
+      "course": "A night of new beginnings",
+      "hook": "Find DanBam, then take in Saeroyi’s city skyline.",
+      "duration": "2–3 hours",
+      "transport": "Walk",
+      "start": "Former DanBam filming exterior, Itaewon",
+      "image": "kto-24",
+      "imageType": "Location photo",
+      "imageCaption": "The DanBam filming exterior as shown in KTO’s guide",
+      "credit": "VISITKOREA promotional footage · location image",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+      "audienceType": "Overseas viewing",
+      "audience": "Netflix included Itaewon Class among the K-dramas competing strongly in Southeast Asian Top 10 lists in 2020.",
+      "audienceKo": "동남아 시청 반응이 확인되는 작품이다. 짧은 야간 산책에 식사를 붙이기 쉬워 첫 한국 여행객에게 제안할 만하다.",
+      "visitNote": "The photographed business name and façade may have changed. The course does not assume the filming restaurant still operates.",
+      "stops": [
+        {
+          "name": "DanBam filming exterior",
+          "ko": "단밤 촬영 외관 · 녹사평대로40길 57",
+          "kind": "Filming location",
+          "scene": "Saeroyi and Soo-ah meet again outside the pub at the end of episode 2. The exterior becomes a familiar backdrop to his new start.",
+          "query": "서울 녹사평대로40길 57",
+          "sceneTitle": "The reunion outside DanBam",
+          "visit": "Match the building at 57 Noksapyeong-daero 40-gil; the current business may differ.",
+          "episode": "Episode 2",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "name": "Noksapyeong footbridge",
+          "ko": "녹사평 육교",
+          "kind": "Filming location",
+          "scene": "On the pedestrian overpass, Saeroyi admits that he needs Yi-seo. The city lights and Namsan Tower frame the scene.",
+          "query": "녹사평 육교",
+          "sceneTitle": "“I need you” above the city",
+          "visit": "Cross the public footbridge and keep its walking lane clear.",
+          "episode": "Episode 6",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · filming locations & photo",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "Netflix · what Asia watched",
+          "url": "https://about.netflix.com/en/news/what-asia-watched"
+        }
+      ]
+    },
+    {
+      "id": "vincenzo",
+      "title": "Vincenzo",
+      "ko": "빈센조",
+      "course": "Back to Geumga Plaza",
+      "hook": "Walk into the plaza, then follow the city after dark.",
+      "duration": "4–5 hours",
+      "transport": "Walk + public transit",
+      "start": "Cheonggye building, Sewoon complex, Seoul",
+      "image": "vincenzo-scene",
+      "placeImage": "vincenzo-place",
+      "imageType": "Drama still",
+      "imageCaption": "Vincenzo at Geumga Plaza",
+      "placeCaption": "Cheonggye building in the Sewoon complex",
+      "credit": "Studio Dragon · still via KTO; location photo via KTO",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808",
+      "audienceType": "Overseas viewing",
+      "audience": "What’s on Netflix’s 2021 review reports sustained Top 10 presence in Vietnam, Japan, Thailand and Malaysia. This is historical viewing evidence, not a current tourism demand count.",
+      "audienceKo": "2021년 해외 넷플릭스 순위 분석에서 아시아 시청 반응을 확인했다. 송중기 팬을 대상으로 도심 코스 수요를 시험할 후보.",
+      "visitNote": "Use public walkways in the working mall. Bank of Korea is an exterior stop; no interior scene access is promised.",
+      "stops": [
+        {
+          "name": "Geumga Plaza exterior",
+          "ko": "청계상가 · 세운상가군",
+          "kind": "Filming location",
+          "scene": "The Cheonggye building in the Sewoon complex doubles as Geumga Plaza, the central setting shared by Vincenzo and its tenants.",
+          "query": "서울 청계상가",
+          "sceneTitle": "Home ground at Geumga Plaza",
+          "visit": "Explore public walkways around the working shopping complex.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        },
+        {
+          "name": "Bank of Korea exterior",
+          "ko": "한국은행 화폐박물관 외관",
+          "kind": "Filming location",
+          "scene": "The Bank of Korea’s historic building provides the setting for Woosang, the law firm allied with Babel.",
+          "query": "한국은행 화폐박물관",
+          "sceneTitle": "The face of Woosang",
+          "visit": "This is an exterior stop. A museum visit does not provide access to the drama’s office sets.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        },
+        {
+          "name": "Seoullo 7017",
+          "ko": "서울로7017",
+          "kind": "Filming location",
+          "scene": "The illuminated elevated walkway is where Vincenzo walks alone through the city at night.",
+          "query": "서울로7017",
+          "sceneTitle": "Vincenzo’s solitary night walk",
+          "visit": "Follow the pedestrian path above the streets near Seoul Station.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · filming locations & stills",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        },
+        {
+          "label": "What’s on Netflix · 2021 overseas viewing analysis",
+          "url": "https://www.whats-on-netflix.com/news/biggest-korean-shows-on-netflix-in-2021/"
+        }
+      ]
+    },
+    {
+      "id": "cloy",
+      "title": "Crash Landing on You",
+      "ko": "사랑의 불시착",
+      "course": "Reunions by the water",
+      "hook": "A reunion bench, a lakeside walk and a second love story.",
+      "duration": "3–4 hours",
+      "transport": "Walk + short local transfer",
+      "start": "Jungangtap Park, Chungju",
+      "image": "kto-11",
+      "imageType": "Location photo",
+      "imageCaption": "Tangeumho Rainbow Road after dark",
+      "credit": "VISITKOREA promotional footage · location image",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+      "audienceType": "Overseas viewing",
+      "audience": "Netflix reported the drama reaching Top 10 lists in the Philippines, Singapore, Taiwan and Thailand.",
+      "audienceKo": "해외 인지도는 높다. 한국 안에서 방문 가능한 재회 장면과 서브 커플의 장면으로 코스를 구성했다.",
+      "visitNote": "Plan travel to Chungju separately. Lighting and lakeside access can change with weather and maintenance.",
+      "stops": [
+        {
+          "name": "Jungangtap Park",
+          "ko": "중앙탑사적공원",
+          "kind": "Filming location",
+          "scene": "Se-ri and Jeong-hyeok reunite with his men at Jungangtap Park during the South Korea part of the story.",
+          "query": "충주 중앙탑사적공원",
+          "sceneTitle": "Reunited with the soldiers",
+          "visit": "Look for the filming bench along the riverside park.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "name": "Tangeumho Rainbow Road",
+          "ko": "탄금호 무지개길",
+          "kind": "Filming location",
+          "scene": "The lakeside bridge is the setting where the second couple share their feelings.",
+          "query": "충주 탄금호 무지개길",
+          "sceneTitle": "Seung-jun and Seo Dan’s confession",
+          "visit": "Walk the bridge around dusk; decorative lighting may vary.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · Korean filming locations & photo",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "Netflix · overseas Top 10 presence",
+          "url": "https://about.netflix.com/en/news/netflix-building-home-of-best-in-class-stories-from-korea"
+        }
+      ]
+    },
+    {
+      "id": "woo",
+      "title": "Extraordinary Attorney Woo",
+      "ko": "이상한 변호사 우영우",
+      "course": "A little Jeju detour",
+      "hook": "A temple path, a window through the rocks and time by the sea.",
+      "duration": "5–6 hours",
+      "transport": "Car or booked driver + walks",
+      "start": "Gwaneumsa Temple, Jeju",
+      "image": "woo-place",
+      "imageType": "Location photo",
+      "imageCaption": "Changkkom’s window-shaped rock",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=396342",
+      "audienceType": "Global viewing",
+      "audience": "Netflix ranked the series first on its weekly non-English TV list for the week of August 15, 2022.",
+      "audienceKo": "글로벌 시청 성과가 있는 작품이다. 제주 출장 에피소드의 장소를 묶되 직접적인 해외 방문 수요는 추가 검증할 후보.",
+      "visitNote": "Travel between the temple and north-coast filming spot by car or booked taxi. Hamdeok Beach can be an optional food break afterward.",
+      "stops": [
+        {
+          "name": "Gwaneumsa Temple",
+          "ko": "관음사",
+          "kind": "Filming location",
+          "scene": "Gwaneumsa plays the fictional Hwangjisa Temple during the legal team’s Jeju business trip.",
+          "query": "제주 관음사",
+          "sceneTitle": "The team’s case at Hwangjisa",
+          "visit": "Walk the approach and temple grounds quietly; it is an active place of worship.",
+          "episode": "Episodes 13–14",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=396342"
+        },
+        {
+          "name": "Changkkom",
+          "ko": "창꼼",
+          "kind": "Filming location",
+          "scene": "At the window-shaped coastal rock, Jung Myeong-seok recalls memories of his wife.",
+          "query": "제주 창꼼",
+          "sceneTitle": "Myeong-seok looks back",
+          "visit": "Look through the opening toward the sea. Stay on accessible paths around the rocks.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=396342"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · official Jeju route & photo",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=396342"
+        },
+        {
+          "label": "Netflix · August 15 weekly Top 10",
+          "url": "https://about.netflix.com/en/news/top-10-week-of-august-15-the-sandman-and-day-shift-top-english-lists"
+        }
+      ]
+    },
+    {
+      "id": "squid",
+      "title": "Squid Game",
+      "ko": "오징어 게임",
+      "course": "Gi-hun’s neighborhood",
+      "hook": "The everyday streets before the games begin.",
+      "duration": "2–3 hours",
+      "transport": "Walk + short local transit",
+      "start": "Baegun Market, Ssangmun-dong, Seoul",
+      "image": "squid-image",
+      "imageType": "Location photo",
+      "imageCaption": "Paldo Dried Seafood, the shop used as Sang-woo’s mother’s store",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?menuSn=862&vcontsId=200823",
+      "audienceType": "Global viewing",
+      "audience": "Netflix reported Season 2 reaching the Top 10 in 93 countries in the week beginning December 30, 2024. This itinerary follows Season 1’s real neighborhood locations.",
+      "audienceKo": "해외 인지도가 높은 입구 상품 후보다. 시장과 편의점 장면을 중심으로 하며 게임장 세트 방문을 약속하지 않는다.",
+      "visitNote": "These are working shops. Confirm the current business and get permission before photographing staff or customers.",
+      "stops": [
+        {
+          "name": "Baegun Market / Paldo Dried Seafood",
+          "ko": "백운시장 · 팔도건어물",
+          "kind": "Filming location",
+          "scene": "Paldo Dried Seafood doubles as Sang-woo’s mother’s shop, which Gi-hun visits in the neighborhood outside the games.",
+          "query": "백운시장 팔도건어물",
+          "sceneTitle": "Sang-woo’s mother at the market",
+          "visit": "Find the storefront inside Baegun Market; ask before photographing people.",
+          "episode": "Season 1",
+          "source": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?menuSn=862&vcontsId=200823"
+        },
+        {
+          "name": "CU Ssangmun Uicheon filming site",
+          "ko": "CU 쌍문우이천점 촬영 자리",
+          "kind": "Filming location",
+          "scene": "After the first game, Gi-hun and Il-nam meet again outside this convenience store and talk over noodles and soju.",
+          "query": "서울 우이천로39길 11",
+          "sceneTitle": "Ramyeon with Player 001",
+          "visit": "View the storefront from the public pavement. The business and outdoor seating may have changed.",
+          "episode": "Season 1",
+          "source": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?menuSn=862&vcontsId=200823"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · market & convenience-store locations",
+          "url": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?menuSn=862&vcontsId=200823"
+        },
+        {
+          "label": "Netflix · global reach",
+          "url": "https://www.netflix.com/tudum/articles/top-10-dec-30-2024"
+        }
+      ]
+    },
+    {
+      "id": "okay",
+      "title": "It’s Okay to Not Be Okay",
+      "ko": "사이코지만 괜찮아",
+      "course": "A quiet day by the sea",
+      "hook": "The hospital garden and the beach from their escape.",
+      "duration": "3–4 hours",
+      "transport": "Local taxi + walks",
+      "start": "Secret Blue café site, Goseong",
+      "image": "kto-23",
+      "imageType": "Location photo",
+      "imageCaption": "Ayajin Beach",
+      "credit": "VISITKOREA promotional footage · location image",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+      "audienceType": "Overseas viewing",
+      "audience": "Netflix said the show spent over 100 days in the Top 10 in Malaysia, the Philippines, Singapore and Thailand in 2020.",
+      "audienceKo": "동남아 장기 시청 반응이 확인된다. 바다와 카페를 좋아하는 팬에게 제안할 수 있지만 현재 현장 이용 조건은 재확인이 필요하다.",
+      "visitNote": "Check Secret Blue’s current operation and garden access before travel. Interior access and surviving set props are not confirmed.",
+      "stops": [
+        {
+          "name": "Secret Blue café site",
+          "ko": "시크릿블루 · 괜찮은 병원 촬영지",
+          "kind": "Filming location",
+          "scene": "The café grounds play the hospital exterior and garden, a recurring setting around Gang-tae’s work.",
+          "query": "고성 시크릿블루",
+          "sceneTitle": "The garden at OK Psychiatric Hospital",
+          "visit": "Check the current café operation and garden access before visiting.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "name": "Ayajin Beach",
+          "ko": "아야진해변",
+          "kind": "Filming location",
+          "scene": "At the end of episode 8, Gang-tae tells Mun-yeong he wants to take a trip with her, with Ayajin’s sea in view.",
+          "query": "아야진해변",
+          "sceneTitle": "A smile and a promise to get away",
+          "visit": "End with a walk on the public beachfront.",
+          "episode": "Episode 8",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · filming locations & photo",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "Netflix · 100-day overseas Top 10 presence",
+          "url": "https://about.netflix.com/en/news/what-asia-watched"
+        }
+      ]
+    }
+  ]
+}

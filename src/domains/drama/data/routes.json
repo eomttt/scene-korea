@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-09-24",
-  "method": "Editorial itinerary concepts for international fans. Selection order is not a popularity ranking. Local durations are estimates including photo and rest time; travel to the first stop is excluded. Filming evidence does not confirm current business hours or public access. Social posts are qualitative examples, not a representative survey.",
+  "method": "Thirty editorial story itineraries for international drama and film fans. A title can have multiple story routes. Scene evidence and visitor advice are separated; durations are estimates, not live journey times.",
   "routes": [
     {
       "id": "lovely",
@@ -79,7 +79,8 @@
           "label": "TIME · best K-dramas of 2024",
           "url": "https://time.com/7201080/best-k-dramas-2024/"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "hometown",
@@ -153,7 +154,8 @@
           "label": "Reddit · visiting without a rental car",
           "url": "https://www.reddit.com/r/koreatravel/comments/1ev0bqj/"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "goblin",
@@ -210,7 +212,8 @@
           "label": "Viki · international fan reviews",
           "url": "https://www.viki.com/tv/31706c-goblin"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "summer",
@@ -274,7 +277,8 @@
           "label": "CIEE · first-person fan visit",
           "url": "https://www.ciee.org/go-abroad/college-study-abroad/blog/visiting-k-drama-our-beloved-summer-geu-hae-ulineun-filming-locations"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "itaewon",
@@ -327,7 +331,8 @@
           "label": "Netflix · what Asia watched",
           "url": "https://about.netflix.com/en/news/what-asia-watched"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "vincenzo",
@@ -393,7 +398,8 @@
           "label": "What’s on Netflix · 2021 overseas viewing analysis",
           "url": "https://www.whats-on-netflix.com/news/biggest-korean-shows-on-netflix-in-2021/"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "cloy",
@@ -446,7 +452,8 @@
           "label": "Netflix · overseas Top 10 presence",
           "url": "https://about.netflix.com/en/news/netflix-building-home-of-best-in-class-stories-from-korea"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "woo",
@@ -499,7 +506,8 @@
           "label": "Netflix · August 15 weekly Top 10",
           "url": "https://about.netflix.com/en/news/top-10-week-of-august-15-the-sandman-and-day-shift-top-english-lists"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "squid",
@@ -552,7 +560,8 @@
           "label": "Netflix · global reach",
           "url": "https://www.netflix.com/tudum/articles/top-10-dec-30-2024"
         }
-      ]
+      ],
+      "format": "Drama"
     },
     {
       "id": "okay",
@@ -605,7 +614,1041 @@
           "label": "Netflix · 100-day overseas Top 10 presence",
           "url": "https://about.netflix.com/en/news/what-asia-watched"
         }
-      ]
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "queen-of-tears-seoul",
+      "title": "Queen of Tears",
+      "ko": "눈물의 여왕",
+      "course": "Inside the world of Queens",
+      "hook": "A department store empire and the garden behind the family’s grand home.",
+      "duration": "4–5 hours",
+      "transport": "Subway + bus or taxi",
+      "start": "The Hyundai Seoul",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Inside the world of Queens",
+      "credit": "",
+      "imageSource": "https://mohazi.net/en/magazine/queen-of-tears-korea-filming-locations/",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "These are public venues used for selected shots; neither contains the complete fictional mansion or store.",
+      "stops": [
+        {
+          "name": "The Hyundai Seoul",
+          "ko": "더현대 서울",
+          "kind": "Filming location",
+          "sceneTitle": "Hae-in’s department store",
+          "scene": "The atrium and retail spaces stand in for Queens Department Store, where Hae-in leads the family business.",
+          "visit": "Explore the public shopping floors. The fictional rooftop is a separate filming location.",
+          "source": "https://mohazi.net/en/magazine/queen-of-tears-korea-filming-locations/",
+          "episode": "",
+          "query": "더현대 서울"
+        },
+        {
+          "name": "Korean Stone Art Museum",
+          "ko": "우리옛돌박물관",
+          "kind": "Filming location",
+          "sceneTitle": "The Queens family estate",
+          "scene": "The museum’s stone garden and exterior were used for the Queens family mansion.",
+          "visit": "Check museum admission before travelling uphill. Follow visitor paths in the garden.",
+          "source": "https://mohazi.net/en/magazine/queen-of-tears-korea-filming-locations/",
+          "episode": "",
+          "query": "우리옛돌박물관"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://mohazi.net/en/magazine/queen-of-tears-korea-filming-locations/"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "business-proposal-date",
+      "title": "Business Proposal",
+      "ko": "사내맞선",
+      "course": "When the fake date becomes real",
+      "hook": "Flowers in the rain, then a carefree theme-park date.",
+      "duration": "6–8 hours",
+      "transport": "Subway + walks",
+      "start": "Yangjae Flower Market",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "When the fake date becomes real",
+      "credit": "",
+      "imageSource": "https://www.klook.com/en-MY/blog/business-proposal-kdrama-filming-locations/",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Allow a full day if you want rides. Flowers and theme-park admission are separate purchases.",
+      "stops": [
+        {
+          "name": "Yangjae Flower Market",
+          "ko": "양재꽃시장",
+          "kind": "Filming location",
+          "sceneTitle": "A bouquet in the rain",
+          "scene": "Tae-mu buys Ha-ri flowers while they shelter from the rain at the flower market.",
+          "visit": "Start in the morning and check which flower-market halls are open.",
+          "source": "https://www.klook.com/en-MY/blog/business-proposal-kdrama-filming-locations/",
+          "episode": "",
+          "query": "양재꽃시장"
+        },
+        {
+          "name": "Lotte World Adventure",
+          "ko": "롯데월드 어드벤처",
+          "kind": "Filming location",
+          "sceneTitle": "Bumper cars and corn dogs",
+          "scene": "Ha-ri and Tae-mu’s amusement-park date brings them to the bumper cars and merry-go-round.",
+          "visit": "Admission is required. Ride queues can add several hours.",
+          "source": "https://www.klook.com/en-MY/blog/business-proposal-kdrama-filming-locations/",
+          "episode": "",
+          "query": "롯데월드 어드벤처"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://www.klook.com/en-MY/blog/business-proposal-kdrama-filming-locations/"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "king-the-land-jeju",
+      "title": "King the Land",
+      "ko": "킹더랜드",
+      "course": "Away from the hotel, together",
+      "hook": "An island bicycle date and a photo beneath a heart-shaped tree.",
+      "duration": "Full day",
+      "transport": "Reserved car or taxi + ferry",
+      "start": "Gapado Island",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Away from the hotel, together",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=337100",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Gapado ferries depend on weather. Leave substantial driving time between western and eastern Jeju.",
+      "stops": [
+        {
+          "name": "Gapado Island",
+          "ko": "가파도",
+          "kind": "Filming location",
+          "sceneTitle": "A bicycle date on the island",
+          "scene": "Gu Won and Sa-rang’s bicycle date unfolds on Gapado’s quiet island roads.",
+          "visit": "Book a morning ferry and check return sailings before renting bicycles.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=337100",
+          "episode": "",
+          "query": "가파도"
+        },
+        {
+          "name": "Sono Calm Jeju",
+          "ko": "소노캄 제주",
+          "kind": "Filming location",
+          "sceneTitle": "Their hotel promotional shoot",
+          "scene": "The pair film King Hotel’s promotional video here and pose at the heart-shaped tree.",
+          "visit": "Ask the resort about garden access for day visitors before making the cross-island drive.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=198495",
+          "episode": "",
+          "query": "소노캄 제주"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=337100"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "twenty-five-jeonju",
+      "title": "Twenty-Five Twenty-One",
+      "ko": "스물다섯 스물하나",
+      "course": "The summer we were fearless",
+      "hook": "A white gate, a tunnel and the little shop where friends gathered.",
+      "duration": "3–4 hours",
+      "transport": "Walk + short taxi ride",
+      "start": "Hee-do’s house exterior",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "The summer we were fearless",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=383287&menuSn=217",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "The story is set in Seoul, but these scenes were filmed in Jeonju.",
+      "stops": [
+        {
+          "name": "Hee-do’s house exterior",
+          "ko": "전주 오목대길 5-19",
+          "kind": "Filming location",
+          "sceneTitle": "The gate where they first meet",
+          "scene": "The white-gated house near the hanok village is where Hee-do and Yi-jin first meet.",
+          "visit": "View the gate from the public lane; do not enter the former guesthouse.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=383287&menuSn=217",
+          "episode": "",
+          "query": "전주 오목대길 5-19"
+        },
+        {
+          "name": "Hanbyeok Tunnel",
+          "ko": "전주 한벽터널",
+          "kind": "Filming location",
+          "sceneTitle": "Love and goodbye in the same tunnel",
+          "scene": "The tunnel becomes a recurring place for Hee-do and Yi-jin to share feelings, and later to part.",
+          "visit": "Stay aware of passing traffic and keep the tunnel entrance clear.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=383287&menuSn=217",
+          "episode": "",
+          "query": "전주 한벽터널"
+        },
+        {
+          "name": "Ahyeon Supermarket set",
+          "ko": "전주 아현슈퍼",
+          "kind": "Recreated filming set",
+          "sceneTitle": "A place to sit with friends",
+          "scene": "The group’s neighborhood store and bench were recreated here after filming ended.",
+          "visit": "Treat this as a reconstructed fan stop and check current access.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=383287&menuSn=217",
+          "episode": "",
+          "query": "전주 아현슈퍼"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=383287&menuSn=217"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "true-beauty-secret",
+      "title": "True Beauty",
+      "ko": "여신강림",
+      "course": "A secret shared between the pages",
+      "hook": "Follow Ju-kyung and Su-ho from the comic shop to the walk home.",
+      "duration": "2–3 hours",
+      "transport": "Walk",
+      "start": "Prince Comic Rental Shop exterior",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "A secret shared between the pages",
+      "credit": "",
+      "imageSource": "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225854",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Bukchon is a residential neighborhood. Follow posted visitor hours and stay on public streets.",
+      "stops": [
+        {
+          "name": "Prince Comic Rental Shop exterior",
+          "ko": "서울 윤보선길 31",
+          "kind": "Filming location",
+          "sceneTitle": "Where they meet without pretences",
+          "scene": "This hanok storefront becomes the comic rental shop where Ju-kyung and Su-ho repeatedly meet.",
+          "visit": "The building is a real shop. Ask before taking photographs inside.",
+          "source": "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225854",
+          "episode": "",
+          "query": "서울 윤보선길 31"
+        },
+        {
+          "name": "Yunboseon-gil stone-wall lane",
+          "ko": "서울 윤보선길",
+          "kind": "Filming location",
+          "sceneTitle": "Seo-jun’s motorcycle lane",
+          "scene": "The stone-wall road beside the comic shop appears along Seo-jun’s motorcycle route.",
+          "visit": "Keep to the side of the narrow public lane.",
+          "source": "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225854",
+          "episode": "",
+          "query": "서울 윤보선길"
+        },
+        {
+          "name": "Sosho Gallery exterior",
+          "ko": "서울 북촌로6길 32-4",
+          "kind": "Filming location",
+          "sceneTitle": "Su-ho walks Ju-kyung home",
+          "scene": "The gallery exterior stands in for Ju-kyung’s house during their walks home.",
+          "visit": "Plan for an exterior view only. Respect residential quiet hours.",
+          "source": "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225854",
+          "episode": "",
+          "query": "서울 북촌로6길 32-4"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://big5chinese.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225854"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "hotel-del-luna-memories",
+      "title": "Hotel del Luna",
+      "ko": "호텔 델루나",
+      "course": "The places that remember",
+      "hook": "Trace the hotel’s past, then visit a library of unfinished wishes.",
+      "duration": "3–4 hours",
+      "transport": "Subway + walks",
+      "start": "Hotel Seine café",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "The places that remember",
+      "credit": "",
+      "imageSource": "https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "The two places represent different memories in the drama. Allow subway travel between Jongno and Jamsil.",
+      "stops": [
+        {
+          "name": "Hotel Seine café",
+          "ko": "호텔세느장",
+          "kind": "Filming location",
+          "sceneTitle": "A photograph from Man-wol’s past",
+          "scene": "Hotel Seine appears in the historical photographs that record the changing life of Man-wol’s hotel.",
+          "visit": "It is a café, not the full hotel set. Order if you use its seating.",
+          "source": "https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701",
+          "episode": "",
+          "query": "호텔세느장"
+        },
+        {
+          "name": "Seoul Book Bogo",
+          "ko": "서울책보고",
+          "kind": "Filming location",
+          "sceneTitle": "The grandmother who wanted to read",
+          "scene": "The arched secondhand-bookshop aisles appear in the story of the grandmother ghost who regrets missing an education.",
+          "visit": "Check the bookstore’s current visitor notice before travelling across town.",
+          "source": "https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701",
+          "episode": "Episode 2",
+          "query": "서울책보고"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "my-love-star-seoul",
+      "title": "My Love from the Star",
+      "ko": "별에서 온 그대",
+      "course": "An alien’s very human Seoul",
+      "hook": "A trusted friend over coffee, then a promise above the city.",
+      "duration": "4–5 hours",
+      "transport": "Subway + bus or cable car",
+      "start": "Hakrim Dabang",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "An alien’s very human Seoul",
+      "credit": "",
+      "imageSource": "https://english.visitseoul.net/tours/my-love-from-the-star-itinerary-en_/10079",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Use the tower’s current access information for buses, cable cars and observation-deck tickets.",
+      "stops": [
+        {
+          "name": "Hakrim Dabang",
+          "ko": "학림다방",
+          "kind": "Filming location",
+          "sceneTitle": "Min-jun and Lawyer Jang’s refuge",
+          "scene": "Min-jun meets his longtime friend Lawyer Jang in this old coffeehouse to talk and play games.",
+          "visit": "This is an operating café with stairs. Order before settling in.",
+          "source": "https://english.visitseoul.net/tours/my-love-from-the-star-itinerary-en_/10079",
+          "episode": "",
+          "query": "학림다방"
+        },
+        {
+          "name": "N Seoul Tower",
+          "ko": "남산서울타워",
+          "kind": "Filming location",
+          "sceneTitle": "A promise to stay together",
+          "scene": "Song-yi and Min-jun embrace at the tower as their romance faces the limits of his time on Earth.",
+          "visit": "The outdoor terrace and the paid observatory have different access arrangements.",
+          "source": "https://english.visitseoul.net/hallyu/K-Drama--My-Love-from-the-Star-EN/10644",
+          "episode": "Episode 16",
+          "query": "남산서울타워"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitseoul.net/tours/my-love-from-the-star-itinerary-en_/10079"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "mr-sunshine-hanseong",
+      "title": "Mr. Sunshine",
+      "ko": "미스터 션샤인",
+      "course": "One afternoon in old Hanseong",
+      "hook": "Walk the streets of a changing country, then pause at the Glory Hotel.",
+      "duration": "2–3 hours",
+      "transport": "Walk within one studio",
+      "start": "Sunshine Studio streets",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "One afternoon in old Hanseong",
+      "credit": "",
+      "imageSource": "https://k-mice.visitkorea.or.kr/uniquevenue/main/sub.kto?lang=en&uvid=86",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "This is a walk through a purpose-built set, not a surviving neighborhood from the drama’s period.",
+      "stops": [
+        {
+          "name": "Sunshine Studio streets",
+          "ko": "논산 선샤인스튜디오",
+          "kind": "Filming set",
+          "sceneTitle": "The city where their paths cross",
+          "scene": "These purpose-built streets recreate early twentieth-century Hanseong for the drama’s encounters and political tensions.",
+          "visit": "Buy a studio ticket and follow the visitor route through the preserved set.",
+          "source": "https://k-mice.visitkorea.or.kr/uniquevenue/main/sub.kto?lang=en&uvid=86",
+          "episode": "",
+          "query": "논산 선샤인스튜디오"
+        },
+        {
+          "name": "Glory Hotel set",
+          "ko": "논산 선샤인스튜디오 글로리호텔",
+          "kind": "Filming set",
+          "sceneTitle": "Kudo Hina’s gathering place",
+          "scene": "The Glory Hotel set represents Hina’s hotel, a meeting point for characters whose loyalties do not always align.",
+          "visit": "Both stops are inside the same studio. Ask which interiors are open that day.",
+          "source": "https://k-mice.visitkorea.or.kr/uniquevenue/main/sub.kto?lang=en&uvid=86",
+          "episode": "",
+          "query": "논산 선샤인스튜디오 글로리호텔"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://k-mice.visitkorea.or.kr/uniquevenue/main/sub.kto?lang=en&uvid=86"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "kingdom-palace",
+      "title": "Kingdom",
+      "ko": "킹덤",
+      "course": "Secrets behind the palace gates",
+      "hook": "Enter the royal courts where a hidden illness becomes a struggle for power.",
+      "duration": "3–4 hours",
+      "transport": "Walk",
+      "start": "Tongmyeongjeon, Changgyeonggung",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Secrets behind the palace gates",
+      "credit": "",
+      "imageSource": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "These halls are real heritage sites. The action sequences also used purpose-built sets elsewhere.",
+      "stops": [
+        {
+          "name": "Tongmyeongjeon, Changgyeonggung",
+          "ko": "창경궁 통명전",
+          "kind": "Filming location",
+          "sceneTitle": "The queen’s court",
+          "scene": "Tongmyeongjeon represents the queen’s quarters at the center of the palace conspiracy.",
+          "visit": "Check palace closure days and view the hall from designated visitor areas.",
+          "source": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s",
+          "episode": "",
+          "query": "창경궁 통명전"
+        },
+        {
+          "name": "Injeongjeon, Changdeokgung",
+          "ko": "창덕궁 인정전",
+          "kind": "Filming location",
+          "sceneTitle": "Power in the throne hall",
+          "scene": "The real palace hall provides a setting for Kingdom’s royal-court scenes and the struggle over the throne.",
+          "visit": "A separate palace admission may be needed. This route does not require a Secret Garden tour.",
+          "source": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s",
+          "episode": "",
+          "query": "창덕궁 인정전"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "reply-1988-first-love",
+      "title": "Reply 1988",
+      "ko": "응답하라 1988",
+      "course": "Coffee, bread and first love",
+      "hook": "Two café dates from the quieter side of growing up.",
+      "duration": "3–4 hours",
+      "transport": "Subway + walks",
+      "start": "Taegeukdang main bakery",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Coffee, bread and first love",
+      "credit": "",
+      "imageSource": "https://english.visitseoul.net/hallyu/Finding-the-Traces-of-Reply-1988_/35497",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "These are the real date locations, rather than the demolished neighborhood set.",
+      "stops": [
+        {
+          "name": "Taegeukdang main bakery",
+          "ko": "태극당 장충동 본점",
+          "kind": "Filming location",
+          "sceneTitle": "Sun-woo and Bo-ra’s coffee date",
+          "scene": "The bakery becomes the café where Sun-woo and Bo-ra drink Vienna coffee together.",
+          "visit": "Visit the original Jangchung-dong branch. Its interior has changed since filming.",
+          "source": "https://english.visitseoul.net/hallyu/Finding-the-Traces-of-Reply-1988_/35497",
+          "episode": "Episode 15",
+          "query": "태극당 장충동 본점"
+        },
+        {
+          "name": "Brown Hands Dogok",
+          "ko": "브라운핸즈 도곡",
+          "kind": "Filming location",
+          "sceneTitle": "Jung-bong and Mi-ok’s first kiss",
+          "scene": "This café is the setting for Jung-bong and Mi-ok’s date and first kiss.",
+          "visit": "Confirm current opening hours before crossing the river; order if you use the café.",
+          "source": "https://english.visitseoul.net/hallyu/Finding-the-Traces-of-Reply-1988_/35497",
+          "episode": "",
+          "query": "브라운핸즈 도곡"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitseoul.net/hallyu/Finding-the-Traces-of-Reply-1988_/35497"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "alchemy-return",
+      "title": "Alchemy of Souls",
+      "ko": "환혼",
+      "course": "Find your way back to Daeho",
+      "hook": "From the streets of the magical city to a reunion beside the stream.",
+      "duration": "5–6 hours",
+      "transport": "Car or booked taxi + walks",
+      "start": "Mungyeongsaejae Open Set",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Find your way back to Daeho",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=399166&menuSn=217",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Use the Mungyeong valley in the map search; other places have the same name.",
+      "stops": [
+        {
+          "name": "Mungyeongsaejae Open Set",
+          "ko": "문경새재 오픈세트장",
+          "kind": "Filming set",
+          "sceneTitle": "The fictional city of Daeho",
+          "scene": "The historical film set stands in for Daeho, the city where the characters’ altered fates meet.",
+          "visit": "Check studio access and allow time to walk in from the park entrance.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=399166&menuSn=217",
+          "episode": "",
+          "query": "문경새재 오픈세트장"
+        },
+        {
+          "name": "Seonyudong Valley, Mungyeong",
+          "ko": "문경 선유동계곡",
+          "kind": "Filming location",
+          "sceneTitle": "Jang Uk finds Mu-deok",
+          "scene": "Jang Uk finds Mu-deok and embraces her beside the valley stream.",
+          "visit": "Stay on designated paths. Rocks are slippery, and rain can change access.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=399166&menuSn=217",
+          "episode": "",
+          "query": "문경 선유동계곡"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=399166&menuSn=217"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "glory-next-move",
+      "title": "The Glory",
+      "ko": "더 글로리",
+      "course": "Every move has a consequence",
+      "hook": "Follow Dong-eun from patient preparation to a reversal of power.",
+      "duration": "2–3 hours",
+      "transport": "Walk + short taxi ride",
+      "start": "Cheongju Jungang Park",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Every move has a consequence",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=335052",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "The temple is an active place of worship. Scene descriptions reveal story developments.",
+      "stops": [
+        {
+          "name": "Cheongju Jungang Park",
+          "ko": "청주 중앙공원",
+          "kind": "Filming location",
+          "sceneTitle": "Learning the game of Go",
+          "scene": "Dong-eun and Yeo-jung build a bond as he teaches her baduk beneath the park’s trees.",
+          "visit": "Use the public park paths and give local players space.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=335052",
+          "episode": "",
+          "query": "청주 중앙공원"
+        },
+        {
+          "name": "Yonghwasa Temple, Cheongju",
+          "ko": "청주 용화사",
+          "kind": "Filming location",
+          "sceneTitle": "Hye-jeong asks for forgiveness",
+          "scene": "Hye-jeong kneels before Dong-eun and begs for forgiveness at this temple.",
+          "visit": "Keep voices low and avoid photographing worshippers.",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=335052",
+          "episode": "",
+          "query": "청주 용화사"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=335052"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "camellia-ongsan",
+      "title": "When the Camellia Blooms",
+      "ko": "동백꽃 필 무렵",
+      "course": "A new life in Ongsan",
+      "hook": "Find Dong-baek’s bar and the neighborhood overlooking the port.",
+      "duration": "2–3 hours",
+      "transport": "Walk",
+      "start": "Camellia bar exterior",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "A new life in Ongsan",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223420",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Ongsan is fictional; the real neighborhood is Guryongpo in Pohang.",
+      "stops": [
+        {
+          "name": "Camellia bar exterior",
+          "ko": "포항 구룡포 까멜리아",
+          "kind": "Filming location",
+          "sceneTitle": "Dong-baek opens her door",
+          "scene": "This storefront stands in for Camellia, the bar at the heart of Dong-baek’s new life in the fictional town of Ongsan.",
+          "visit": "Businesses and signs may change. Check visitor access and photograph from public space.",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223420",
+          "episode": "",
+          "query": "포항 구룡포 까멜리아"
+        },
+        {
+          "name": "Guryongpo Park steps",
+          "ko": "구룡포공원 계단",
+          "kind": "Filming location",
+          "sceneTitle": "The town around Dong-baek",
+          "scene": "The park steps above the port are one of the recognizable neighborhood backdrops of the drama.",
+          "visit": "Expect a stair climb and leave room for residents passing through.",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223420",
+          "episode": "",
+          "query": "구룡포공원 계단"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=223420"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "parasite-first-job",
+      "title": "Parasite",
+      "ko": "기생충",
+      "course": "The job that changed everything",
+      "hook": "Begin at a neighborhood shop, then follow the peach up the stairs.",
+      "duration": "1–2 hours",
+      "transport": "Walk",
+      "start": "Doijissal Supermarket exterior",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "The job that changed everything",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "The Park house and the Kim basement apartment were constructed sets; this walk does not visit those homes.",
+      "stops": [
+        {
+          "name": "Doijissal Supermarket exterior",
+          "ko": "돼지쌀슈퍼 마포구 손기정로",
+          "kind": "Filming location",
+          "sceneTitle": "The opportunity arrives",
+          "scene": "The neighborhood shop appears near the Kim family’s home as Ki-woo’s tutoring opportunity sets the story in motion.",
+          "visit": "Check the storefront from the street; it is not a movie-set attraction.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334",
+          "episode": "",
+          "query": "돼지쌀슈퍼 마포구 손기정로"
+        },
+        {
+          "name": "Songijeong-ro stairs",
+          "ko": "손기정로 계단 · 서울 마포구 손기정로6길 3",
+          "kind": "Filming location",
+          "sceneTitle": "Ki-jung carries the peach",
+          "scene": "Ki-jung climbs these stairs with the peach used in the family’s plan to secure another job.",
+          "visit": "The nearby stairs are part of a residential lane. Keep doorways clear.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334",
+          "episode": "",
+          "query": "서울 마포구 손기정로6길 3"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334"
+        }
+      ],
+      "format": "Film"
+    },
+    {
+      "id": "parasite-rain",
+      "title": "Parasite",
+      "ko": "기생충",
+      "course": "The long way down in the rain",
+      "hook": "Follow the family’s escape through stairs, a tunnel and a changing city.",
+      "duration": "3–4 hours",
+      "transport": "Bus or taxi + steep walks",
+      "start": "Jahamun Tunnel stairs",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "The long way down in the rain",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "The film edits distant locations into one journey. Travel between the two neighborhoods is needed.",
+      "stops": [
+        {
+          "name": "Jahamun Tunnel stairs",
+          "ko": "서울 종로구 자하문로 219",
+          "kind": "Filming location",
+          "sceneTitle": "Leaving the Park family’s world",
+          "scene": "Ki-taek and his family descend toward the tunnel and pass through the pouring rain on their way home.",
+          "visit": "Visit in dry daylight. Use the pedestrian path and keep away from the roadway.",
+          "source": "https://english.visitseoul.net/attractions/Jahamun-Tunnel/ENP037158",
+          "episode": "",
+          "query": "서울 종로구 자하문로 219"
+        },
+        {
+          "name": "Changsin-dong filming alleys",
+          "ko": "창신동 골목 · 서울 종로구 지봉로11길 38",
+          "kind": "Filming location",
+          "sceneTitle": "The descent continues",
+          "scene": "The film uses these steep neighborhood steps during the family’s rain-soaked return toward their flooded home.",
+          "visit": "The map points to the filming-area lanes; do not enter private stairs or houses.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334",
+          "episode": "",
+          "query": "서울 종로구 지봉로11길 38"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334"
+        }
+      ],
+      "format": "Film"
+    },
+    {
+      "id": "decision-to-leave-chase",
+      "title": "Decision to Leave",
+      "ko": "헤어질 결심",
+      "course": "Chasing shadows above Busan",
+      "hook": "A detective’s pursuit through a city built on steep hills.",
+      "duration": "2–3 hours",
+      "transport": "Steep walks",
+      "start": "Choryang Ibagu-gil area",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Chasing shadows above Busan",
+      "credit": "",
+      "imageSource": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "This route focuses on the chase sequence. It does not include the film’s distant temple and beach locations.",
+      "stops": [
+        {
+          "name": "Choryang Ibagu-gil area",
+          "ko": "초량 이바구길",
+          "kind": "Filming location",
+          "sceneTitle": "A chase that climbs the city",
+          "scene": "The chase sequence uses the neighborhood’s slopes and narrow lanes as the detective follows a suspect uphill.",
+          "visit": "Take breaks on the climb. This is a neighborhood walk rather than a guided film set.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+          "episode": "",
+          "query": "초량 이바구길"
+        },
+        {
+          "name": "Chowon Apartment exterior",
+          "ko": "부산 중구 영초길 135-9",
+          "kind": "Filming location",
+          "sceneTitle": "Where the pursuit ends",
+          "scene": "The pursuit reaches the stairs and rooftop surroundings of Chowon Apartment, where the detective catches the suspect.",
+          "visit": "View from public lanes only. Rooftop access is not part of this route.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+          "episode": "",
+          "query": "부산 중구 영초길 135-9"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414"
+        }
+      ],
+      "format": "Film"
+    },
+    {
+      "id": "pachinko-homecoming",
+      "title": "Pachinko",
+      "ko": "파친코",
+      "course": "Sunja’s shore, then and now",
+      "hook": "Two shores connect the girl who left with the woman who returns.",
+      "duration": "3–4 hours",
+      "transport": "Bus or taxi + coastal walks",
+      "start": "Taewon Pebble Beach, Taejongdae",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Sunja’s shore, then and now",
+      "credit": "",
+      "imageSource": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Both stops are on Yeongdo. The coastal landscape remains, while the period village was dressed for filming.",
+      "stops": [
+        {
+          "name": "Taewon Pebble Beach, Taejongdae",
+          "ko": "태종대 태원자갈마당",
+          "kind": "Filming location",
+          "sceneTitle": "Sunja’s childhood shore",
+          "scene": "Taejongdae and its pebble shore depict young Sunja’s hometown and the place where she works.",
+          "visit": "Check Taejongdae trail access and avoid rocks near rough water.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+          "episode": "",
+          "query": "태종대 태원자갈마당"
+        },
+        {
+          "name": "Gamji Beach",
+          "ko": "영도 감지해변",
+          "kind": "Filming location",
+          "sceneTitle": "Coming home after a lifetime",
+          "scene": "Older Sunja returns to the coast with her son in a scene filled with memories of home.",
+          "visit": "Use public access paths and leave time to sit by the sea.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414",
+          "episode": "",
+          "query": "영도 감지해변"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1414"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "startup-dream",
+      "title": "Start-Up",
+      "ko": "스타트업",
+      "course": "The day a dream becomes a company",
+      "hook": "Explore the two real places edited together as Sandbox.",
+      "duration": "4–5 hours",
+      "transport": "Subway or bus + walks",
+      "start": "Oil Tank Culture Park",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "The day a dream becomes a company",
+      "credit": "",
+      "imageSource": "https://english.visitseoul.net/hallyu/Seoul-as-Seen-in-the-Romantic-TV-Series-Start-Up_/36655",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Sandbox is fictional. Its screen geography combines separate places in Seoul.",
+      "stops": [
+        {
+          "name": "Oil Tank Culture Park",
+          "ko": "문화비축기지",
+          "kind": "Filming location",
+          "sceneTitle": "Inside the world of Sandbox",
+          "scene": "The converted oil tanks provide filming spaces for the start-up incubator where the young founders pursue their ambitions.",
+          "visit": "Check which tanks and exhibitions are open on the day.",
+          "source": "https://english.visitseoul.net/hallyu/Seoul-as-Seen-in-the-Romantic-TV-Series-Start-Up_/36655",
+          "episode": "",
+          "query": "문화비축기지"
+        },
+        {
+          "name": "Nodeul Island",
+          "ko": "노들섬",
+          "kind": "Filming location",
+          "sceneTitle": "The island of new beginnings",
+          "scene": "Nodeul Island supplies Sandbox’s island setting, connecting the characters’ business dreams with the Han River.",
+          "visit": "Check current construction and event access before visiting.",
+          "source": "https://english.visitseoul.net/hallyu/Seoul-as-Seen-in-the-Romantic-TV-Series-Start-Up_/36655",
+          "episode": "",
+          "query": "노들섬"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitseoul.net/hallyu/Seoul-as-Seen-in-the-Romantic-TV-Series-Start-Up_/36655"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "itaewon-finally-us",
+      "title": "Itaewon Class",
+      "ko": "이태원 클라쓰",
+      "course": "When it finally becomes us",
+      "hook": "From an apology in the neighborhood to Saeroyi and Yi-seo’s kiss.",
+      "duration": "2–3 hours",
+      "transport": "Walk + bus or taxi",
+      "start": "Itaewon Children’s Park",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "When it finally becomes us",
+      "credit": "",
+      "imageSource": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=200508",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "A separate story from the DanBam route, focused on the relationships around Saeroyi.",
+      "stops": [
+        {
+          "name": "Itaewon Children’s Park",
+          "ko": "이태원 어린이공원",
+          "kind": "Filming location",
+          "sceneTitle": "Geun-soo’s apology",
+          "scene": "Geun-soo apologizes to Saeroyi in this neighborhood park, recognizable by its bear-shaped slide.",
+          "visit": "Keep the playground available for children and avoid photographing them.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=200508",
+          "episode": "",
+          "query": "이태원 어린이공원"
+        },
+        {
+          "name": "Baekbeom Plaza approach",
+          "ko": "남산공원 백범광장",
+          "kind": "Filming location",
+          "sceneTitle": "Saeroyi and Yi-seo’s kiss",
+          "scene": "Their kiss was filmed on the path between the Sungnyemun-side entrance of Namsan Park and Baekbeom Plaza.",
+          "visit": "Walk the lower Namsan path. The scene is on the approach, not at the tower.",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=200508",
+          "episode": "",
+          "query": "남산공원 백범광장"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=200508"
+        }
+      ],
+      "format": "Drama"
+    },
+    {
+      "id": "king-between-worlds",
+      "title": "The King: Eternal Monarch",
+      "ko": "더 킹: 영원의 군주",
+      "course": "Between two worlds",
+      "hook": "Step into the bamboo portal, then follow Lee Gon back to the city.",
+      "duration": "5–6 hours",
+      "transport": "Car or booked taxi + walks",
+      "start": "Ahopsan Forest",
+      "image": "",
+      "imageType": "Story guide",
+      "imageCaption": "Between two worlds",
+      "credit": "",
+      "imageSource": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=852",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "visitNote": "Allow road travel from Gijang to Haeundae; these stops are not one continuous forest-to-city walk.",
+      "stops": [
+        {
+          "name": "Ahopsan Forest",
+          "ko": "부산 아홉산숲",
+          "kind": "Filming location",
+          "sceneTitle": "The door between dimensions",
+          "scene": "The bamboo forest is where Lee Gon discovers the gateway between parallel worlds.",
+          "visit": "Buy admission and stay on the marked forest trail. Screen props may not remain.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=852",
+          "episode": "",
+          "query": "부산 아홉산숲"
+        },
+        {
+          "name": "Haeundae Gunam-ro",
+          "ko": "해운대 구남로",
+          "kind": "Filming location",
+          "sceneTitle": "Lee Gon confronts Lee Lim",
+          "scene": "The busy street leading to the beach becomes the setting for a confrontation between Lee Gon and Lee Lim.",
+          "visit": "Use the pedestrian street and expect crowds in the evening.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=852",
+          "episode": "",
+          "query": "해운대 구남로"
+        },
+        {
+          "name": "Haeundae Cinema Street",
+          "ko": "해운대 영화의거리",
+          "kind": "Filming location",
+          "sceneTitle": "Following the rabbit",
+          "scene": "Lee Gon’s pursuit of the rabbit and Tae-eul’s solitary walk use this coastal street.",
+          "visit": "Finish along the waterfront path in Marine City.",
+          "source": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=852",
+          "episode": "",
+          "query": "해운대 영화의거리"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Filming-location reference",
+          "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=852"
+        }
+      ],
+      "format": "Drama"
     }
   ]
 }

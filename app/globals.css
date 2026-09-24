@@ -226,3 +226,16 @@ figcaption strong { color: var(--ink); font-weight: 500; margin-right: .7rem; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+.card-title { font-size: .74rem; font-weight: 600; margin-bottom: .55rem; }
+.card-title span { color: var(--muted); font-weight: 400; }
+.card-copy h3 { font: 400 1.55rem/1.2 var(--font-display); min-height: 3.75rem; }
+.card-hook { font-size: .8rem; color: var(--muted); margin: .8rem 0 1rem; min-height: 4rem; }
+.story-cover { display: flex; flex-direction: column; justify-content: space-between; height: 100%; padding: 1.3rem 1.5rem; background: #dce5d5; color: #263c32; }
+.cover-film { background: #d9dce5; color: #353d51; }
+.cover-label, .cover-footer { font-size: .6rem; letter-spacing: .07em; text-transform: uppercase; padding-right: 2rem; }
+.story-cover ol { list-style: none; padding: 0; margin: .8rem 0; }
+.story-cover li { display: flex; align-items: center; gap: .7rem; font-size: .85rem; line-height: 1.35; padding: .35rem 0; }
+.story-cover li span { font-size: .62rem; border: 1px solid currentColor; border-radius: 50%; padding: .22rem; flex-shrink: 0; }
+.related-stories { margin-top: var(--space-5); }
+@media (max-width: 480px) { .card-copy h3, .card-hook { min-height: auto; } }

@@ -16,8 +16,7 @@ function getWebhookUrl() {
 export function getFeedbackAvailability() {
   const siteKey = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY ?? "";
   const hasChallenge = Boolean(siteKey && process.env.TURNSTILE_SECRET_KEY);
-  const production = process.env.VERCEL_ENV === "production" || process.env.NODE_ENV === "production";
-  return { available: Boolean(getWebhookUrl()) && (!production || hasChallenge), siteKey: hasChallenge ? siteKey : "" };
+  return { available: Boolean(getWebhookUrl()), siteKey: hasChallenge ? siteKey : "" };
 }
 
 export function buildSlackMessage(feedback: Feedback) {
@@ -59,7 +58,7 @@ async function readBody(request: Request) {
   } finally { reader.releaseLock(); }
 }
 
-export async function handleFeedback(request: Request) {
+export async function handleFeedback(request: Request, verifyBrowser?: () => Promise<boolean>) {
   const origin = request.headers.get("origin");
   if (origin !== new URL(request.url).origin) return reply("Please send your request from this website.", 403);
   if (request.headers.get("content-type")?.split(";")[0].trim().toLowerCase() !== "application/json") return reply("Please send a valid request.", 415);
@@ -77,6 +76,13 @@ export async function handleFeedback(request: Request) {
   const { available, siteKey } = getFeedbackAvailability();
   if (!available || !webhook) return reply("The request box isn’t open yet. Please come back soon.", 503);
 
+  const production = process.env.VERCEL_ENV === "production" || process.env.NODE_ENV === "production";
+  if (production && !verifyBrowser) return reply("Verification is unavailable. Please try again later.", 503);
+  if (verifyBrowser) {
+    try {
+      if (!await verifyBrowser()) return reply("We couldn’t verify this browser. Please reload the page and try again.", 403);
+    } catch { return reply("Verification is unavailable. Please try again later.", 503); }
+  }
   try {
     if (siteKey) {
       if (!result.data.token) return reply("Please complete the verification.", 400);

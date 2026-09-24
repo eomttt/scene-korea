@@ -8,17 +8,17 @@ import { getSiteUrl } from "@/common/utils/site-url";
 import { StructuredData } from "@/common/components/StructuredData";
 
 export const metadata: Metadata = {
-  title: "K-drama Filming Locations & Self-Guided Tours · Scene Korea",
-  description: "Explore 10 K-drama filming routes in Korea. Find memorable scenes, visiting tips, Google Maps and NAVER Map links for Lovely Runner, Goblin and more.",
+  title: "K-drama & Film Locations: 30 Story Itineraries",
+  description: "Explore 30 story itineraries from Korean dramas and films. Follow Parasite, Lovely Runner and more with scene guides, Google Maps and NAVER Map links.",
   alternates: { canonical: "/" },
-  openGraph: { title: "You loved the drama. Now live the day.", description: "K-drama filming locations, memorable scenes and self-guided routes in Korea.", url: "/", siteName: "Scene Korea", type: "website", images: [{ url: "/share-image", width: 1200, height: 630, alt: "Scene Korea · Follow your favourite K-drama" }] },
+  openGraph: { title: "You know the story. Now step inside.", description: "K-drama and film filming locations, memorable scenes and self-guided routes in Korea.", url: "/", siteName: "Scene Korea", type: "website", images: [{ url: "/share-image", width: 1200, height: 630, alt: "Scene Korea · Follow your favourite K-drama" }] },
 };
 
 export default function HomePage() {
   return <>
-    <StructuredData data={{ "@context": "https://schema.org", "@type": "WebSite", name: "Scene Korea", url: getSiteUrl(), inLanguage: "en", description: "Self-guided K-drama filming-location routes for international fans." }} />
-    <StructuredData data={{ "@context": "https://schema.org", "@type": "ItemList", name: "K-drama filming routes in Korea", numberOfItems: dramaRoutes.length, itemListElement: dramaRoutes.map((route, index) => ({ "@type": "ListItem", position: index + 1, name: `${route.title} filming route`, url: `${getSiteUrl()}/stories/${route.id}` })) }} />
-    <section className="hero"><div><p className="eyebrow">The story doesn’t end on screen</p><h1>You loved the drama.<br />Now live the day.</h1></div><div className="hero-aside"><p>Pick a story you know by heart.<br />Follow its scenes into the streets, forests and seaside towns of Korea.</p><a href="#collection" className="text-link">Find your story <span aria-hidden="true">↓</span></a></div></section>
+    <StructuredData data={{ "@context": "https://schema.org", "@type": "WebSite", name: "Scene Korea", url: getSiteUrl(), inLanguage: "en", description: "Self-guided Korean drama and film story itineraries for international fans." }} />
+    <StructuredData data={{ "@context": "https://schema.org", "@type": "ItemList", name: "K-drama and film filming routes in Korea", numberOfItems: dramaRoutes.length, itemListElement: dramaRoutes.map((route, index) => ({ "@type": "ListItem", position: index + 1, name: `${route.title}: ${route.course}`, url: `${getSiteUrl()}/stories/${route.id}` })) }} />
+    <section className="hero"><div><p className="eyebrow">The story doesn’t end on screen</p><h1>You know the story.<br />Now step inside.</h1></div><div className="hero-aside"><p>One film. More than one story.<br />Choose the moments you love, then follow their filming locations across Korea.</p><a href="#collection" className="text-link">Find your story <span aria-hidden="true">↓</span></a></div></section>
     <DramaCollection routes={dramaRoutes} />
     <section className="request-banner"><div><p className="eyebrow">Your next story belongs here</p><h2>Still thinking about a scene?</h2><p>Tell us the title, or the moment you wish you could step into.</p></div><Link href="/request" className="button">Request a title or scene <ArrowUpRight size={17} aria-hidden="true" /></Link></section>
     <AdSlot />

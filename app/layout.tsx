@@ -10,9 +10,9 @@ import "./globals.css";
 const { client } = getAdsenseConfig();
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
-  title: { default: "Scene Korea · Follow your favourite K-drama", template: "%s · Scene Korea" },
-  description: "Turn the K-dramas you love into a day in Korea. Explore real filming locations, memorable scenes and thoughtfully paced routes.",
-  openGraph: { type: "website", siteName: "Scene Korea", locale: "en_US", images: [{ url: "/share-image", width: 1200, height: 630, alt: "Scene Korea · Follow your favourite K-drama" }] },
+  title: { default: "Scene Korea · Follow your favourite screen stories", template: "%s · Scene Korea" },
+  description: "Turn the Korean dramas and films you love into a day in Korea. Explore real filming locations, memorable scenes and thoughtfully paced routes.",
+  openGraph: { type: "website", siteName: "Scene Korea", locale: "en_US", images: [{ url: "/share-image", width: 1200, height: 630, alt: "Scene Korea · Follow your favourite screen stories" }] },
   twitter: { card: "summary_large_image" },
   robots: process.env.VERCEL_ENV === "preview" ? { index: false, follow: false } : { index: true, follow: true, googleBot: { "max-image-preview": "large" } },
   ...(client ? { other: { "google-adsense-account": client } } : {}),

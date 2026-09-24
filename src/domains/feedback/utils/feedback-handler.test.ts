@@ -56,7 +56,7 @@ test("Slack rejection or ambiguous delivery never produces success", async () =>
   mock.method(globalThis, "fetch", async () => { throw new Error("timeout"); });
   assert.equal((await handleFeedback(request())).status, 502);
 });
-test("production is closed until bot protection is configured", async () => {
+test("production requires server-side bot verification", async () => {
   process.env = { ...process.env, NODE_ENV: "production" };
   const fetchMock = mock.method(globalThis, "fetch", async () => new Response("ok"));
   assert.equal((await handleFeedback(request())).status, 503);
@@ -83,4 +83,17 @@ test("a valid challenge is verified before the Slack delivery", async () => {
   assert.equal((await handleFeedback(request({ ...valid, token: "test-token" }))).status, 200);
   assert.ok(urls[0].includes("siteverify"));
   assert.ok(urls[1].startsWith("https://hooks.slack.com/"));
+});
+
+test("bot rejection and verification errors never send to Slack", async () => {
+  const fetchMock = mock.method(globalThis, "fetch", async () => new Response("ok"));
+  assert.equal((await handleFeedback(request(), async () => false)).status, 403);
+  assert.equal((await handleFeedback(request(), async () => { throw new Error("verification unavailable"); })).status, 503);
+  assert.equal(fetchMock.mock.callCount(), 0);
+});
+test("a verified production browser can deliver without optional Turnstile keys", async () => {
+  process.env = { ...process.env, NODE_ENV: "production" };
+  const fetchMock = mock.method(globalThis, "fetch", async () => new Response("ok"));
+  assert.equal((await handleFeedback(request(), async () => true)).status, 200);
+  assert.equal(fetchMock.mock.callCount(), 1);
 });

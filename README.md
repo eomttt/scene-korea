@@ -1,6 +1,6 @@
 # Scene Korea
 
-외국인 K-drama 팬이 작품을 고르고 촬영지를 순서대로 방문하는 영어 여행 서비스다. Next.js App Router로 만들었으며 Vercel에 배포한다.
+외국인 팬이 한국 드라마와 영화의 스토리를 고르고 촬영지를 순서대로 방문하는 영어 여행 서비스다. Next.js App Router로 만들었으며 Vercel에 배포한다.
 
 ## 실행
 
@@ -16,11 +16,11 @@ npm run dev
 
 ## 화면과 콘텐츠
 
-- 작품 10개의 코스와 방문 순서를 제공한다. 지역 필터는 없다.
-- 영어·한국어 제목 검색은 브라우저 안에서 실행한다.
+- 작품 28편에서 고른 스토리 30개의 코스와 방문 순서를 제공한다. 한 작품에 여러 코스가 있을 수 있다. 지역 필터는 없다.
+- 영어·한국어 작품명과 스토리명 검색은 브라우저 안에서 실행한다.
 - 북마크로 저장한 코스를 `/saved`에서 모아본다. 같은 브라우저에서 새로고침과 재방문 후에도 유지되며 저장 취소도 가능하다.
 - 장소마다 주요 장면, 확인된 회차, 방문 팁, 출처, Google Maps와 NAVER Map 링크가 있다.
-- 실제 드라마 스틸과 촬영지 사진을 구분한다.
+- 실제 드라마 스틸과 촬영지 사진을 구분한다. 이미지가 없는 코스는 방문 순서를 표시한 표지를 쓴다.
 - 작품 추가와 장면 추가 요청을 받는다. 코스에서 요청하면 작품명이 채워진다.
 
 `src/domains/drama/data/routes.json`에서 콘텐츠를 관리한다. 장면과 회차는 출처를 확인한 뒤 추가한다. 이동 시간은 현지 일정의 추정치이며 첫 장소까지 가는 시간은 별도다.
@@ -33,12 +33,12 @@ npm run dev
 
 1. Slack 앱에서 Incoming Webhooks를 켜고 채널 `C0C4Y776Z3J`를 선택한다.
 2. 발급된 URL을 Vercel의 서버 환경변수 `SLACK_FEEDBACK_WEBHOOK_URL`에 저장한다. Git이나 클라이언트 코드에 넣지 않는다.
-3. Cloudflare Turnstile에 실제 배포 도메인을 등록한다. `NEXT_PUBLIC_TURNSTILE_SITE_KEY`와 `TURNSTILE_SECRET_KEY`를 설정한다.
+3. Vercel BotID Basic이 `/api/feedback`의 브라우저 요청을 검사한다. 별도 키와 유료 Deep Analysis는 사용하지 않는다. Turnstile은 두 키를 추가했을 때만 함께 검사한다.
 4. 재배포 후 요청 하나를 보내 지정 채널에서 수신을 확인한다.
 
 별도 데이터베이스는 없다. 요청은 Slack에 저장되고 이메일은 선택 입력이다. 서버가 Slack의 성공 응답을 확인한 뒤에만 접수 완료를 표시한다. 연결값이 없으면 폼을 닫으며 실제로 보내지 않는다.
 
-운영 빌드에서는 Turnstile을 필수로 확인한다. 본문 크기, 입력 길이, 출처, 링크 형식도 검사한다. 이용자 입력은 Slack의 plain_text로 보내 멘션이 실행되지 않게 한다.
+운영 요청은 서버에서 BotID 검증을 통과해야 Slack에 전달된다. 검증 오류와 봇 판정은 전송을 차단한다. 본문 크기, 입력 길이, 출처, 링크 형식도 검사한다. 이용자 입력은 Slack의 plain_text로 보내 멘션이 실행되지 않게 한다.
 
 참고: [Slack Incoming Webhooks](https://docs.slack.dev/messaging/sending-messages-using-incoming-webhooks/), [Turnstile 서버 검증](https://developers.cloudflare.com/turnstile/get-started/server-side-validation/)
 
@@ -51,15 +51,15 @@ npm run dev
 3. 해외 이용자에게 필요한 동의 메시지를 AdSense의 Privacy & messaging에서 설정한다. EEA·영국·스위스 대상 광고에는 Google이 인증한 동의 관리 설정을 사용한다.
 4. 승인된 광고 단위의 `NEXT_PUBLIC_ADSENSE_SLOT_ID`를 설정하고 광고를 켠다.
 
-이 프로젝트는 AdSense 계정 생성이나 사이트 승인을 대신하지 않는다. 광고 수익과 노출은 검증되지 않았다.
+이 프로젝트는 AdSense 계정 생성이나 사이트 승인을 대신하지 않는다. 광고 수익과 노출은 검증되지 않았다. 2026년 9월 24일 사이트 소유권 확인과 심사 신청을 마쳤다. Google 심사는 진행 중이다.
 
 참고: [AdSense 사이트 연결](https://support.google.com/adsense/answer/7584263?hl=en), [동의 관리 요구사항](https://support.google.com/adsense/answer/13554116?hl=en)
 
 ## GitHub와 Vercel
 
-SEO는 서버에서 렌더링한 작품별 제목·설명, canonical URL, Open Graph·Twitter 이미지, 사이트맵, robots.txt와 JSON-LD를 포함한다. 구조화 데이터는 WebSite, ItemList, BreadcrumbList, TouristTrip을 사용한다. 개인 저장 목록과 요청 폼에는 noindex를 지정한다. Google 색인과 검색 순위는 별도로 확인해야 한다.
+SEO는 서버에서 렌더링한 스토리별 제목·설명, canonical URL, Open Graph·Twitter 이미지, 사이트맵, robots.txt와 JSON-LD를 포함한다. 구조화 데이터는 WebSite, ItemList, BreadcrumbList, TouristTrip을 사용한다. 개인 저장 목록과 요청 폼에는 noindex를 지정한다. Google 색인과 검색 순위는 별도로 확인해야 한다.
 
-저장소 후보는 `eomttt/scene-korea`다. 소스 업로드는 사용자 확인 후 진행한다. Vercel 프로젝트 이름도 `scene-korea`를 사용한다.
+저장소는 `eomttt/scene-korea`다. Vercel 프로젝트 `scene-korea`에 연결되어 있으며 운영 주소는 https://scene-korea-mauve.vercel.app 이다.
 
 GitHub 저장소를 Vercel에 연결하면 main 브랜치는 운영 배포, 다른 브랜치와 PR은 검토용 배포로 관리할 수 있다. `NEXT_PUBLIC_SITE_URL`은 확정된 운영 도메인으로 설정한다. 공개 환경변수를 바꾸면 다시 빌드해야 한다.
 

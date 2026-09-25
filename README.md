@@ -33,7 +33,7 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 
 `src/domains/drama/data/routes.json`에서 콘텐츠를 관리한다. 장면과 회차는 출처를 확인한 뒤 추가한다. 이동 시간은 현지 일정의 추정치이며 첫 장소까지 가는 시간은 별도다.
 
-2026-09-25 로컬 카탈로그는 70작품·100투어·181정거장이다. 기존 작품에 20투어·25정거장을 추가했고, 여러 투어가 있는 21작품에는 비교 가이드를 연결했다. 통합 빌드와 로컬 검증은 통과했으며, 운영 배포와 검색 등록 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 따로 남긴다.
+2026-09-25 운영 카탈로그는 70작품·100투어·181정거장이다. 기존 작품에 20투어·25정거장을 추가했고, 여러 투어가 있는 21작품에는 비교 가이드를 연결했다. 통합 빌드·로컬 및 운영 SEO 검사를 통과했다. Google은 사이트맵의 125개 페이지를 정상으로 읽었다. 검증과 등록 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 따로 남긴다.
 
 이미지 출처와 표시된 권리자는 각 코스에 기록했다. 보강한 사진 79개의 원본 URL, 장소 일치 근거, 확인한 이용 조건은 `docs/image-sources.json`에 있다. 라이선스가 명시된 사진은 상세 화면에 라이선스 링크와 변환 내역도 표시한다. 나머지 이미지의 상업적 재사용 허가를 확보했다는 뜻은 아니다. 광고를 켜기 전에 직접 촬영한 사진이나 허가받은 자료로 교체하거나 이용 조건을 확인한다.
 
@@ -67,7 +67,7 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 
 ## SEO와 검색 등록
 
-정식 도메인은 [www.scene-trip.com](https://www.scene-trip.com)이다. 작업 시작 당시 이 도메인의 canonical과 사이트맵은 이전 Vercel 주소를 가리켰다. Vercel의 Production·Preview·Development 환경변수를 정식 도메인으로 바꿨으며, 변경한 빌드와 운영 URL을 다시 검증한다.
+정식 도메인은 [www.scene-trip.com](https://www.scene-trip.com)이다. 작업 시작 당시 이 도메인의 canonical과 사이트맵은 이전 Vercel 주소를 가리켰다. Vercel의 Production·Preview·Development 환경변수를 정식 도메인으로 바꿨으며, 운영 공개 페이지 125개의 canonical·사이트맵·응답을 검증했다.
 
 투어마다 작품명·지역·장면을 반영한 고유 검색 제목과 설명을 작성한다. canonical·Open Graph·Twitter 주소는 정식 도메인을 사용한다. 개인 저장 목록과 요청 폼에는 noindex를 지정한다.
 
@@ -77,7 +77,7 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 
 `GOOGLE_SITE_VERIFICATION`과 `BING_SITE_VERIFICATION`은 선택 값이다. 검색 서비스가 발급한 메타 태그의 `content` 값만 설정하고 재배포한다. 소유권 확인과 사이트맵 제출 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 남긴다.
 
-전체 촬영지 자료 대신 카드·검색에 필요한 데이터만 브라우저에 전달한다. 저장 기능에는 코스 ID 목록만 전달하며, 폰트는 `next/font`가 준비한 파일을 사이트에서 제공한다. 이전 80투어 기준 데이터 크기와 아직 남은 검증도 SEO 작업 기록에 구분했다.
+전체 촬영지 자료 대신 카드·검색에 필요한 데이터만 브라우저에 전달한다. 저장 기능에는 코스 ID 목록만 전달하며, 폰트는 `next/font`가 준비한 파일을 사이트에서 제공한다. 이전 80투어 기준 데이터 크기와 실제 운영 검증 결과는 SEO 작업 기록에 구분했다.
 
 ## GitHub와 Vercel
 

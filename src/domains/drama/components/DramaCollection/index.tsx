@@ -1,6 +1,6 @@
 "use client";
 
-import { Suspense, useRef, useState } from "react";
+import { Suspense, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Search, X } from "lucide-react";
@@ -8,6 +8,7 @@ import type { DramaRoute } from "../../utils/drama-routes";
 import { matchesRouteSearch, matchesTourDuration, tourCategories, tourDurations } from "../../utils/route-search";
 import { defaultTourFilters, getCollectionSearch, readTourFilters, type TourFilters } from "../../utils/collection-filters";
 import { DramaCard } from "../DramaCard";
+import { rememberCollectionScroll, takeCollectionScrollRestore } from "../../stores/collection-scroll";
 
 export function DramaCollection({ routes }: { routes: DramaRoute[] }) {
   return <Suspense fallback={<CollectionView routes={routes} filters={defaultTourFilters} />}><CollectionWithUrlFilters routes={routes} /></Suspense>;
@@ -16,6 +17,12 @@ export function DramaCollection({ routes }: { routes: DramaRoute[] }) {
 function CollectionWithUrlFilters({ routes }: { routes: DramaRoute[] }) {
   const searchParams = useSearchParams();
   const filters = readTourFilters(searchParams);
+  const collectionSearch = getCollectionSearch(filters);
+
+  useLayoutEffect(() => {
+    const position = takeCollectionScrollRestore(collectionSearch);
+    if (position !== null) window.scrollTo({ top: position, behavior: "instant" });
+  }, [collectionSearch]);
 
   function handleFiltersChange(updates: Partial<TourFilters>) {
     const current = new URLSearchParams(window.location.search);
@@ -78,6 +85,6 @@ function CollectionView({ routes, filters, onFiltersChange }: {
       </div>
       <div className="collection-results"><p role="status" aria-live="polite">{matches.length} {matches.length === 1 ? "story" : "stories"}{hasFilters ? ` of ${routes.length}` : " to explore"}</p>{hasFilters ? <button type="button" className="reset-filters" onClick={handleFiltersReset}>Reset filters <X size={14} aria-hidden="true" /></button> : <p>Every route fits into a day.</p>}</div>
     </div>
-    {matches.length > 0 ? <div className="drama-grid">{matches.map((route, index) => <DramaCard key={route.id} route={route} priority={index < 3} collectionSearch={collectionSearch} />)}</div> : <div className="empty-state"><h3>No stories match just yet.</h3><p>Try a different title, place or duration, or ask us to add your scene.</p><button type="button" className="button button-outline" onClick={handleFiltersReset}>Clear all filters</button><Link href="/request" className="text-link">Request a title ↗</Link></div>}
+    {matches.length > 0 ? <div className="drama-grid">{matches.map((route, index) => <DramaCard key={route.id} route={route} priority={index < 3} collectionSearch={collectionSearch} onNavigate={() => rememberCollectionScroll(collectionSearch, window.scrollY)} />)}</div> : <div className="empty-state"><h3>No stories match just yet.</h3><p>Try a different title, place or duration, or ask us to add your scene.</p><button type="button" className="button button-outline" onClick={handleFiltersReset}>Clear all filters</button><Link href="/request" className="text-link">Request a title ↗</Link></div>}
   </section>;
 }

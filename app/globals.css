@@ -20,7 +20,7 @@
   --font-display: 'DM Serif Display', Georgia, serif;
 }
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; scroll-padding-top: 2rem; }
+html { scroll-behavior: auto; scroll-padding-top: 2rem; }
 body { margin: 0; color: var(--ink); background: var(--paper); font: 400 15px/1.65 var(--font-body); }
 a { color: inherit; text-underline-offset: 4px; }
 button, input, textarea, select { font: inherit; }

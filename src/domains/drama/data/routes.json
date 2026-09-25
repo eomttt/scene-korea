@@ -4797,11 +4797,11 @@
       "transport": "Car or taxi to Sanjeong Lake + short walk",
       "start": "Doldam Hospital exterior, Pocheon",
       "tourArea": "Sanjeong Lake, Pocheon",
-      "image": "",
+      "image": "romantic-pocheon-doldam-doorstep",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "The Doldam Hospital filming building in Pocheon, photographed in January 2018.",
+      "credit": "James (쉬운코딩이최고) / Dev Life in IT",
+      "imageSource": "https://jamesdreaming.tistory.com/101",
       "audienceType": "International fan ratings",
       "audience": "Season 3 led Filmarks' spring 2023 overseas-drama satisfaction ranking. Japanese-language fan writing also explores the real building behind Doldam Hospital.",
       "audienceKo": "시즌 3은 Filmarks의 2023년 봄 해외드라마 만족도 집계에서 1위였다. 일본어 팬 글에도 돌담병원의 실제 장소를 찾는 관심이 있다.",
@@ -4844,7 +4844,10 @@
           "url": "https://ameblo.jp/colleen8159/entry-12887400625.html"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "imageChanges": "Converted to WebP without enlarging. Original framing retained; display crops may vary with the viewport."
     },
     {
       "id": "watermelon-gangneung-first-guitar",
@@ -5167,11 +5170,11 @@
       "aliases": [],
       "format": "Drama",
       "category": "drama",
-      "image": "",
+      "image": "cloy-yeongwol-first-flight",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "Bongnaesan summit beside Byeolmaro Observatory and its paragliding launch area, in winter.",
+      "credit": "Korea Culture and Tourism Institute, 2014",
+      "imageSource": "https://www.kogl.or.kr/recommend/recommendDivView.do?division=img&recommendIdx=2438",
       "checkedAt": "2026-09-25",
       "id": "cloy-yeongwol-first-flight",
       "course": "The flight that changes Se-ri’s life",
@@ -5214,7 +5217,10 @@
           "label": "Netflix · overseas viewing evidence",
           "url": "https://about.netflix.com/en/news/netflix-building-home-of-best-in-class-stories-from-korea"
         }
-      ]
+      ],
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/license.do",
+      "imageChanges": "Converted to WebP without enlarging or cropping. Original image composition and any watermark retained."
     },
     {
       "title": "Hometown Cha-Cha-Cha",
@@ -5225,11 +5231,11 @@
       "aliases": [],
       "format": "Drama",
       "category": "drama",
-      "image": "",
+      "image": "hometown-wolpo-first-meeting",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "Wolpo Beach in Pohang, with its sandy shore and the bridge near the southern end.",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://infotravelog.com/places/22083",
       "checkedAt": "2026-09-25",
       "id": "hometown-wolpo-first-meeting",
       "course": "A lost shoe on Gongjin’s shore",
@@ -5272,7 +5278,10 @@
           "label": "Reddit · planning a Pohang trip",
           "url": "https://www.reddit.com/r/koreatravel/comments/1kadltb/"
         }
-      ]
+      ],
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/license.do",
+      "imageChanges": "Converted to WebP without enlarging or cropping. Original image composition and any watermark retained."
     },
     {
       "title": "Our Beloved Summer",
@@ -5283,11 +5292,11 @@
       "aliases": [],
       "format": "Drama",
       "category": "drama",
-      "image": "",
+      "image": "summer-onbit-documentary-retreat",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "The yellow house reflected in the pond at Onbit Forest, Nonsan.",
+      "credit": "Nonsan City, Forestry and Parks Division, published 2026",
+      "imageSource": "https://support.nonsan.go.kr/kor/html/sub03/030106.html?mode=V&no=bb5b20fcc0edf0ad2fa5aa68c0b16d38",
       "checkedAt": "2026-09-25",
       "id": "summer-onbit-documentary-retreat",
       "course": "The documentary’s forest escape",
@@ -5326,7 +5335,10 @@
           "label": "Yonabe · Japanese fan location guide",
           "url": "https://note.com/yonabe_korea/n/n3ccd3b744202"
         }
-      ]
+      ],
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/license.do",
+      "imageChanges": "Converted to WebP without enlarging or cropping. Original image composition and any watermark retained."
     },
     {
       "title": "My Love from the Star",
@@ -5394,11 +5406,11 @@
       "aliases": [],
       "format": "Drama",
       "category": "drama",
-      "image": "",
+      "image": "business-proposal-jayu-promise",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "A shaded walkway in Jayu Park, photographed in 2008. The park is the setting of Tae-moo and Ha-ri’s final proposal.",
+      "credit": "Dohuskor / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Jayuwalkway.jpg",
       "checkedAt": "2026-09-25",
       "id": "business-proposal-jayu-promise",
       "course": "A promise on the park path",
@@ -5437,7 +5449,10 @@
           "label": "Korea.travel.art · bilingual fan location guide",
           "url": "https://koreatravelart.wordpress.com/2022/04/09/%E7%A4%BE%E5%85%A7%E7%9B%B8%E8%A6%AA%E5%85%B6%E4%BB%96%E6%8B%8D%E6%94%9D%E5%9C%B0%E9%BB%9E-business-proposal-other-filming-locations/"
         }
-      ]
+      ],
+      "imageLicense": "Public domain",
+      "imageLicenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-user-en",
+      "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
     },
     {
       "title": "King the Land",
@@ -5448,11 +5463,11 @@
       "aliases": [],
       "format": "Drama",
       "category": "drama",
-      "image": "",
+      "image": "king-the-land-parnas-lobby",
       "imageType": "Filming location",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "imageCaption": "The glass-roofed atrium lobby at Parnas Hotel Jeju, photographed in 2022.",
+      "credit": "주인장 페이니 (baonana) / Tistory",
+      "imageSource": "https://baonana.tistory.com/107",
       "checkedAt": "2026-09-25",
       "id": "king-the-land-parnas-lobby",
       "course": "Inside King Hotel’s sunlit lobby",
@@ -5491,7 +5506,10 @@
           "label": "Hey Roseanne · Jeju filming-location guide",
           "url": "https://heyroseanne.com/kdrama-filming-locations-in-jeju/"
         }
-      ]
+      ],
+      "imageLicense": "CC BY 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "imageChanges": "Converted to WebP. Original composition retained. Original author watermark retained. Display crops may vary with the viewport."
     },
     {
       "title": "True Beauty",
@@ -5633,11 +5651,11 @@
       "start": "Yongdap Station, Exit 2",
       "tourArea": "Yongdap, Seoul",
       "visitNote": "A short visit to the public footbridge and the stream path below. Keep the bridge clear for residents. Stream access can close after heavy rain; this is a local walking allowance, excluding travel to Yongdap.",
-      "image": "",
-      "imageType": "",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "image": "goblin-yongdap-fateful-meeting",
+      "imageType": "Nearby walk",
+      "imageCaption": "Stepping stones along the stream near Yongdap Station. Goblin’s meeting scene was filmed on the separate elevated footbridge.",
+      "credit": "capclubstudio / PxHere",
+      "imageSource": "https://pxhere.com/en/photo/1635062",
       "audienceType": "International screen tourism",
       "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
       "audienceKo": "",
@@ -5666,7 +5684,10 @@
           "url": "https://joanamariecamille.wordpress.com/2017/12/17/korea2017-day3/"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC0 1.0",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "imageChanges": "Converted to WebP without enlarging. Original composition retained; display crops may vary with the viewport."
     },
     {
       "id": "vincenzo-seongsu-coffee-truce",
@@ -5910,11 +5931,11 @@
       "start": "Dongincheon Station",
       "tourArea": "Gaehang-ro, Incheon",
       "visitNote": "The two filming businesses are a short walk apart near Chamoejeon-ro. Plan around their opening times and allow time for a café or meal. Confirm IK Light House’s annex access and both businesses before travel; a specific filming seat or surviving sign is not guaranteed.",
-      "image": "",
-      "imageType": "",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "image": "okay-incheon-first-impressions",
+      "imageType": "Filming location",
+      "imageCaption": "Gaehangro Chicken’s signed window and interior in Incheon, photographed in 2025.",
+      "credit": "my콩알 / Tistory",
+      "imageSource": "https://small17dae1.tistory.com/233",
       "audienceType": "International screen tourism",
       "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
       "audienceKo": "",
@@ -5958,7 +5979,10 @@
           "url": "https://www.afangirlsheart.com/2020/08/its-okay-to-not-be-okay-filming-locations.html?m=0"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "imageChanges": "Converted to WebP. Original composition retained. Display crops may vary with the viewport."
     },
     {
       "id": "winter-sonata-yongpyong-mountain-love",
@@ -5975,11 +5999,11 @@
       "start": "Dragon Plaza, MONA Yongpyong",
       "tourArea": "Yongpyong Resort, Pyeongchang",
       "visitNote": "Both stops are within Yongpyong Resort, linked by its mountain cable car. The allowance starts at Dragon Plaza and excludes travel to the resort. Check weather, cable-car service and Dragon Castle access before buying a ticket; historical interiors may have changed.",
-      "image": "",
-      "imageType": "",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "image": "winter-sonata-yongpyong-mountain-love",
+      "imageType": "Filming location",
+      "imageCaption": "Passengers boarding Yongpyong’s gondola at the base station, photographed in 2014.",
+      "credit": "Piotrus / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Yongpyong_Ski_Resort_Oct_2014_02.JPG",
       "audienceType": "International screen tourism",
       "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
       "audienceKo": "",
@@ -6019,7 +6043,10 @@
           "url": "https://wensdelight.blogspot.com/2011/09/koreajeju-trip-may-2011-day-5.html"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY-SA 3.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "imageChanges": "Resized without enlarging; converted to WebP. Original composition retained. Display crops may vary with the viewport. This derivative is available under CC BY-SA 3.0."
     },
     {
       "id": "parasite-noryangjin-pizza-scheme",
@@ -6036,11 +6063,11 @@
       "start": "Noryangjin Station, Exit 6",
       "tourArea": "Noryangjin, Seoul",
       "visitNote": "Allow about 10–15 minutes each way from the station, plus time for a meal. This is a working neighborhood restaurant; confirm opening before travel and ask before photographing memorabilia or customers. The nearby alleys are the approach, not additional confirmed film sets.",
-      "image": "",
-      "imageType": "",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "image": "parasite-noryangjin-pizza-scheme",
+      "imageType": "Filming location",
+      "imageCaption": "The dining area inside Sky Pizza in Noryangjin, with its Parasite photo-zone window.",
+      "credit": "Korea Tourism Organization",
+      "imageSource": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=215373",
       "audienceType": "International screen tourism",
       "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
       "audienceKo": "",
@@ -6069,7 +6096,10 @@
           "url": "https://www.atlasobscura.com/places/sky-pizza-seoul-south-korea"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "imageChanges": "Converted to WebP without enlarging. Original framing retained; display crops may vary with the viewport."
     },
     {
       "id": "itaewon-yiseo-stairs-rooftop",
@@ -6086,11 +6116,11 @@
       "start": "Itaewon Station, Exit 3",
       "tourArea": "Itaewon and Gyeongnidan, Seoul",
       "visitNote": "Start with the guesthouse exterior, then allow about 30–40 minutes for the uphill walk to The Finest, or take a short taxi ride. Contact the lounge about current operation, reservations and rooftop access. Guesthouse interiors and roof are not included in this public-street visit.",
-      "image": "",
-      "imageType": "",
-      "imageCaption": "",
-      "credit": "",
-      "imageSource": "",
+      "image": "itaewon-yiseo-stairs-rooftop",
+      "imageType": "Filming location",
+      "imageCaption": "G Guesthouse’s rooftop sign and painted exterior in Itaewon, photographed in 2022.",
+      "credit": "어바너드 (Urbanerd) / 어바너드의 도시산책",
+      "imageSource": "https://urbanerd.tistory.com/entry/%EC%84%9C%EC%9A%B8-%ED%81%B4%EB%9F%BD-%EC%9E%90%EC%9D%B4%EC%96%B8-%EC%9D%B4%EC%8A%AC%EB%9E%8C%EC%82%AC%EC%9B%90-%EC%9A%B0%EC%82%AC%EB%8B%A8%EA%B8%B8-%EC%9D%B4%ED%83%9C%EC%9B%90%EA%B1%B0%EB%A6%AC-%EB%85%B9%EC%82%AC%ED%8F%89-%EB%B3%B4%EB%8F%84%EC%9C%A1%EA%B5%90-%EA%B2%BD%EB%A6%AC%EB%8B%A8%EA%B8%B8-%EB%A7%88%EC%9D%8C%EA%B3%BC-%EB%A7%88%EC%9D%8C-%EB%B9%84%EC%8A%A4%ED%85%8C%EA%B9%8C-%EC%B9%B4%ED%8E%98-%EC%8A%A4%ED%83%A0%EB%94%A9-%EC%BB%A4%ED%94%BC-%ED%8C%8C%EC%9A%B4%ED%8B%B4",
       "audienceType": "International screen tourism",
       "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
       "audienceKo": "",
@@ -6138,7 +6168,10 @@
           "url": "https://creatrip.com/en/blog/6755/The-Finest-Itaewon"
         }
       ],
-      "checkedAt": "2026-09-25"
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "imageChanges": "Resized without enlarging and converted to WebP. Original composition retained; display crops may vary with the viewport."
     },
     {
       "id": "avengers-gangnam-motorcycle-chase",

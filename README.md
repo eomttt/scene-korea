@@ -70,4 +70,6 @@ GitHub 저장소를 Vercel에 연결하면 main 브랜치는 운영 배포, 다�
 
 Next.js 규칙에 따라 URL과 페이지 조합은 루트 `app/`에 둔다. 도메인 컴포넌트와 데이터는 `src/domains/`, 공통 UI는 `src/common/`에 둔다. `src/pages`는 Pages Router와 혼동되므로 만들지 않는다.
 
-`docs/research.md`는 초기 수요 조사 기록이다. 이번 해외 팬 조사와 추가한 20개 코스의 근거는 `docs/overseas-fan-research.md`에 있다. 장면 출처는 내부 데이터에 보존하며 화면의 Scene reference 링크는 제거했다. 화면의 장소와 방문 순서는 이후 수정된 `routes.json`을 기준으로 한다.
+[콘텐츠 조사 방법](docs/content-research-workflow.md)에 따라 영미권·중화권·일본권·유럽 커뮤니티에서 작품을 찾는다. 한국 블로그·관광 자료·외국 블로그에서 촬영지를 조사한 뒤 가까운 장면을 하루 코스로 묶는다.
+
+`docs/research.md`는 초기 수요 조사 기록이다. 해외 팬 조사와 추가한 20개 코스의 근거는 `docs/overseas-fan-research.md`에 있다. 장면 출처는 내부 데이터에 보존하며 화면의 Scene reference 링크는 제거했다. 화면의 장소와 방문 순서는 이후 수정된 `routes.json`을 기준으로 한다.

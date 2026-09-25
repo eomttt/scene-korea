@@ -12,7 +12,8 @@
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test src/domains/feedback/utils/*.test.ts src/domains/advertising/utils/*.test.ts src/domains/drama/utils/*.test.ts",
-    "check": "npm run lint && npm run typecheck && npm test"
+    "check": "npm run lint && npm run typecheck && npm test",
+    "check:seo": "node scripts/check-seo.mjs"
   },
   "dependencies": {
     "botid": "1.5.11",

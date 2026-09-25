@@ -12,22 +12,30 @@ cp .env.example .env.local
 npm run dev
 ```
 
-검사는 `npm run build`와 `npm run check`로 실행한다. GitHub Actions도 같은 검사를 실행한다.
+검사는 `npm run build`와 `npm run check`로 실행한다. GitHub Actions도 같은 검사를 실행한다. HTTP SEO 검사는 서버를 실행한 뒤 별도로 수행한다.
+
+```sh
+npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https://www.scene-trip.com
+```
+
+`--base-url`은 실제 검사할 서버이고 `--canonical-origin`은 페이지에 표시되어야 하는 정식 도메인이다. 검사할 페이지는 사이트맵에서 읽으며 최대 4개 요청을 동시에 보낸다.
 
 ## 화면과 콘텐츠
 
-- 작품 70편에서 고른 로케이션 투어 80개와 방문 순서를 제공한다. 한 작품의 장면을 가까운 촬영지끼리 묶어 하루 안에 방문하도록 구성한다. 한 작품에 여러 투어가 있을 수 있다. 지역 필터는 없다.
+- 한 작품의 장면을 가까운 촬영지끼리 묶어 하루 안에 방문할 수 있는 로케이션 투어와 방문 순서를 제공한다. 한 작품에 여러 투어가 있을 수 있다. 지역 필터는 없다.
 - 영어·한국어 작품명과 스토리·장면·장소를 조합해 검색한다. 한국 영화·드라마와 시리즈·해외 영화 분류와 소요 시간 필터를 함께 쓸 수 있다.
 - 검색어·작품 유형·소요 시간은 URL에 남는다. 상세 페이지에서 뒤로 가거나 목록 링크로 돌아와도 같은 필터가 적용되며 새로고침·링크 공유도 지원한다.
 - 상세 페이지는 스크롤 애니메이션 없이 열린다. 브라우저 뒤로가기는 이전 위치를 복원하며, `All stories`도 같은 탭에서 필터별로 보던 위치를 복원한다. 저장한 위치가 없으면 목록 시작점으로 이동한다.
 - 북마크로 저장한 코스를 `/saved`에서 모아본다. 같은 브라우저에서 새로고침과 재방문 후에도 유지되며 저장 취소도 가능하다.
 - 장소마다 주요 장면, 확인된 회차, 방문 팁, Google Maps와 NAVER Map 링크가 있다.
-- 79개 코스에 이미지를 제공하며 실제 드라마 스틸과 촬영지 사진을 구분한다. 사진이 없는 돌담병원 코스에는 방문 순서를 표시한 표지를 쓴다.
+- 실제 드라마 스틸과 촬영지 사진을 구분한다. 사진이 없는 코스에는 방문 순서를 표시한 표지를 쓴다.
 - 작품 추가와 장면 추가 요청을 받는다. 코스에서 요청하면 작품명이 채워진다.
 
 `src/domains/drama/data/routes.json`에서 콘텐츠를 관리한다. 장면과 회차는 출처를 확인한 뒤 추가한다. 이동 시간은 현지 일정의 추정치이며 첫 장소까지 가는 시간은 별도다.
 
-이미지 출처와 표시된 권리자는 각 코스에 기록했다. 보강한 사진 69개의 원본 URL, 장소 일치 근거, 확인한 이용 조건은 `docs/image-sources.json`에 있다. 라이선스가 명시된 사진은 상세 화면에 라이선스 링크와 변환 내역도 표시한다. 나머지 이미지의 상업적 재사용 허가를 확보했다는 뜻은 아니다. 광고를 켜기 전에 직접 촬영한 사진이나 허가받은 자료로 교체하거나 이용 조건을 확인한다.
+2026-09-25 로컬 카탈로그는 70작품·100투어·181정거장이다. 기존 작품에 20투어·25정거장을 추가했고, 여러 투어가 있는 21작품에는 비교 가이드를 연결했다. 통합 빌드와 로컬 검증은 통과했으며, 운영 배포와 검색 등록 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 따로 남긴다.
+
+이미지 출처와 표시된 권리자는 각 코스에 기록했다. 보강한 사진 79개의 원본 URL, 장소 일치 근거, 확인한 이용 조건은 `docs/image-sources.json`에 있다. 라이선스가 명시된 사진은 상세 화면에 라이선스 링크와 변환 내역도 표시한다. 나머지 이미지의 상업적 재사용 허가를 확보했다는 뜻은 아니다. 광고를 켜기 전에 직접 촬영한 사진이나 허가받은 자료로 교체하거나 이용 조건을 확인한다.
 
 ## Slack 피드백
 
@@ -57,11 +65,23 @@ npm run dev
 
 참고: [AdSense 사이트 연결](https://support.google.com/adsense/answer/7584263?hl=en), [동의 관리 요구사항](https://support.google.com/adsense/answer/13554116?hl=en)
 
+## SEO와 검색 등록
+
+정식 도메인은 [www.scene-trip.com](https://www.scene-trip.com)이다. 작업 시작 당시 이 도메인의 canonical과 사이트맵은 이전 Vercel 주소를 가리켰다. Vercel의 Production·Preview·Development 환경변수를 정식 도메인으로 바꿨으며, 변경한 빌드와 운영 URL을 다시 검증한다.
+
+투어마다 작품명·지역·장면을 반영한 고유 검색 제목과 설명을 작성한다. canonical·Open Graph·Twitter 주소는 정식 도메인을 사용한다. 개인 저장 목록과 요청 폼에는 noindex를 지정한다.
+
+`/filming-locations`는 70개 작품의 탐색 목록이다. `/filming-locations/[slug]`의 21개 작품 가이드는 여러 투어의 장면·지역·이동 방법을 비교하며 개별 `/stories/[slug]`로 연결한다. 투어가 하나인 작품은 탐색 목록에서 해당 투어로 바로 연결한다.
+
+구조화 데이터는 Organization, WebSite, CollectionPage, ItemList, BreadcrumbList, TouristTrip을 사용한다. 사이트맵에는 공개 페이지와 콘텐츠 수정일을 넣고 robots.txt에서 정식 사이트맵을 가리킨다. Google 색인·검색 결과 표시·순위는 이 코드 검사와 별도로 확인한다.
+
+`GOOGLE_SITE_VERIFICATION`과 `BING_SITE_VERIFICATION`은 선택 값이다. 검색 서비스가 발급한 메타 태그의 `content` 값만 설정하고 재배포한다. 소유권 확인과 사이트맵 제출 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 남긴다.
+
+전체 촬영지 자료 대신 카드·검색에 필요한 데이터만 브라우저에 전달한다. 저장 기능에는 코스 ID 목록만 전달하며, 폰트는 `next/font`가 준비한 파일을 사이트에서 제공한다. 이전 80투어 기준 데이터 크기와 아직 남은 검증도 SEO 작업 기록에 구분했다.
+
 ## GitHub와 Vercel
 
-투어마다 작품명·지역·장면을 반영한 고유 검색 제목과 설명을 작성했다. SEO는 서버에서 렌더링한 투어별 제목·설명, canonical URL, Open Graph·Twitter 이미지, 사이트맵, robots.txt와 JSON-LD를 포함한다. 구조화 데이터는 WebSite, ItemList, BreadcrumbList, TouristTrip을 사용한다. 개인 저장 목록과 요청 폼에는 noindex를 지정한다. Google 색인과 검색 순위는 별도로 확인해야 한다.
-
-저장소는 `eomttt/scene-korea`다. Vercel 프로젝트 `scene-korea`에 연결되어 있으며 운영 주소는 https://scene-korea-mauve.vercel.app 이다.
+저장소는 `eomttt/scene-korea`다. Vercel 프로젝트 `scene-korea`에 연결되어 있다. 이전 주소 [scene-korea-mauve.vercel.app](https://scene-korea-mauve.vercel.app)은 정식 도메인으로 이동하도록 관리한다.
 
 GitHub 저장소를 Vercel에 연결하면 main 브랜치는 운영 배포, 다른 브랜치와 PR은 검토용 배포로 관리할 수 있다. `NEXT_PUBLIC_SITE_URL`은 확정된 운영 도메인으로 설정한다. 공개 환경변수를 바꾸면 다시 빌드해야 한다.
 
@@ -74,5 +94,7 @@ Next.js 규칙에 따라 URL과 페이지 조합은 루트 `app/`에 둔다. 도
 [콘텐츠 조사 방법](docs/content-research-workflow.md)에 따라 영미권·중화권·일본권·유럽 커뮤니티에서 작품을 찾는다. 한국 블로그·관광 자료·외국 블로그에서 촬영지를 조사한 뒤 가까운 장면을 하루 코스로 묶는다.
 
 [2026-09-25 조사 결과](docs/research-2026-09-25.md)에 새 작품 후보 11개와 장면별 코스안을 정리했다. 그중 9개 작품과 기존 《도깨비》의 새 이야기를 [10개 투어로 추가했다](docs/published-tours-2026-09-25.md).
+
+이어 기존 작품의 다른 장소·장면으로 20개 투어를 추가했다. [추가 장면 조사 기록](docs/research-2026-09-25-additional-scenes.md)에 한국·해외 블로그와 관광 자료, 장면별 확인 범위와 방문 제한을 정리했다.
 
 `docs/research.md`는 초기 수요 조사 기록이다. 해외 팬 조사와 추가한 20개 코스의 근거는 `docs/overseas-fan-research.md`에 있다. 장면 출처는 내부 데이터에 보존하며 화면의 Scene reference 링크는 제거했다. 화면의 장소와 방문 순서는 이후 수정된 `routes.json`을 기준으로 한다.

@@ -1,4 +1,5 @@
 import type { DramaRoute } from "./drama-routes";
+import type { RouteSearchIndex } from "../models/model-drama-card";
 
 export type TourCategory = "all" | "drama" | "korean-film" | "international-film";
 export type TourDuration = "all" | "short" | "half-day" | "full-day";
@@ -21,18 +22,23 @@ function normalizeSearch(value: string) {
   return value.normalize("NFKC").toLowerCase().replace(/['’]/gu, "").replace(/[^\p{L}\p{N}]+/gu, " ").trim();
 }
 
-export function matchesRouteSearch(route: DramaRoute, query: string) {
-  const terms = normalizeSearch(query).split(/\s+/u).filter(Boolean);
+export function createRouteSearchIndex(route: DramaRoute): RouteSearchIndex {
   const compactTitles = [route.title, route.ko, ...route.aliases].map((title) => normalizeSearch(title).replace(/\s+/gu, ""));
-  const searchable = normalizeSearch([
+  const searchText = normalizeSearch([
     route.title, route.ko, route.course, route.hook, route.tourArea,
     ...route.aliases,
     ...route.stops.flatMap((stop) => [stop.name, stop.ko, stop.sceneTitle, stop.scene, stop.query]),
   ].join(" "));
-  return terms.every((term) => searchable.includes(term) || compactTitles.some((title) => title.includes(term)));
+  return { searchText, compactTitles };
 }
 
-export function matchesTourDuration(route: DramaRoute, duration: TourDuration) {
+export function matchesRouteSearch(route: DramaRoute | { searchIndex: RouteSearchIndex }, query: string) {
+  const terms = normalizeSearch(query).split(/\s+/u).filter(Boolean);
+  const { searchText, compactTitles } = "searchIndex" in route ? route.searchIndex : createRouteSearchIndex(route);
+  return terms.every((term) => searchText.includes(term) || compactTitles.some((title) => title.includes(term)));
+}
+
+export function matchesTourDuration(route: { maxHours: number }, duration: TourDuration) {
   if (duration === "short") return route.maxHours <= 3;
   if (duration === "half-day") return route.maxHours <= 5;
   if (duration === "full-day") return route.maxHours > 5;

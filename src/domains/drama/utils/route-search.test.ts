@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { test } from "node:test";
 import { dramaRoutes, getDramaRoute } from "./drama-routes";
 import { matchesRouteSearch, matchesTourDuration } from "./route-search";
+import { dramaRouteToCollectionItem } from "../parsers/drama-route-to-card";
 
 test("finds a route by a work title combined with a filming place", () => {
   const matches = dramaRoutes.filter((route) => matchesRouteSearch(route, "Itaewon Noksapyeong"));
@@ -35,4 +36,15 @@ test("a film title does not match unrelated words joined across spaces", () => {
   assert.ok(unrelatedRoute && filmRoute);
   assert.equal(matchesRouteSearch(unrelatedRoute, "HERO"), false);
   assert.equal(matchesRouteSearch(filmRoute, "HERO"), true);
+});
+
+test("the collection search index preserves title, scene and place results without full route data", () => {
+  const collectionItems = dramaRoutes.map(dramaRouteToCollectionItem);
+  const queries = ["이태원클라쓰", "Itaewon Noksapyeong", "ＩＴＡＥＷＯＮ", "HERO", "Hwahongmun confession", "Hanmi Bookstore", "guitar", "겨울 연가", "impossible-location", ""];
+
+  for (const query of queries) {
+    const expected = dramaRoutes.filter((route) => matchesRouteSearch(route, query)).map((route) => route.id);
+    const actual = collectionItems.filter((route) => matchesRouteSearch(route, query)).map((route) => route.id);
+    assert.deepEqual(actual, expected, query);
+  }
 });

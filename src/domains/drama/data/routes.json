@@ -1051,7 +1051,7 @@
       "format": "Drama",
       "tourArea": "Seoul",
       "seoTitle": "Hotel del Luna: Seoul’s Hotel and Bookshop Memories Tour",
-      "seoDescription": "Trace the hotel’s past, then visit a library of unfinished wishes. Explore Hotel del Luna filming locations in Seoul with scene notes and maps.",
+      "seoDescription": "Visit Hotel del Luna filming locations at Hotel Seine and Seoul Book Bogo. Follow the hotel and bookshop scenes on a self-guided Seoul outing with maps.",
       "category": "drama",
       "maxHours": 4,
       "aliases": [],
@@ -1738,7 +1738,7 @@
       "format": "Drama",
       "tourArea": "Seoul",
       "seoTitle": "Start-Up: Sandbox Dreams at Seoul’s Filming Locations",
-      "seoDescription": "Explore the two real places edited together as Sandbox. Explore Start-Up filming locations in Seoul with scene notes and maps.",
+      "seoDescription": "Visit Oil Tank Culture Park and Nodeul Island, the real Seoul locations behind Start-Up’s Sandbox. Follow the scenes with maps and a one-day route.",
       "category": "drama",
       "maxHours": 5,
       "aliases": [],
@@ -3075,7 +3075,7 @@
       "start": "Gamcheon Culture Village main visitor entrance, Busan",
       "visitNote": "Allow about two hours in Gamcheon and two hours around the markets, plus the local transfer. The village has changed since filming in 2007. Follow posted visitor hours and stay on public lanes; the film does not grant access to residents’ homes.",
       "tourArea": "Gamcheon and Nampo, Busan",
-      "seoTitle": "HERO Busan Filming Locations: Gamcheon & Market Tour",
+      "seoTitle": "HERO (2007) Busan Filming Locations: Gamcheon & Market Tour",
       "seoDescription": "Follow the 2007 Japanese film HERO through Gamcheon, Jagalchi and Gukje Market in Busan. A self-guided half-day tour with scene notes and map links.",
       "image": "hero-busan-investigation",
       "imageType": "Filming location",
@@ -3657,7 +3657,7 @@
           "url": "https://monpetitvoyage.pixnet.net/blog/posts/15291447088"
         }
       ],
-      "seoTitle": "Moon Lovers: The Pocheon Lake Where Time Changes",
+      "seoTitle": "Moon Lovers: Scarlet Heart Ryeo — Pocheon Filming Location",
       "seoDescription": "Find the lake that opens Ha-jin’s journey in Moon Lovers at Pocheon Art Valley. Spend a short afternoon beside Cheonjuho’s cliffs and viewing paths.",
       "image": "moon-lovers-pocheon-crossing-time",
       "imageType": "Filming location",
@@ -5050,6 +5050,1155 @@
       "checkedAt": "2026-09-25",
       "imageLicense": "CC BY-SA 1.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/1.0/",
+      "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    },
+    {
+      "title": "Lovely Runner",
+      "ko": "선재 업고 튀어",
+      "audienceType": "Fan travel guide",
+      "audience": "Filipina travel writer Roseanne Ducut includes the birthday and Ferris-wheel scenes in her English-language Lovely Runner location guide.",
+      "audienceKo": "필리핀계 여행 작가의 영어 촬영지 가이드에서 삽교호 생일 장면과 대관람차 재회 장면을 소개했다. 해당 장소를 직접 방문했다는 주장으로 사용하지 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "lovely-sapgyoho-second-ride-location",
+      "imageType": "Filming location",
+      "imageCaption": "The Ferris wheel at Sapgyoho Amusement Park, photographed in 2020.",
+      "credit": "South Chungcheong Province / KOGL / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Sapgyoho_amusement_park,_Dangjin,_South_Chungcheong_Province,_South_Korea.jpg",
+      "checkedAt": "2026-09-25",
+      "id": "lovely-sapgyoho-second-ride",
+      "course": "A birthday necklace and a second Ferris-wheel ride",
+      "hook": "Return to the amusement park where Sol and Sun-jae share a birthday gift, then meet again.",
+      "duration": "2–3 hours",
+      "maxHours": 3,
+      "transport": "Walk inside the park; bus or taxi to Dangjin",
+      "start": "Sapgyoho Amusement Park, Dangjin",
+      "tourArea": "Sapgyoho, Dangjin",
+      "visitNote": "This is one amusement-park stop. Allow 2–3 hours on site, with extra time for the journey to Dangjin. Check ride operation and return transport before setting out; the Ferris wheel is optional.",
+      "seoTitle": "Lovely Runner Filming Location: Sapgyoho Ferris Wheel",
+      "seoDescription": "Revisit Sol and Sun-jae’s birthday gift and Ferris-wheel reunion at Sapgyoho Amusement Park in Dangjin on a 2–3 hour filming-location visit.",
+      "stops": [
+        {
+          "name": "Sapgyoho Amusement Park",
+          "ko": "삽교호놀이동산",
+          "kind": "Filming location",
+          "query": "당진 삽교호놀이동산 삽교천3길 15",
+          "sceneTitle": "A birthday gift, then a second ride",
+          "scene": "Sun-jae gives Sol a necklace when they celebrate her birthday here. Later, he runs into her during a work trip, and they ride the Ferris wheel again.",
+          "visit": "Walk through the park toward the Ferris wheel. Take in the lake views from the ground, or buy a ride ticket if it is operating.",
+          "episode": "",
+          "source": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Hey Roseanne · birthday and reunion scenes",
+          "url": "https://heyroseanne.com/lovely-runner-filming-locations/"
+        },
+        {
+          "label": "Korea Tourism Organization · Sapgyoho filming location and visitor information",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1589867"
+        }
+      ],
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "imageChanges": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    },
+    {
+      "title": "Queen of Tears",
+      "ko": "눈물의 여왕",
+      "audienceType": "International screen tourism",
+      "audience": "VISITKOREA’s English-language Queen of Tears itinerary takes overseas readers to the garden used for Hae-in’s department-store scenes.",
+      "audienceKo": "기존 작품 수요 자료를 이어 쓰되, 일월수목원 방문 근거는 관광공사 영어 코스와 한국 방문기로 분리했다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "queen-irwol-rooftop-garden-location",
+      "imageType": "Filming location",
+      "imageCaption": "Inside the Irwol Arboretum greenhouse in Suwon, photographed in 2023.",
+      "credit": "Jpbarrass / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Inside_Irwol_Arboretum_Upstairs.jpg",
+      "checkedAt": "2026-09-25",
+      "id": "queen-irwol-rooftop-garden",
+      "course": "A quiet conversation in Queens’ rooftop garden",
+      "hook": "Step into the greenhouse that became a pocket of calm above the department store.",
+      "duration": "1.5–2.5 hours",
+      "maxHours": 2.5,
+      "transport": "Walk; local bus or taxi to the arboretum",
+      "start": "Irwol Arboretum visitor entrance, Suwon",
+      "tourArea": "Irwol Arboretum, Suwon",
+      "visitNote": "This is a single arboretum visit with the greenhouse as its scene stop. Check current admission and greenhouse access before going. The rooftop garden in the story is an arboretum in real life.",
+      "seoTitle": "Queen of Tears Filming Location: Irwol Arboretum, Suwon",
+      "seoDescription": "Visit the Suwon greenhouse used as Queens Department Store’s rooftop garden in Queen of Tears, with scene notes and maps for a 1.5–2.5 hour visit.",
+      "stops": [
+        {
+          "name": "Irwol Arboretum greenhouse",
+          "ko": "일월수목원 전시온실",
+          "kind": "Filming location",
+          "query": "수원 일월수목원 일월로 61",
+          "sceneTitle": "Feelings surface in the rooftop garden",
+          "scene": "The arboretum stands in for Queens Department Store’s rooftop garden. Hae-in and Hyun-woo’s conversations unfold among the plants; the glasshouse gives this part of their story its sheltered setting.",
+          "visit": "Follow the visitor paths to the exhibition greenhouse, then take a slow walk through the surrounding gardens. Keep planted beds and staff areas clear.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=228261"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Queens Department Store garden",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=228261"
+        },
+        {
+          "label": "Springeye · Korean visitor diary and greenhouse scene",
+          "url": "https://www.springeye1.com/2024/10/IrwolArboretum.html"
+        }
+      ],
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "imageChanges": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    },
+    {
+      "title": "Crash Landing on You",
+      "ko": "사랑의 불시착",
+      "audienceType": "Overseas viewing",
+      "audience": "Netflix reported the drama reaching Top 10 lists in the Philippines, Singapore, Taiwan and Thailand.",
+      "audienceKo": "해외 인지도는 높다. 한국 안에서 방문 가능한 재회 장면과 서브 커플의 장면으로 코스를 구성했다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "",
+      "imageType": "Filming location",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "checkedAt": "2026-09-25",
+      "id": "cloy-yeongwol-first-flight",
+      "course": "The flight that changes Se-ri’s life",
+      "hook": "Look across the mountains from the launch area where Se-ri’s story takes off.",
+      "duration": "2–3 hours",
+      "maxHours": 3,
+      "transport": "Car or taxi from Yeongwol; short walks on site",
+      "start": "Byeolmaro Observatory, Yeongwol",
+      "tourArea": "Bongnaesan, Yeongwol",
+      "visitNote": "Plan this as a short outing from Yeongwol, including the mountain drive. Arrange return transport before going. This route is for the permitted viewpoints by the launch area; paragliding and indoor observatory programs are separate activities with their own arrangements.",
+      "seoTitle": "Crash Landing on You Filming Location: Yeongwol Takeoff",
+      "seoDescription": "See the mountain launch area beside Byeolmaro Observatory where Se-ri’s first flight begins in Crash Landing on You. A 2–3 hour Yeongwol outing.",
+      "stops": [
+        {
+          "name": "Bongnaesan launch area by Byeolmaro Observatory",
+          "ko": "별마로천문대 옆 봉래산 활공장",
+          "kind": "Filming location",
+          "query": "영월 별마로천문대 천문대길 397",
+          "sceneTitle": "Se-ri takes off",
+          "scene": "Se-ri begins her paragliding flight beside Byeolmaro Observatory in the first episode. The mountain launch is in Yeongwol; the forest where she lands was filmed elsewhere.",
+          "visit": "Use the permitted paths and viewpoints beside the observatory. Keep clear of the active launch area and check with staff before approaching it.",
+          "episode": "Episode 1",
+          "source": "https://tripplus.mk.co.kr/domestic/article/129121/"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Korea Travel Guidebook, page 52",
+          "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s"
+        },
+        {
+          "label": "Travel Plus · takeoff and landing locations",
+          "url": "https://tripplus.mk.co.kr/domestic/article/129121/"
+        },
+        {
+          "label": "The Soul of Seoul · Byeolmaro filming visit guide",
+          "url": "https://thesoulofseoul.net/crash-landing-on-you-filming-locations/"
+        },
+        {
+          "label": "Netflix · overseas viewing evidence",
+          "url": "https://about.netflix.com/en/news/netflix-building-home-of-best-in-class-stories-from-korea"
+        }
+      ]
+    },
+    {
+      "title": "Hometown Cha-Cha-Cha",
+      "ko": "갯마을 차차차",
+      "audienceType": "Trip intent",
+      "audience": "An English-language Korea travel post specifically considers adding Pohang to a trip because of this drama. Another asks how to reach the locations without renting a car.",
+      "audienceKo": "해외 여행 커뮤니티에서 이 작품 때문에 포항을 일정에 넣으려는 질문을 확인했다. 차량 이동 안내가 상품의 중요한 가치가 된다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "",
+      "imageType": "Filming location",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "checkedAt": "2026-09-25",
+      "id": "hometown-wolpo-first-meeting",
+      "course": "A lost shoe on Gongjin’s shore",
+      "hook": "Return to the beach where Hye-jin’s missing heel brings Chief Hong into her day.",
+      "duration": "1–2 hours",
+      "maxHours": 2,
+      "transport": "Walk along the beach; local transport to Wolpo",
+      "start": "Wolpo Beach, Pohang",
+      "tourArea": "Wolpo Beach, Pohang",
+      "visitNote": "This is one beach stop, separate from the market and hilltop-boat route. Stay on the public Wolpo beachfront; the map points to the beach rather than an exact camera position. Check the weather and return transport.",
+      "seoTitle": "Hometown Cha-Cha-Cha Filming Location: Wolpo Beach",
+      "seoDescription": "Walk Wolpo Beach in Pohang, the setting for Chief Hong’s surfing and Hye-jin’s lost-shoe encounter in Hometown Cha-Cha-Cha. Allow 1–2 hours.",
+      "stops": [
+        {
+          "name": "Wolpo Beach",
+          "ko": "월포해수욕장",
+          "kind": "Filming location",
+          "query": "포항 월포해수욕장",
+          "sceneTitle": "A missing heel and a chance encounter",
+          "scene": "Chief Hong surfs at Wolpo Beach. It is also the shore associated with Hye-jin losing her heels and meeting the man who finds one of them, turning a day at the seaside into the beginning of their story.",
+          "visit": "Walk the public shoreline and pause with the sea behind you. The scene stop does not require swimming or surfing.",
+          "episode": "",
+          "source": "https://www.pinoyseoul.com/2022/10/lets-go-back-to-gongjin-its-been-year.html"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Chief Hong’s surfing beach",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+        },
+        {
+          "label": "PinoySeoul · lost-shoe and beach scenes",
+          "url": "https://www.pinoyseoul.com/2022/10/lets-go-back-to-gongjin-its-been-year.html"
+        },
+        {
+          "label": "Reddit · fans visiting Wolpo and Gongjin",
+          "url": "https://www.reddit.com/r/kimseonho/comments/zkxt9b/trip_to_gongjin_hometown_cha_cha_cha_locations/"
+        },
+        {
+          "label": "Reddit · planning a Pohang trip",
+          "url": "https://www.reddit.com/r/koreatravel/comments/1kadltb/"
+        }
+      ]
+    },
+    {
+      "title": "Our Beloved Summer",
+      "ko": "그 해 우리는",
+      "audienceType": "Japanese fan guide",
+      "audience": "A Japanese viewer’s location guide singles out the forest retreat after praising the drama’s cast, music and scenery.",
+      "audienceKo": "일본어 개인 감상·촬영지 가이드의 작품 호감과 방문 참고 자료. 개인의 실제 온빛 방문으로 보지는 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "",
+      "imageType": "Filming location",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "checkedAt": "2026-09-25",
+      "id": "summer-onbit-documentary-retreat",
+      "course": "The documentary’s forest escape",
+      "hook": "Find the yellow house where Ji-ung takes Ung and Yeon-su away from their everyday lives.",
+      "duration": "1–2 hours",
+      "maxHours": 2,
+      "transport": "Car or taxi to the forest; walk on site",
+      "start": "Onbit Natural Recreation Forest, Nonsan",
+      "tourArea": "Onbit Forest, Nonsan",
+      "visitNote": "This is a single forest stop. The yellow building is an administration office, not visitor accommodation. Check whether visitor paths are open before travelling, stay on permitted paths, and arrange the return journey in advance.",
+      "seoTitle": "Our Beloved Summer Filming Location: Onbit Forest",
+      "seoDescription": "Find the yellow forest house from Ung and Yeon-su’s documentary trip in Our Beloved Summer. Plan a 1–2 hour walk at Onbit Forest in Nonsan.",
+      "stops": [
+        {
+          "name": "Onbit Natural Recreation Forest",
+          "ko": "온빛자연휴양림",
+          "kind": "Filming location",
+          "query": "논산 온빛자연휴양림 황룡재로 480-113",
+          "sceneTitle": "Ji-ung takes the documentary into the forest",
+          "scene": "Ji-ung takes Ung and Yeon-su to the forest retreat to continue filming the documentary. The yellow building among the trees appears as their vacation house in episodes 7 and 8.",
+          "visit": "Walk the permitted forest paths to see the yellow building from outside. Leave the office interior and other staff areas to the people who work here.",
+          "episode": "Episodes 7–8",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · documentary retreat and office access",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "Creatrip · forest trip scene",
+          "url": "https://creatrip.com/en/news/12068"
+        },
+        {
+          "label": "Yonabe · Japanese fan location guide",
+          "url": "https://note.com/yonabe_korea/n/n3ccd3b744202"
+        }
+      ]
+    },
+    {
+      "title": "My Love from the Star",
+      "ko": "별에서 온 그대",
+      "audienceType": "International fan visits",
+      "audience": "The Korea Times interviewed a visitor from Taipei who came to photograph the kiss location, and an English-language travel blog highlights the same scene.",
+      "audienceKo": "2014년 현장 기사에서 타이베이 방문객의 작품 호감과 촬영지 방문을 확인했다. 당시 방문 사례로서 쓰며 현재 인기도 순위로 확대하지 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "my-love-star-petite-france-kiss-location",
+      "imageType": "Filming location",
+      "imageCaption": "Buildings inside Petite France in Gapyeong, photographed in 2011.",
+      "credit": "kimgon / Pixabay / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Petit-france-korea351022.jpg",
+      "checkedAt": "2026-09-25",
+      "id": "my-love-star-petite-france-kiss",
+      "course": "The kiss that lifts Song-yi off her feet",
+      "hook": "Step into the colorful village where Min-joon brings Song-yi toward him for a kiss.",
+      "duration": "1.5–2.5 hours",
+      "maxHours": 2.5,
+      "transport": "Walk inside the village; local transport to Gapyeong",
+      "start": "Petite France entrance, Gapyeong",
+      "tourArea": "Petite France, Gapyeong",
+      "visitNote": "This is one ticketed village stop. Allow extra travel time to Gapyeong and check current admission before going. Use the venue map or ask staff for the drama photo area; displays may have changed since filming.",
+      "seoTitle": "My Love from the Star Filming Location: Petite France",
+      "seoDescription": "Visit Petite France in Gapyeong for Min-joon and Song-yi’s floating kiss scene from My Love from the Star. A 1.5–2.5 hour stop with map links.",
+      "stops": [
+        {
+          "name": "Petite France",
+          "ko": "쁘띠프랑스",
+          "kind": "Filming location",
+          "query": "가평 쁘띠프랑스 호반로 1063",
+          "sceneTitle": "Min-joon draws Song-yi toward him",
+          "scene": "Min-joon uses his powers to lift Song-yi toward him for a kiss at Petite France. The village’s colorful buildings make the romantic moment easy to place in their story.",
+          "visit": "Explore the village on foot and look for the filming photo area. Follow the venue’s current signs and avoid climbing structures to copy the airborne pose.",
+          "episode": "",
+          "source": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20140319/check-out-where-they-kissed"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Petite France visitor information",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93730"
+        },
+        {
+          "label": "The Korea Times · kiss scene and Taipei fan interview",
+          "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20140319/check-out-where-they-kissed"
+        },
+        {
+          "label": "FloralSprout · English-language Petite France visit guide",
+          "url": "https://floralsprout.wordpress.com/2015/07/18/travel-guide-petite-france/"
+        }
+      ],
+      "imageLicense": "CC0 1.0",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "imageChanges": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    },
+    {
+      "title": "Business Proposal",
+      "ko": "사내맞선",
+      "audienceType": "International fan guide",
+      "audience": "The bilingual Korea.travel.art fan blog identifies the finale’s proposal park; Tatler Asia includes it in a K-drama travel itinerary.",
+      "audienceKo": "중영문 팬 블로그가 마지막 청혼 장소를 식별했고 해외 매체가 여행지로 소개했다. 실제 개인 방문 기록이나 인기 순위로 확대하지 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "",
+      "imageType": "Filming location",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "checkedAt": "2026-09-25",
+      "id": "business-proposal-jayu-promise",
+      "course": "A promise on the park path",
+      "hook": "Walk the Incheon park where Tae-moo and Ha-ri’s story ends with a proposal.",
+      "duration": "1–2 hours",
+      "maxHours": 2,
+      "transport": "Walk from Incheon Station",
+      "start": "Jayu Park, Incheon",
+      "tourArea": "Jayu Park, Incheon",
+      "visitNote": "This is one park stop with an uphill approach from Incheon Station. The map opens Jayu Park, not an exact filming pin. Cherry blossoms are seasonal; a walk here does not depend on catching them in bloom.",
+      "seoTitle": "Business Proposal Filming Location: Jayu Park, Incheon",
+      "seoDescription": "Follow Tae-moo and Ha-ri’s final proposal scene to Jayu Park in Incheon. Plan a 1–2 hour filming-location walk with scene notes and map links.",
+      "stops": [
+        {
+          "name": "Jayu Park",
+          "ko": "자유공원",
+          "kind": "Filming location",
+          "query": "인천 자유공원 제물량로232번길 46",
+          "sceneTitle": "Tae-moo asks Ha-ri to marry him",
+          "scene": "In the finale, Tae-moo proposes to Ha-ri while they walk through Jayu Park. The tree-lined paths provide the setting for their last romantic scene.",
+          "visit": "Follow the public park paths at your own pace, then take in the view over the port. Allow time for the uphill walk from the station.",
+          "episode": "Final episode",
+          "source": "https://www.tatlerasia.com/lifestyle/travel/5-k-dramas-tourist-spots"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Jayu Park visitor information",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105439"
+        },
+        {
+          "label": "Tatler Asia · finale proposal scene",
+          "url": "https://www.tatlerasia.com/lifestyle/travel/5-k-dramas-tourist-spots"
+        },
+        {
+          "label": "Korea.travel.art · bilingual fan location guide",
+          "url": "https://koreatravelart.wordpress.com/2022/04/09/%E7%A4%BE%E5%85%A7%E7%9B%B8%E8%A6%AA%E5%85%B6%E4%BB%96%E6%8B%8D%E6%94%9D%E5%9C%B0%E9%BB%9E-business-proposal-other-filming-locations/"
+        }
+      ]
+    },
+    {
+      "title": "King the Land",
+      "ko": "킹더랜드",
+      "audienceType": "International fan guide",
+      "audience": "An English-language Jeju K-drama guide identifies Parnas as the real hotel behind King the Land’s lobby shots.",
+      "audienceKo": "해외 독자용 개인 여행 가이드의 킹더랜드 촬영지 소개를 확인했다. 비투숙객 출입 허용 여부의 근거로 사용하지 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "",
+      "imageType": "Filming location",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "checkedAt": "2026-09-25",
+      "id": "king-the-land-parnas-lobby",
+      "course": "Inside King Hotel’s sunlit lobby",
+      "hook": "Look up through the tall glass-roofed lobby that gives King Hotel its on-screen grandeur.",
+      "duration": "1–1.5 hours",
+      "maxHours": 1.5,
+      "transport": "Local bus or taxi to Jungmun; walk inside the hotel",
+      "start": "Parnas Hotel Jeju, Jungmun",
+      "tourArea": "Jungmun, Jeju",
+      "visitNote": "This is a single hotel-lobby stop. Contact the hotel before making a special trip to ask about non-guest lobby or café access. Follow staff guidance on photography; guest floors, pools and other private facilities are outside this route.",
+      "seoTitle": "King the Land Filming Location: Parnas Hotel Jeju Lobby",
+      "seoDescription": "See the sunlit Parnas Hotel Jeju lobby used in King the Land. A 1–1.5 hour Jungmun stop with scene notes, maps and advice for a permitted visit.",
+      "stops": [
+        {
+          "name": "Parnas Hotel Jeju lobby",
+          "ko": "파르나스 호텔 제주 로비",
+          "kind": "Filming location",
+          "query": "파르나스 호텔 제주 중문관광로72번길 100",
+          "sceneTitle": "The bright interior of King Hotel",
+          "scene": "King the Land uses Parnas Hotel Jeju for its hotel-lobby shots. The tall glass ceiling and open, curved interior are recognizable parts of the world where Sa-rang works and Gu Won’s hotel story unfolds.",
+          "visit": "If the hotel allows your visit, take in the lobby from its public guest areas or combine the stop with a café booking. Ask staff where photography is welcome.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=862&vcontsId=201097"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · King the Land lobby location",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=862&vcontsId=201097"
+        },
+        {
+          "label": "Korea Tourism Organization · Parnas Hotel Jeju",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194339"
+        },
+        {
+          "label": "Hey Roseanne · Jeju filming-location guide",
+          "url": "https://heyroseanne.com/kdrama-filming-locations-in-jeju/"
+        }
+      ]
+    },
+    {
+      "title": "True Beauty",
+      "ko": "여신강림",
+      "audienceType": "International screen tourism",
+      "audience": "VISITKOREA’s English-language True Beauty guide presents Namhae as the couple’s date location, alongside the drama’s Seoul locations.",
+      "audienceKo": "기존 작품의 외국인 수요 맥락을 사용하고 남해 장면은 관광공사 영어 원문으로 확인했다. 한국 방문 후기의 과거 정비 상황은 현재 폐쇄로 단정하지 않는다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "true-beauty-namhae-seaside-date-location",
+      "imageType": "Filming location",
+      "imageCaption": "Sangju Silver Sand Beach in Namhae, photographed in 2019.",
+      "credit": "Choi2451 / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Sangju_Eunmorae_Beach.jpg",
+      "checkedAt": "2026-09-25",
+      "id": "true-beauty-namhae-seaside-date",
+      "course": "A seaside date above the waves",
+      "hook": "Follow Su-ho and Ju-kyung from a sky-high swing to a run along Namhae’s silver-sand beach.",
+      "duration": "3–4 hours",
+      "maxHours": 4,
+      "transport": "Car or taxi between two stops; short walks",
+      "start": "Seolli Skywalk, Namhae",
+      "tourArea": "Seolli and Sangju, southern Namhae",
+      "visitNote": "Keep this route to southern Namhae, with a car or prearranged taxi between the skywalk and Sangju beach. Skywalk and swing operation can change with maintenance and weather; check before departure. Riding the swing is optional.",
+      "seoTitle": "True Beauty Filming Locations: A Namhae Seaside Date",
+      "seoDescription": "Trace Su-ho and Ju-kyung’s Namhae date at Seolli Skywalk and Sangju Silver Sand Beach. A 3–4 hour True Beauty route with scene notes and map links.",
+      "stops": [
+        {
+          "name": "Seolli Skywalk",
+          "ko": "설리스카이워크",
+          "kind": "Filming location",
+          "query": "남해 설리스카이워크 미송로303번길 176",
+          "sceneTitle": "A date on the skywalk swing",
+          "scene": "Su-ho and Ju-kyung grow closer on their Namhae date at Seolli Skywalk. The swing at the end of the viewing deck appears in their seaside outing.",
+          "visit": "Walk the deck if it is open and look out across the coast. Choose the swing only if it is operating and you want the ride; the view is a visit in itself.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&menuSn=862&vcontsId=138100"
+        },
+        {
+          "name": "Sangju Silver Sand Beach",
+          "ko": "상주은모래비치",
+          "kind": "Filming location",
+          "query": "남해 상주은모래비치 상주로 17",
+          "sceneTitle": "A beach run interrupted by a call",
+          "scene": "Su-ho and Ju-kyung run along this beach before an urgent phone call from Seo-jun interrupts their time together.",
+          "visit": "After the drive from Seolli, take an unhurried walk on the public sand. Leave time to sit by the shore before your return journey.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&menuSn=862&vcontsId=138100"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · skywalk and beach scenes",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&menuSn=862&vcontsId=138100"
+        },
+        {
+          "label": "Trip.com · Korean traveler’s Seolli Skywalk visit",
+          "url": "https://us.trip.com/moments/detail/gyeongsangnam-do-21416-11167444/"
+        }
+      ],
+      "imageLicense": "CC0 1.0",
+      "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "imageChanges": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    },
+    {
+      "title": "Hotel del Luna",
+      "ko": "호텔 델루나",
+      "audienceType": "International fan visits",
+      "audience": "A Korean travel diary describes seeing foreign visitors arrive with IU photos, while Trazy’s English-language fan itinerary points readers to the hotel entrance.",
+      "audienceKo": "2021년 방문을 기록한 한국 블로그가 아이유 사진을 들고 온 외국인 방문객을 관찰했다. 당시 사례이며 현재 관광객 규모의 근거는 아니다.",
+      "aliases": [],
+      "format": "Drama",
+      "category": "drama",
+      "image": "hotel-del-luna-mokpo-front-door-location",
+      "imageType": "Filming location",
+      "imageCaption": "The façade and entrance of Mokpo Modern History Museum No. 1, photographed in 2024.",
+      "credit": "Mobius6 / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_1)_20241005_001.jpg",
+      "checkedAt": "2026-09-25",
+      "id": "hotel-del-luna-mokpo-front-door",
+      "course": "At the door of Man-wol’s hotel",
+      "hook": "Find the red-brick entrance that opens onto Hotel del Luna’s world of ghosts.",
+      "duration": "1–2 hours",
+      "maxHours": 2,
+      "transport": "Walk or short taxi ride from Mokpo Station",
+      "start": "Mokpo Modern History Museum No. 1",
+      "tourArea": "Old town, Mokpo",
+      "visitNote": "This is one filming stop at Museum No. 1. The drama connection is the exterior; inside is a history museum, not the hotel set. Check museum opening and courtyard access before visiting.",
+      "seoTitle": "Hotel del Luna Filming Location: The Mokpo Hotel Entrance",
+      "seoDescription": "Find Hotel del Luna’s red-brick entrance at Mokpo Modern History Museum No. 1. A 1–2 hour filming-location visit with scene notes and map links.",
+      "stops": [
+        {
+          "name": "Mokpo Modern History Museum No. 1 exterior",
+          "ko": "목포근대역사관 1관 외관",
+          "kind": "Filming location",
+          "query": "목포근대역사관 1관 영산로29번길 6",
+          "sceneTitle": "The entrance to Hotel del Luna",
+          "scene": "The red-brick museum building appears as Hotel del Luna’s exterior and front entrance. This is the real doorway behind the supernatural hotel run by Jang Man-wol.",
+          "visit": "Photograph the façade from permitted visitor areas. If the museum is open, leave time for its history exhibits, which are separate from the drama setting.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=357652&menuSn=217"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Korea Tourism Organization · Hotel del Luna exterior",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=357652&menuSn=217"
+        },
+        {
+          "label": "Mokpo Tourism · Museum No. 1 address and visitor information",
+          "url": "https://biz.mokpo.go.kr/tour/attraction/museum?idx=7449&mode=view"
+        },
+        {
+          "label": "Black Wolf’s Attic · Korean visit diary and overseas fans",
+          "url": "https://bwolf08.tistory.com/1340"
+        },
+        {
+          "label": "Trazy · hotel entrance scene",
+          "url": "https://blog.trazy.com/hotel-del-luna-itinerary-travel-with-boss-lady-jang-man-wol/"
+        }
+      ],
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "imageChanges": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    },
+    {
+      "id": "goblin-yongdap-fateful-meeting",
+      "title": "Goblin",
+      "ko": "도깨비",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "Sunny and the Grim Reaper cross paths",
+      "hook": "Find the everyday footbridge behind an unforgettable first meeting.",
+      "duration": "45–90 minutes",
+      "maxHours": 1.5,
+      "transport": "Walk",
+      "start": "Yongdap Station, Exit 2",
+      "tourArea": "Yongdap, Seoul",
+      "visitNote": "A short visit to the public footbridge and the stream path below. Keep the bridge clear for residents. Stream access can close after heavy rain; this is a local walking allowance, excluding travel to Yongdap.",
+      "image": "",
+      "imageType": "",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Goblin: Sunny and the Grim Reaper’s Yongdap Bridge",
+      "seoDescription": "Visit Goblin’s Yongdap footbridge in Seoul, where Sunny and the Grim Reaper first meet, then take a short streamside walk in a 45–90 minute outing.",
+      "stops": [
+        {
+          "name": "Yongdap pedestrian bridge",
+          "ko": "용답역 사근용답간 인도교",
+          "kind": "Filming location",
+          "sceneTitle": "A meeting that feels like fate",
+          "scene": "Sunny and the Grim Reaper meet on this pedestrian bridge beside Yongdap Station. The ordinary crossing becomes a recurring place in their relationship.",
+          "visit": "Walk from Exit 2 onto the bridge, then return along the nearby public stream path.",
+          "episode": "",
+          "source": "https://joanamariecamille.wordpress.com/2017/12/17/korea2017-day3/",
+          "query": "서울 용답역 2번출구 사근용답간 인도교"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Seoul city · filming area and station approach",
+          "url": "https://english.seoul.go.kr/hadong-plum-street-cheonggyecheon-stream/"
+        },
+        {
+          "label": "Joana Marie Camille · photographed fan visit, 2017",
+          "url": "https://joanamariecamille.wordpress.com/2017/12/17/korea2017-day3/"
+        }
+      ],
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "vincenzo-seongsu-coffee-truce",
+      "title": "Vincenzo",
+      "ko": "빈센조",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "Coffee and a brief ordinary afternoon",
+      "hook": "Share the café and street-food settings where their partnership softens.",
+      "duration": "2–3 hours",
+      "maxHours": 3,
+      "transport": "Walk + one subway stop",
+      "start": "Seongsu Station, Exit 3",
+      "tourArea": "Seongsu and Jayang, Seoul",
+      "visitNote": "Visit Grandpa Factory, then take Line 2 one stop from Seongsu to Konkuk University and walk to Common Ground. Allow around 20–30 minutes for the transfer and walks. Check both businesses before travel; the same seats and food stalls are not guaranteed.",
+      "image": "vincenzo-seongsu-coffee-truce",
+      "imageType": "Filming location",
+      "imageCaption": "The blue shipping containers at Common Ground in Seoul, photographed in 2024.",
+      "credit": "Gwangjin-gu, Seoul · 2024 / KOGL · 커먼그라운드(필드)_8",
+      "imageSource": "https://www.kogl.or.kr/recommend/recommendDivView.do?division=img&recommendIdx=112698",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Vincenzo: Coffee and Common Ground in Seongsu, Seoul",
+      "seoDescription": "Follow Vincenzo and Cha-young from Grandpa Factory to Common Ground in Seoul. Link two everyday scenes by one subway stop on a relaxed two-to-three-hour visit.",
+      "stops": [
+        {
+          "name": "Grandpa Factory Café",
+          "ko": "성수 할아버지공장",
+          "kind": "Filming location",
+          "sceneTitle": "A coffee break for two",
+          "scene": "Vincenzo and Cha-young drink coffee at Grandpa Factory; the courtyard appears in their café scene.",
+          "visit": "Order a drink if staying. Courtyard seating depends on the café’s current layout and availability.",
+          "episode": "Episode 4",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808",
+          "query": "서울 성동구 성수이로7가길 9 할아버지공장"
+        },
+        {
+          "name": "Common Ground",
+          "ko": "커먼그라운드",
+          "kind": "Filming location",
+          "sceneTitle": "An ordinary meal between allies",
+          "scene": "Vincenzo and Cha-young eat hotdogs and sandwiches at the container shopping complex.",
+          "visit": "Visit the public shopping areas during business hours. This is separate from the episode 3 container scene at Under Stand Avenue.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808",
+          "query": "서울 광진구 아차산로 200 커먼그라운드"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · café and Common Ground scenes, 2022",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        },
+        {
+          "label": "MiddleClass.sg · first-person café visit, 2021",
+          "url": "https://middleclass.sg/treats/grandpa-factory-seongsu/"
+        }
+      ],
+      "checkedAt": "2026-09-25",
+      "imageLicense": "KOGL Type 1 (Attribution)",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "imageChanges": "Public 600 × 400 preview converted to WebP without enlargement. Original image composition retained. Display crops may vary with the viewport."
+    },
+    {
+      "id": "vincenzo-chungju-riverside-confession",
+      "title": "Vincenzo",
+      "ko": "빈센조",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "A difficult conversation by the river",
+      "hook": "Leave the city behind for Vincenzo and Cha-young’s quieter riverside moment.",
+      "duration": "1–2 hours on site",
+      "maxHours": 2,
+      "transport": "Car or taxi + short walk",
+      "start": "Sujupalbong riverside camping area, Munju-ri",
+      "tourArea": "Sujupalbong, Chungju",
+      "visitNote": "Use the Munju-ri riverbank facing the cliffs and suspension bridge. Arrange return transport before arriving; this rural stop is separate from central Chungju. The allowance covers the riverbank only. Follow any flood, camping-area or construction restrictions.",
+      "image": "vincenzo-chungju-riverside-confession",
+      "imageType": "Filming location",
+      "imageCaption": "The Munju-ri riverside camping bank opposite Sujupalbong, Chungju.",
+      "credit": "Dittwjfsdgkvkdjg / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:CS-Sujupalbong.jpg",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Vincenzo: A Quiet Riverside Moment at Sujupalbong",
+      "seoDescription": "Find Vincenzo’s Sujupalbong riverside setting in Chungju. Spend one to two hours by the cliffs and bridge, with return transport arranged for this rural stop.",
+      "stops": [
+        {
+          "name": "Sujupalbong riverbank",
+          "ko": "수주팔봉 캠핑장 쪽 강변",
+          "kind": "Filming location",
+          "sceneTitle": "A conversation away from the fight",
+          "scene": "Sujupalbong is the backdrop to a serious conversation between Vincenzo and Cha-young. The filming view looks toward the cliffs and bridge from the opposite riverbank.",
+          "visit": "Start on the Munju-ri camping-area side. View the landscape from permitted public areas; crossing the bridge is not needed to recognize this scene.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808",
+          "query": "충주 대소원면 문주리 수주팔봉 캠핑장"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · Sujupalbong conversation setting",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224808"
+        },
+        {
+          "label": "휴식같은 여행으로의 초대 · photographed visit and riverbank distinction, 2021",
+          "url": "https://invitetour.tistory.com/1803"
+        }
+      ],
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY-SA 3.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    },
+    {
+      "id": "mr-sunshine-andong-lets-love",
+      "title": "Mr. Sunshine",
+      "ko": "미스터 션샤인",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "A hand held across a narrow bridge",
+      "hook": "Remember Eugene and Ae-shin’s connection at Manhyujeong.",
+      "duration": "1–1.5 hours on site",
+      "maxHours": 1.5,
+      "transport": "Car or taxi + short uphill walk",
+      "start": "Manhyujeong visitor entrance",
+      "tourArea": "Manhyujeong, Andong",
+      "visitNote": "This is one rural filming location, with its bridge and pavilion considered together. Allow extra time for the journey from Andong and arrange a return ride. The narrow bridge and rocky approach depend on local access and weather; do not step over barriers for a photo.",
+      "image": "mr-sunshine-andong-lets-love",
+      "imageType": "Filming location",
+      "imageCaption": "Manhyujeong Pavilion in Andong, the setting beside the Mr. Sunshine bridge scene.",
+      "credit": "ⓒKorea Tourism Organization-Lee Bumsu (2022)",
+      "imageSource": "https://korean1.visitkorea.or.kr/enu/nphotogallery/photo.kto?func_name=photo_view&newphotoDTO.photo_code=1917176202211029k&newphotoDTO.searchWord=&newphotoDTO.sub_menu=new",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Mr. Sunshine: Manhyujeong’s Bridge of Love in Andong",
+      "seoDescription": "Visit Mr. Sunshine’s Manhyujeong bridge in rural Andong, recalling Eugene and Ae-shin’s tender scene on a short pavilion walk with transport planned ahead.",
+      "stops": [
+        {
+          "name": "Manhyujeong Pavilion and bridge",
+          "ko": "안동 만휴정과 외나무다리",
+          "kind": "Filming location",
+          "sceneTitle": "Reaching for each other",
+          "scene": "The narrow bridge at Manhyujeong is where Eugene and Ae-shin hold hands in a memorable moment of connection.",
+          "visit": "Follow the visitor path to the pavilion and bridge. Take turns at narrow sections and stay within the permitted area.",
+          "episode": "",
+          "source": "https://note.com/serene_acacia721/n/n27290685d40d?hl=en",
+          "query": "안동시 길안면 만휴정"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · Manhyujeong filming location, 2026",
+          "url": "https://german.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590458"
+        },
+        {
+          "label": "Mito · photographed Japanese fan visit, August 2026",
+          "url": "https://note.com/serene_acacia721/n/n27290685d40d?hl=en"
+        }
+      ],
+      "checkedAt": "2026-09-25",
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "imageChanges": "Converted the public preview to WebP without enlarging or cropping. Original KTO watermark retained."
+    },
+    {
+      "id": "glory-cheongna-board-of-revenge",
+      "title": "The Glory",
+      "ko": "더 글로리",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "The board inside her revenge plan",
+      "hook": "Find the giant baduk setting built around Do-yeong’s obsession.",
+      "duration": "1–1.5 hours",
+      "maxHours": 1.5,
+      "transport": "Walk",
+      "start": "Cheongnaru Pavilion, Cheongna Lake Park",
+      "tourArea": "Cheongna Lake Park, Incheon",
+      "visitNote": "Use Cheongnaru Pavilion as the landmark rather than circling the entire lake. Incheon city states that the Go Plaza is barricaded: view it from the path and follow signs. Prop condition and lighting on your visit date remain unconfirmed.",
+      "image": "glory-cheongna-board-of-revenge",
+      "imageType": "Filming location",
+      "imageCaption": "Cheongnaru Pavilion with the giant baduk board and stones at the right, Cheongna Lake Park.",
+      "credit": "Incheon Free Economic Zone Authority, Media and Culture Division (2023)",
+      "imageSource": "https://www.ifez.go.kr/promote/pst/view.do?pst_id=scene_photo&pst_sn=664949",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "The Glory: Cheongna’s Baduk Park and Revenge Plan",
+      "seoDescription": "See The Glory’s giant baduk setting beside Cheongnaru Pavilion in Incheon. A short lakeside route recalls Dong-eun’s revenge plan in one to one-and-a-half hours.",
+      "stops": [
+        {
+          "name": "Baduk plaza beside Cheongnaru Pavilion",
+          "ko": "청라호수공원 청라루 옆 바둑공원",
+          "kind": "Filming location",
+          "sceneTitle": "Do-yeong’s game enters the plan",
+          "scene": "Cheongna Lake Park plays the baduk park created by Ha Do-yeong. The game becomes a route into his world as Dong-eun prepares her revenge.",
+          "visit": "View the board-shaped set from the public path beside Cheongnaru. The fenced playing area is not available for a reenacted game.",
+          "episode": "",
+          "source": "https://www.incheon.go.kr/world/wd020306/2215813",
+          "query": "인천 청라호수공원 청라루 바둑공원"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Incheon city · exact location and barricade restriction",
+          "url": "https://www.incheon.go.kr/world/wd020306/2215813"
+        },
+        {
+          "label": "KTO · Semyeong baduk-park story, 2024",
+          "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=198605"
+        },
+        {
+          "label": "CHIAKI · photographed Japanese visitor account",
+          "url": "https://us.trip.com/moments/detail/incheon-1385-119423660/"
+        }
+      ],
+      "checkedAt": "2026-09-25",
+      "imageLicense": "KOGL Type 1",
+      "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    },
+    {
+      "id": "okay-incheon-first-impressions",
+      "title": "It’s Okay to Not Be Okay",
+      "ko": "사이코지만 괜찮아",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "A sharp first impression, then Jae-su’s chicken shop",
+      "hook": "Meet Mun-yeong’s unfiltered world and the brothers’ everyday refuge in one neighborhood.",
+      "duration": "2–3 hours",
+      "maxHours": 3,
+      "transport": "Walk",
+      "start": "Dongincheon Station",
+      "tourArea": "Gaehang-ro, Incheon",
+      "visitNote": "The two filming businesses are a short walk apart near Chamoejeon-ro. Plan around their opening times and allow time for a café or meal. Confirm IK Light House’s annex access and both businesses before travel; a specific filming seat or surviving sign is not guaranteed.",
+      "image": "",
+      "imageType": "",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "It’s Okay to Not Be Okay: Incheon’s First Impressions",
+      "seoDescription": "Follow It’s Okay to Not Be Okay through Incheon’s Gaehang-ro, from Mun-yeong’s café introduction to Jae-su’s chicken shop on a compact two-to-three-hour walk.",
+      "stops": [
+        {
+          "name": "IK Light House",
+          "ko": "일광전구 라이트하우스",
+          "kind": "Filming location",
+          "sceneTitle": "Mun-yeong meets a young fan",
+          "scene": "The annex dining area appears when Mun-yeong is eating steak and a young fan approaches her. Her blunt response reveals her unsettling manner.",
+          "visit": "Ask whether the annex’s second floor is open to café customers; order before using seating.",
+          "episode": "",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+          "query": "인천 중구 참외전로174번길 8-1 일광전구 라이트하우스"
+        },
+        {
+          "name": "Gaehangro Chicken",
+          "ko": "개항로통닭",
+          "kind": "Filming location",
+          "sceneTitle": "Jae-su’s neighborhood restaurant",
+          "scene": "This restaurant plays the chicken shop associated with Jae-su and Gang-tae in episode 2.",
+          "visit": "Stop for a meal if open, or view the exterior without blocking customers.",
+          "episode": "Episode 2",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+          "query": "인천 중구 참외전로 164 개항로통닭"
+        }
+      ],
+      "sources": [
+        {
+          "label": "KTO · both scenes and addresses, 2022",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "콩알닷컴 · Korean first-person chicken-shop visit, 2025",
+          "url": "https://small17dae1.tistory.com/233"
+        },
+        {
+          "label": "A Fangirl’s Heart · stated travel wish list, 2020",
+          "url": "https://www.afangirlsheart.com/2020/08/its-okay-to-not-be-okay-filming-locations.html?m=0"
+        }
+      ],
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "winter-sonata-yongpyong-mountain-love",
+      "title": "Winter Sonata",
+      "ko": "겨울연가",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "A gondola ride into their mountain romance",
+      "hook": "Follow Yoo-jin and Min-hyung from the gondola station to their mountain refuge.",
+      "duration": "3–4 hours",
+      "maxHours": 4,
+      "transport": "Cable car + walks",
+      "start": "Dragon Plaza, MONA Yongpyong",
+      "tourArea": "Yongpyong Resort, Pyeongchang",
+      "visitNote": "Both stops are within Yongpyong Resort, linked by its mountain cable car. The allowance starts at Dragon Plaza and excludes travel to the resort. Check weather, cable-car service and Dragon Castle access before buying a ticket; historical interiors may have changed.",
+      "image": "",
+      "imageType": "",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Winter Sonata: Yongpyong’s Gondola and Mountain Romance",
+      "seoDescription": "Follow Winter Sonata at Yongpyong Resort, from the gondola kiss setting to Dragon Castle. Allow three to four hours for cable-car travel and mountain views.",
+      "stops": [
+        {
+          "name": "Dragon Plaza gondola station",
+          "ko": "용평리조트 드래곤프라자 곤돌라 탑승장",
+          "kind": "Filming location",
+          "sceneTitle": "A kiss before the mountain ride",
+          "scene": "The resort identifies the gondola boarding area as a kiss location for Yoo-jin and Min-hyung.",
+          "visit": "Find the gondola entrance at Dragon Plaza. Use the current visitor route rather than expecting the original boarding layout.",
+          "episode": "",
+          "source": "https://yongpyong.co.kr/eng/about/winterTour.do",
+          "query": "용평리조트 드래곤프라자 곤돌라"
+        },
+        {
+          "name": "Dragon Castle, Balwangsan",
+          "ko": "발왕산 드래곤캐슬",
+          "kind": "Filming location",
+          "sceneTitle": "A whole day together",
+          "scene": "Dragon Castle is the mountain setting where Yoo-jin and Min-hyung spend a day together and their feelings deepen.",
+          "visit": "Ride up only when service operates. Ask which indoor areas are open; enjoy the public mountain deck if the historic room is unavailable.",
+          "episode": "",
+          "source": "https://yongpyong.co.kr/eng/about/winterTour.do",
+          "query": "용평리조트 발왕산 드래곤캐슬"
+        }
+      ],
+      "sources": [
+        {
+          "label": "MONA Yongpyong · official scene-by-scene filming guide",
+          "url": "https://yongpyong.co.kr/eng/about/winterTour.do"
+        },
+        {
+          "label": "Wen’s Delight · personal resort visit, 2011",
+          "url": "https://wensdelight.blogspot.com/2011/09/koreajeju-trip-may-2011-day-5.html"
+        }
+      ],
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "parasite-noryangjin-pizza-scheme",
+      "title": "Parasite",
+      "ko": "기생충",
+      "format": "Film",
+      "category": "korean-film",
+      "aliases": [],
+      "course": "The family’s plan over pizza",
+      "hook": "Find the small pizza shop behind a much larger scheme.",
+      "duration": "1–1.5 hours",
+      "maxHours": 1.5,
+      "transport": "Walk",
+      "start": "Noryangjin Station, Exit 6",
+      "tourArea": "Noryangjin, Seoul",
+      "visitNote": "Allow about 10–15 minutes each way from the station, plus time for a meal. This is a working neighborhood restaurant; confirm opening before travel and ask before photographing memorabilia or customers. The nearby alleys are the approach, not additional confirmed film sets.",
+      "image": "",
+      "imageType": "",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Parasite: The Pizza-Table Scheme in Noryangjin, Seoul",
+      "seoDescription": "Visit Parasite’s Sky Pizza in Noryangjin, Seoul, where the Kim family plans its next move. A short station walk and pizza stop fit into one to one-and-a-half hours.",
+      "stops": [
+        {
+          "name": "Sky Pizza",
+          "ko": "스카이피자",
+          "kind": "Filming location",
+          "sceneTitle": "Planning the housekeeper’s removal",
+          "scene": "Sky Pizza stands in for the film’s pizza business. The Kim family later eats here while planning how to remove the Park family’s housekeeper.",
+          "visit": "View the storefront, then order if open. Ask the owner about any film memorabilia currently on display.",
+          "episode": "",
+          "source": "https://www.atlasobscura.com/places/sky-pizza-seoul-south-korea",
+          "query": "서울 동작구 노량진로6길 86 스카이피자"
+        }
+      ],
+      "sources": [
+        {
+          "label": "VisitSeoul · actual pizza shop and address",
+          "url": "https://english.visitseoul.net/hallyu/K-Picnic-Course-for-a-Daily-Seoulite-Experience/34214"
+        },
+        {
+          "label": "Atlas Obscura · photographed contributor visit and planning scene, 2023",
+          "url": "https://www.atlasobscura.com/places/sky-pizza-seoul-south-korea"
+        }
+      ],
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "itaewon-yiseo-stairs-rooftop",
+      "title": "Itaewon Class",
+      "ko": "이태원 클라쓰",
+      "format": "Drama",
+      "category": "drama",
+      "aliases": [],
+      "course": "Yi-seo’s confrontation and rooftop impulse",
+      "hook": "Follow her bold steps from the guesthouse stairs to a kiss above the city.",
+      "duration": "2–3 hours",
+      "maxHours": 3,
+      "transport": "Walk or short taxi transfer",
+      "start": "Itaewon Station, Exit 3",
+      "tourArea": "Itaewon and Gyeongnidan, Seoul",
+      "visitNote": "Start with the guesthouse exterior, then allow about 30–40 minutes for the uphill walk to The Finest, or take a short taxi ride. Contact the lounge about current operation, reservations and rooftop access. Guesthouse interiors and roof are not included in this public-street visit.",
+      "image": "",
+      "imageType": "",
+      "imageCaption": "",
+      "credit": "",
+      "imageSource": "",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Itaewon Class: Yi-seo’s Stairs and Rooftop Kiss in Seoul",
+      "seoDescription": "Follow Yi-seo’s Itaewon Class scenes from G Guesthouse’s stairs to The Finest rooftop in Seoul. Allow two to three hours, with a walk or short taxi transfer.",
+      "stops": [
+        {
+          "name": "G Guesthouse exterior and adjoining steps",
+          "ko": "G게스트하우스 외관과 옆 계단",
+          "kind": "Filming location",
+          "sceneTitle": "Yi-seo refuses to back down",
+          "scene": "The guesthouse plays Geun-soo’s Bogwang Gosiwon. On the adjoining steps, Yi-seo confronts and slaps the district head’s wife.",
+          "visit": "View the building and steps from the public approach. Keep access clear and do not enter guest areas without permission.",
+          "episode": "",
+          "source": "https://cnalifestyle.channelnewsasia.com/travel/k-drama-locations-korea-seoul-incheon-squid-game-itaewon-class-hotel-del-luna-290241",
+          "query": "서울 용산구 보광로60길 14-38 G게스트하우스"
+        },
+        {
+          "name": "The Finest Lounge",
+          "ko": "더 파이니스트 라운지",
+          "kind": "Filming location",
+          "sceneTitle": "An impulsive rooftop kiss",
+          "scene": "Yi-seo kisses a drunken Saeroyi at the rooftop lounge after they share drinks.",
+          "visit": "The scene was filmed on the fourth-floor rooftop. Visit as a customer only when the business permits access.",
+          "episode": "Episode 4",
+          "source": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503",
+          "query": "서울 용산구 회나무로 41 더파이니스트"
+        }
+      ],
+      "sources": [
+        {
+          "label": "VisitSeoul · G Guesthouse filming location",
+          "url": "https://english.visitseoul.net/hallyu/Diving-into-Itaewon-Class_/34831"
+        },
+        {
+          "label": "CNA Lifestyle · first-person visit with KTO, 2021",
+          "url": "https://cnalifestyle.channelnewsasia.com/travel/k-drama-locations-korea-seoul-incheon-squid-game-itaewon-class-hotel-del-luna-290241"
+        },
+        {
+          "label": "KTO · The Finest scene and address",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+        },
+        {
+          "label": "Creatrip · first-person rooftop review",
+          "url": "https://creatrip.com/en/blog/6755/The-Finest-Itaewon"
+        }
+      ],
+      "checkedAt": "2026-09-25"
+    },
+    {
+      "id": "avengers-gangnam-motorcycle-chase",
+      "title": "Avengers: Age of Ultron",
+      "ko": "어벤져스: 에이지 오브 울트론",
+      "format": "Film",
+      "category": "international-film",
+      "aliases": [
+        "Avengers 2",
+        "Age of Ultron",
+        "어벤져스 2"
+      ],
+      "course": "Black Widow’s chase through Gangnam",
+      "hook": "Walk the real boulevard used for the Seoul pursuit.",
+      "duration": "45–90 minutes",
+      "maxHours": 1.5,
+      "transport": "Walk",
+      "start": "Gangnam Station, Exit 11",
+      "tourArea": "Gangnam-daero, Seoul",
+      "visitNote": "Walk north on the public sidewalk toward Sinnonhyeon’s Kyobo Tower intersection, roughly 750 metres. This route identifies a filmed street corridor, not every shot or an exact motorcycle line. Shops and signs have changed since 2014; stay on sidewalks and use crossings.",
+      "image": "avengers-gangnam-motorcycle-chase",
+      "imageType": "Filming location",
+      "imageCaption": "Gangnam-daero at night, within the Gangnam Station–Kyobo Tower filming corridor.",
+      "credit": "Christophe95 / Wikimedia Commons",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Gangnam-daero.jpg",
+      "audienceType": "International screen tourism",
+      "audience": "Selected for international fans of Korean screen stories; this is an editorial selection, not a popularity ranking.",
+      "audienceKo": "",
+      "seoTitle": "Avengers: Age of Ultron — Gangnam’s Motorcycle Chase",
+      "seoDescription": "Walk the Gangnam-daero filming corridor from Gangnam to Sinnonhyeon in Seoul, tracing part of the Avengers: Age of Ultron pursuit in a short city outing.",
+      "stops": [
+        {
+          "name": "Gangnam-daero filming corridor",
+          "ko": "강남대로 강남역–교보타워사거리 구간",
+          "kind": "Filming location",
+          "sceneTitle": "The chase reaches Gangnam",
+          "scene": "Gangnam-daero and nearby streets were used for the film’s Seoul chase, including motorcycle filming. The movie joins these shots with other locations and visual effects.",
+          "visit": "Begin near Gangnam Station Exit 11 and follow the sidewalk north. No road entry or private alley access is needed.",
+          "episode": "",
+          "source": "https://www.yna.co.kr/view/AKR20140406025500004",
+          "query": "서울 강남역 11번출구 강남대로"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Seoul Film Commission · production location record",
+          "url": "https://english.seoulfc.or.kr/naa/msis/?f=MS_TITLE&p=26&q="
+        },
+        {
+          "label": "Yonhap · on-location filming report, April 2014",
+          "url": "https://www.yna.co.kr/view/AKR20140406025500004"
+        },
+        {
+          "label": "Atlas of Wonders · scene-location comparison",
+          "url": "https://www.atlasofwonders.com/2015/01/avengers-age-of-ultron-filming-locations.html"
+        }
+      ],
+      "checkedAt": "2026-09-25",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
     }
   ]

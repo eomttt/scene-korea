@@ -2,11 +2,11 @@
 
 import Link from "next/link";
 import { Bookmark } from "lucide-react";
-import type { DramaRoute } from "../../utils/drama-routes";
+import type { DramaCardData } from "../../models/model-drama-card";
 import { useSavedRoutes } from "../../hooks/use-saved-routes";
 import { DramaCard } from "../DramaCard";
 
-export function SavedCollection({ routes }: { routes: DramaRoute[] }) {
+export function SavedCollection({ routes }: { routes: DramaCardData[] }) {
   const { savedIds, ready } = useSavedRoutes();
   const saved = routes.filter((route) => savedIds.includes(route.id));
   if (!ready) return <p role="status">Opening your saved routes…</p>;

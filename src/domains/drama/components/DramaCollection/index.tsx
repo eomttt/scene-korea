@@ -4,17 +4,17 @@ import { Suspense, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Search, X } from "lucide-react";
-import type { DramaRoute } from "../../utils/drama-routes";
+import type { DramaCollectionItem } from "../../models/model-drama-card";
 import { matchesRouteSearch, matchesTourDuration, tourCategories, tourDurations } from "../../utils/route-search";
 import { defaultTourFilters, getCollectionSearch, readTourFilters, type TourFilters } from "../../utils/collection-filters";
 import { DramaCard } from "../DramaCard";
 import { rememberCollectionScroll, takeCollectionScrollRestore } from "../../stores/collection-scroll";
 
-export function DramaCollection({ routes }: { routes: DramaRoute[] }) {
+export function DramaCollection({ routes }: { routes: DramaCollectionItem[] }) {
   return <Suspense fallback={<CollectionView routes={routes} filters={defaultTourFilters} />}><CollectionWithUrlFilters routes={routes} /></Suspense>;
 }
 
-function CollectionWithUrlFilters({ routes }: { routes: DramaRoute[] }) {
+function CollectionWithUrlFilters({ routes }: { routes: DramaCollectionItem[] }) {
   const searchParams = useSearchParams();
   const filters = readTourFilters(searchParams);
   const collectionSearch = getCollectionSearch(filters);
@@ -39,7 +39,7 @@ function CollectionWithUrlFilters({ routes }: { routes: DramaRoute[] }) {
 }
 
 function CollectionView({ routes, filters, onFiltersChange }: {
-  routes: DramaRoute[];
+  routes: DramaCollectionItem[];
   filters: TourFilters;
   onFiltersChange?: (updates: Partial<TourFilters>) => void;
 }) {

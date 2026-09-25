@@ -2,12 +2,11 @@
 
 import { useSyncExternalStore } from "react";
 import { z } from "zod";
-import { dramaRoutes } from "../utils/drama-routes";
+import { useKnownRouteIds } from "../components/SavedRoutesProvider";
 
 const storageKey = "scene-korea:saved-routes:v1";
 const changeEvent = "scene-korea:saved-changed";
 const idsSchema = z.array(z.string());
-const knownIds = new Set(dramaRoutes.map((route) => route.id));
 
 function readSnapshot() {
   try { return window.localStorage.getItem(storageKey) ?? "[]"; }
@@ -20,7 +19,7 @@ function subscribe(notify: () => void) {
   window.addEventListener(changeEvent, notify);
   return () => { window.removeEventListener("storage", onStorage); window.removeEventListener(changeEvent, notify); };
 }
-function parseIds(snapshot: string | null) {
+function parseIds(snapshot: string | null, knownIds: ReadonlySet<string>) {
   try {
     const result = idsSchema.safeParse(JSON.parse(snapshot ?? "[]"));
     return result.success ? [...new Set(result.data)].filter((id) => knownIds.has(id)) : [];
@@ -28,11 +27,12 @@ function parseIds(snapshot: string | null) {
 }
 
 export function useSavedRoutes() {
+  const knownIds = useKnownRouteIds();
   const snapshot = useSyncExternalStore(subscribe, readSnapshot, serverSnapshot);
-  const savedIds = parseIds(snapshot);
+  const savedIds = parseIds(snapshot, knownIds);
   function toggleSaved(id: string) {
     if (!knownIds.has(id)) return false;
-    const current = parseIds(readSnapshot());
+    const current = parseIds(readSnapshot(), knownIds);
     const next = current.includes(id) ? current.filter((item) => item !== id) : [...current, id];
     try {
       window.localStorage.setItem(storageKey, JSON.stringify(next));

@@ -20,8 +20,12 @@ function CollectionWithUrlFilters({ routes }: { routes: DramaRoute[] }) {
   const collectionSearch = getCollectionSearch(filters);
 
   useLayoutEffect(() => {
-    const position = takeCollectionScrollRestore(collectionSearch);
-    if (position !== null) window.scrollTo({ top: position, behavior: "instant" });
+    // Restore after the router's parent layout has finished its scroll handling.
+    const frame = window.requestAnimationFrame(() => {
+      const position = takeCollectionScrollRestore(collectionSearch);
+      if (position !== null) window.scrollTo({ top: position, behavior: "instant" });
+    });
+    return () => window.cancelAnimationFrame(frame);
   }, [collectionSearch]);
 
   function handleFiltersChange(updates: Partial<TourFilters>) {

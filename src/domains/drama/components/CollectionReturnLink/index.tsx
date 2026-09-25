@@ -14,6 +14,6 @@ export function CollectionReturnLink() {
   return <Link href={collectionHref} className="back-link" onNavigate={(event) => {
     if (!requestCollectionScrollRestore(getCollectionSearch(filters))) return;
     event.preventDefault();
-    router.push(collectionHref, { scroll: false });
+    router.push(`/${getCollectionSearch(filters)}`, { scroll: false });
   }}><ArrowLeft size={15} aria-hidden="true" /> All stories</Link>;
 }

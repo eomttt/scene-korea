@@ -79,6 +79,14 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 
 전체 촬영지 자료 대신 카드·검색에 필요한 데이터만 브라우저에 전달한다. 저장 기능에는 코스 ID 목록만 전달하며, 폰트는 `next/font`가 준비한 파일을 사이트에서 제공한다. 이전 80투어 기준 데이터 크기와 실제 운영 검증 결과는 SEO 작업 기록에 구분했다.
 
+## 방문 통계
+
+Vercel Web Analytics를 운영 배포에서만 실행한다. 방문자·페이지 조회·유입 사이트·국가·기기·브라우저 통계는 [프로젝트 Analytics](https://vercel.com/hyuntae-eoms-projects/scene-korea/analytics?environment=production)에서 확인한다. 개발과 Preview에는 수집 컴포넌트를 넣지 않는다.
+
+`SiteAnalytics`는 `@vercel/analytics/next`의 경로 전환 추적을 사용한다. 페이지 URL의 검색 파라미터와 해시는 전송 전에 제거한다. 따라서 제목 검색과 목록 필터는 수집한 페이지 URL에 남지 않는다. 별도 유입 사이트 정보는 Vercel의 기본 수집 정책을 따른다.
+
+기본 페이지 조회만 수집하며 저장 버튼·지도 클릭·요청 제출의 custom event는 추가하지 않았다. 요청 폼 내용과 저장 목록도 전송하지 않는다. SDK를 변경하면 운영 배포 후 실제 페이지 방문과 수집 응답을 다시 확인한다.
+
 ## GitHub와 Vercel
 
 저장소는 `eomttt/scene-korea`다. Vercel 프로젝트 `scene-korea`에 연결되어 있다. 이전 주소 [scene-korea-mauve.vercel.app](https://scene-korea-mauve.vercel.app)은 정식 도메인으로 이동하도록 관리한다.

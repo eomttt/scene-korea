@@ -9,6 +9,7 @@ import { SavedNav } from "@/domains/drama/components/SavedNav";
 import { SavedRoutesProvider } from "@/domains/drama/components/SavedRoutesProvider";
 import { dramaRoutes } from "@/domains/drama/utils/drama-routes";
 import { StructuredData } from "@/common/components/StructuredData";
+import { SiteAnalytics } from "@/common/components/SiteAnalytics";
 import "./globals.css";
 
 const bodyFont = DM_Sans({ subsets: ["latin"], display: "swap", variable: "--font-dm-sans" });
@@ -27,5 +28,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en" className={`${bodyFont.variable} ${displayFont.variable}`}><body><SavedRoutesProvider routeIds={dramaRoutes.map((route) => route.id)}><a className="skip-link" href="#main-content">Skip to content</a><div className="site-shell"><SiteHeader savedLink={<SavedNav />} /><main id="main-content">{children}</main><SiteFooter /></div><AdSenseScript /><StructuredData data={{ "@context": "https://schema.org", "@type": "Organization", "@id": `${getSiteUrl()}/#publisher`, name: "Scene Korea", url: getSiteUrl(), logo: `${getSiteUrl()}/icon.svg`, description: "Independent filming-location travel guides for visitors to Korea." }} /></SavedRoutesProvider></body></html>;
+  return <html lang="en" className={`${bodyFont.variable} ${displayFont.variable}`}><body><SavedRoutesProvider routeIds={dramaRoutes.map((route) => route.id)}><a className="skip-link" href="#main-content">Skip to content</a><div className="site-shell"><SiteHeader savedLink={<SavedNav />} /><main id="main-content">{children}</main><SiteFooter /></div><AdSenseScript /><StructuredData data={{ "@context": "https://schema.org", "@type": "Organization", "@id": `${getSiteUrl()}/#publisher`, name: "Scene Korea", url: getSiteUrl(), logo: `${getSiteUrl()}/icon.svg`, description: "Independent filming-location travel guides for visitors to Korea." }} /></SavedRoutesProvider>{process.env.VERCEL_ENV === "production" ? <SiteAnalytics /> : null}</body></html>;
 }

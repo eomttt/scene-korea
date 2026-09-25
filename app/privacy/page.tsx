@@ -3,8 +3,8 @@ import Link from "next/link";
 import { getPageMetadata } from "@/common/utils/seo";
 
 export const metadata: Metadata = getPageMetadata({
-  title: "Privacy: Saved Routes, Scene Requests & Advertising | Scene Korea",
-  description: "Read how Scene Korea handles saved routes, temporary list positions, optional scene requests and advertising, including the external services used by the site.",
+  title: "Privacy: Saved Routes, Analytics & Requests | Scene Korea",
+  description: "Read how Scene Korea uses browser storage, Vercel Web Analytics and optional scene requests, with information about advertising and external services.",
   path: "/privacy",
 });
 
@@ -27,7 +27,10 @@ export default function PrivacyPage() {
     <p>If separately enabled, Cloudflare Turnstile provides an additional verification challenge. The verification token is checked on our server and is not sent to Slack.</p>
     <h2>Advertising</h2>
     <p>Google AdSense may display ads when advertising is enabled. Google and its partners may use cookies or similar technology to provide and measure ads, subject to consent where required. Read <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">how Google uses data on partner sites</a> and manage preferences through Google’s ad controls and any consent message shown on this site.</p>
-    <h2>Fonts and analytics</h2>
-    <p>Font files are served by this site; your browser does not contact Google Fonts to load them. No analytics service is added by this application.</p>
+    <h2>Visitor analytics</h2>
+    <p>We use Vercel Web Analytics on the production site to understand page visits, referring websites, countries, devices and browsers. It provides aggregate visitor statistics without analytics cookies.</p>
+    <p>We remove query parameters and URL fragments from page URLs before sending them to analytics. This integration does not send request form content or your saved routes. Read <a href="https://vercel.com/docs/analytics/privacy-policy" target="_blank" rel="noopener noreferrer">how Vercel Web Analytics handles data</a>.</p>
+    <h2>Fonts</h2>
+    <p>Font files are served by this site; your browser does not contact Google Fonts to load them.</p>
   </article>;
 }

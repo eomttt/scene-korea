@@ -16,12 +16,12 @@ test("each tour has a distinct URL, SEO title and description", () => {
   }
 });
 
-test("published tours have day-length estimates, searchable categories and local cover images", () => {
+test("published tours have day-length estimates, searchable categories, sourced stops and valid optional images", () => {
   for (const route of dramaRoutes) {
     assert.ok(route.maxHours > 0 && route.maxHours <= 8, route.id);
     assert.ok(tourCategories.some((category) => category.value !== "all" && category.value === route.category), route.id);
     assert.ok(route.stops.length > 0, route.id);
-    assert.ok(existsSync(`public/images/${route.image}.webp`), route.id);
+    if (route.image) assert.ok(existsSync(`public/images/${route.image}.webp`), route.id);
     assert.ok(route.stops.every((stop) => stop.query && stop.scene && stop.source.startsWith("https://")), route.id);
   }
 });

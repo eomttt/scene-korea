@@ -27,6 +27,7 @@ export default async function StoryPage({ params }: PageProps) {
   if (!route) notFound();
   const relatedRoutes = dramaRoutes.filter((story) => story.title === route.title && story.id !== route.id);
   const pageUrl = `${getSiteUrl()}/stories/${route.id}`;
+  const checkedDate = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).format(new Date(`${route.checkedAt}T00:00:00Z`));
   return <article className="story-page">
     <StructuredData data={{ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "All stories", item: getSiteUrl() }, { "@type": "ListItem", position: 2, name: route.course, item: pageUrl }] }} />
     <StructuredData data={{ "@context": "https://schema.org", "@type": "TouristTrip", name: `${route.title}: ${route.course}`, description: route.seoDescription, url: pageUrl, image: route.image ? `${getSiteUrl()}/images/${route.image}.webp` : `${pageUrl}/share-image`, touristType: "Korean drama and film fans", itinerary: { "@type": "ItemList", numberOfItems: route.stops.length, itemListElement: route.stops.map((stop, index) => ({ "@type": "ListItem", position: index + 1, item: { "@type": "Place", name: stop.name, alternateName: stop.ko, description: stop.scene, url: `${pageUrl}#stop-${index + 1}` } })) } }} />
@@ -40,6 +41,6 @@ export default async function StoryPage({ params }: PageProps) {
     <aside className="trip-plan"><h2>A day at your own pace</h2><dl><dt><Clock3 size={15} aria-hidden="true" /> Time to enjoy it</dt><dd>{route.duration} · estimated</dd><dt><Footprints size={15} aria-hidden="true" /> Getting around</dt><dd>{route.transport}</dd><dt><MapPin size={15} aria-hidden="true" /> Start here</dt><dd>{route.start}</dd></dl><p>{route.visitNote}</p><p>Travel to the first stop is extra.</p></aside></div>
     {relatedRoutes.length ? <section className="related-stories"><div className="section-heading"><h2>Another story from {route.title}</h2></div><Suspense fallback={<div className="drama-grid">{relatedRoutes.map((story) => <DramaCard key={story.id} route={story} />)}</div>}><RelatedCollection routes={relatedRoutes} /></Suspense></section> : null}
     <section className="request-banner compact"><div><h2>Missing your favourite scene?</h2><p>Help us add another moment from {route.title}.</p></div><Link className="button" href={`/request?type=scene&story=${route.id}`}>Request a scene <ArrowUpRight size={17} aria-hidden="true" /></Link></section>
-    <p className="research-note">Location references checked 24 September 2026. Opening hours and access can change.</p><AdSlot />
+    <p className="research-note">Location references checked {checkedDate}. Opening hours and access can change.</p><AdSlot />
   </article>;
 }

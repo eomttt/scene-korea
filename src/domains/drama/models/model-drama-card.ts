@@ -11,6 +11,7 @@ export type DramaCardData = {
   duration: string;
   format: string;
   image: string;
+  imageUrl: string;
   imageCaption: string;
   imageType: string;
   stopNames: string[];

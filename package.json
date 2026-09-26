@@ -13,7 +13,9 @@
     "typecheck": "tsc --noEmit",
     "test": "node --import tsx --test src/domains/feedback/utils/*.test.ts src/domains/advertising/utils/*.test.ts src/domains/drama/utils/*.test.ts",
     "check": "npm run lint && npm run typecheck && npm test",
-    "check:seo": "node scripts/check-seo.mjs"
+    "check:seo": "node scripts/check-seo.mjs",
+    "images:upload": "node scripts/image-assets.mjs upload",
+    "images:verify": "node scripts/image-assets.mjs verify"
   },
   "dependencies": {
     "@vercel/analytics": "2.0.1",
@@ -28,8 +30,10 @@
     "@types/node": "22.20.4",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
+    "@vercel/blob": "2.8.0",
     "eslint": "9.39.5",
     "eslint-config-next": "16.3.6",
+    "sharp": "0.35.4",
     "tsx": "4.23.15",
     "typescript": "6.0.3"
   }

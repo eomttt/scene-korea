@@ -1,8 +1,8 @@
 import assert from "node:assert/strict";
-import { existsSync } from "node:fs";
 import { test } from "node:test";
 import { dramaRoutes } from "./drama-routes";
 import { matchesRouteSearch, tourCategories } from "./route-search";
+import { getImageUrl } from "./image-assets";
 
 test("each tour has a distinct URL, SEO title and description", () => {
   for (const field of ["id", "seoTitle", "seoDescription"]) {
@@ -21,7 +21,9 @@ test("published tours have day-length estimates, searchable categories, sourced 
     assert.ok(route.maxHours > 0 && route.maxHours <= 8, route.id);
     assert.ok(tourCategories.some((category) => category.value !== "all" && category.value === route.category), route.id);
     assert.ok(route.stops.length > 0, route.id);
-    if (route.image) assert.ok(existsSync(`public/images/${route.image}.webp`), route.id);
+    for (const imageId of [route.image, route.placeImage]) {
+      if (imageId) assert.ok(getImageUrl(imageId), `${route.id}: ${imageId}`);
+    }
     assert.ok(route.stops.every((stop) => stop.query && stop.scene && stop.source.startsWith("https://")), route.id);
   }
 });

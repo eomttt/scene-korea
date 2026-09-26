@@ -37,6 +37,24 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 
 현재 100투어 모두 사진이 있다. 용답교 코스는 동선에 포함된 인근 하천 사진을 `Nearby walk`로 구분하고, 나머지는 촬영지 사진 또는 작품 스틸로 표시한다. 이미지 출처와 표시된 권리자는 각 코스에 기록했다. 보강한 사진 90개의 원본 URL, 장소 일치 근거, 확인한 이용 조건은 `docs/image-sources.json`에 있다. 라이선스가 명시된 사진은 상세 화면에 라이선스 링크와 변환 내역도 표시한다. 나머지 이미지의 상업적 재사용 허가를 확보했다는 뜻은 아니다. 광고를 켜기 전에 직접 촬영한 사진이나 허가받은 자료로 교체하거나 이용 조건을 확인한다.
 
+## 이미지 저장
+
+사진 102개는 [Vercel Blob의 scene-trip-images 저장소](https://vercel.com/hyuntae-eoms-projects/~/stores/blob/store_D9Cx37rhzRr61ySO)에 둔다. 저장소는 `scene-korea`의 Production·Preview·Development에 연결되어 있다. 화면에는 Next.js Image가 크기를 조절한 사진을 보낸다.
+
+`src/domains/drama/data/image-assets.json`이 이미지 ID와 공개 Blob URL을 연결한다. 파일 내용의 SHA-256 일부를 주소에 넣어 사진을 교체할 때 새 주소를 만든다. 이전 Blob 파일을 덮어쓰거나 지우지 않는다. 예전 `/images/<id>.webp` 주소는 Vercel이 Blob 사진을 대신 전달한다. 방문자가 열어 둔 예전 페이지의 이미지 크기 조절 요청도 계속 동작하도록 리디렉션 대신 rewrite를 쓴다.
+
+새 사진은 이미지 ID를 파일명으로 쓴 WebP 파일로 준비한다. 아래 명령은 입력 폴더의 사진만 추가하거나 갱신하며 기존 목록을 보존한다. 각 업로드의 응답·파일 크기·SHA-256·가로와 세로 길이를 확인한 뒤 목록에 기록한다. 중간에 실패하면 같은 명령으로 이어갈 수 있다.
+
+```sh
+npm exec --yes --package=vercel -- vercel env pull .env.local --environment=development --scope hyuntae-eoms-projects
+npm run images:upload -- --from /absolute/path/to/webp-files
+npm run images:verify
+```
+
+환경변수를 가져오는 명령은 `.env.local`을 갱신한다. 업로드 인증값은 이 파일에만 두고 Git에 넣지 않는다. 사진을 보는 브라우저에는 공개 URL만 전달한다. 사이트 빌드와 공개 이미지 검사는 업로드 인증값 없이 실행할 수 있다.
+
+사진 설명·출처·라이선스는 `routes.json`에서 관리한다. `docs/image-sources.json`의 `file`은 이전 Git 파일 경로이고 `storageUrl`은 현재 Blob 주소다. 사진 추가·교체 후에는 이미지 목록과 출처를 커밋하고 배포해야 화면에 반영된다. 이미지 파일 자체는 Git에 추가하지 않는다.
+
 ## Slack 피드백
 
 수신 채널은 [dev-flick-pg의 지정 채널](https://dev-flick-pg.slack.com/archives/C0C4Y776Z3J)이다. 채널 주소만으로 메시지를 보낼 수 없으므로 이 채널에 연결한 Slack Incoming Webhook을 만든다.

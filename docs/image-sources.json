@@ -13,7 +13,9 @@
     "inspected": true,
     "checkedAt": "2026-09-24",
     "file": "public/images/queen-of-tears-seoul.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/queen-of-tears-seoul-bd90f6943d98d924.webp",
+    "storageSha256": "bd90f6943d98d9244e537cb326052b24cb4b39eaf7c243d8d15fdabc002cf4ab"
   },
   {
     "routeId": "business-proposal-date",
@@ -29,7 +31,9 @@
     "inspected": true,
     "checkedAt": "2026-09-24",
     "file": "public/images/business-proposal-date.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/business-proposal-date-9ff4757c1b21ac2e.webp",
+    "storageSha256": "9ff4757c1b21ac2eb7471295a89511b246f4a17e170dc96603920a8605d5a385"
   },
   {
     "routeId": "kingdom-palace",
@@ -45,7 +49,9 @@
     "inspected": true,
     "checkedAt": "2026-09-24",
     "file": "public/images/kingdom-palace.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/kingdom-palace-617ff2c422fe8a30.webp",
+    "storageSha256": "617ff2c422fe8a30793c5a68f2045732c1eb0a86338edefde61579e8b512e15d"
   },
   {
     "routeId": "parasite-first-job",
@@ -65,7 +71,9 @@
     "inspected": true,
     "file": "public/images/parasite-first-job.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/parasite-first-job-4bc1b1e4712e29e7.webp",
+    "storageSha256": "4bc1b1e4712e29e766c7bde0433a57c429c8114bf53520b01d8ceda50e9c056d"
   },
   {
     "routeId": "parasite-rain",
@@ -85,7 +93,9 @@
     "inspected": true,
     "file": "public/images/parasite-rain.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/parasite-rain-2c86463dbd13ed87.webp",
+    "storageSha256": "2c86463dbd13ed878ba79dfb2439f96ea717b7408c0d265590b93a31ebaee59e"
   },
   {
     "routeId": "decision-to-leave-chase",
@@ -105,7 +115,9 @@
     "inspected": true,
     "file": "public/images/decision-to-leave-chase.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/decision-to-leave-chase-a57544edc8c526e5.webp",
+    "storageSha256": "a57544edc8c526e58a6713dd32e8906266d5f49f7c2caa7c4fab900894b13b55"
   },
   {
     "routeId": "pachinko-homecoming",
@@ -125,7 +137,9 @@
     "inspected": true,
     "file": "public/images/pachinko-homecoming.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/pachinko-homecoming-9999ecf2fe6efae2.webp",
+    "storageSha256": "9999ecf2fe6efae2eac68917b64f4fcf4c07063857d191da66e49c841eedd0c7"
   },
   {
     "routeId": "king-between-worlds",
@@ -145,7 +159,9 @@
     "inspected": true,
     "file": "public/images/king-between-worlds.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/king-between-worlds-1af74506c60fb590.webp",
+    "storageSha256": "1af74506c60fb590b1cb27ebbc0504ad0863905214a82f17e33c02257093302f"
   },
   {
     "routeId": "hotel-del-luna-memories",
@@ -160,7 +176,9 @@
     "downloadedAt": "2026-09-24",
     "file": "public/images/hotel-del-luna-memories.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/hotel-del-luna-memories-dd2376a4aa12454e.webp",
+    "storageSha256": "dd2376a4aa12454e94909256ed0bd4fcb29ecab4536ef4bea57a99ee9d561ea5"
   },
   {
     "routeId": "my-love-star-seoul",
@@ -175,7 +193,9 @@
     "downloadedAt": "2026-09-24",
     "file": "public/images/my-love-star-seoul.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/my-love-star-seoul-7140cd8b8955a5ab.webp",
+    "storageSha256": "7140cd8b8955a5ab9537a473d383b5ab100ede7cff64c1f637f1d38ea88a5463"
   },
   {
     "routeId": "reply-1988-first-love",
@@ -190,7 +210,9 @@
     "downloadedAt": "2026-09-24",
     "file": "public/images/reply-1988-first-love.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/reply-1988-first-love-a74186ab997a3130.webp",
+    "storageSha256": "a74186ab997a3130b8cae0dfba9993a1bc72ca653bc3ed7f1606168f1bf98a38"
   },
   {
     "routeId": "startup-dream",
@@ -205,7 +227,9 @@
     "downloadedAt": "2026-09-24",
     "file": "public/images/startup-dream.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/startup-dream-01e1890f44e8ecef.webp",
+    "storageSha256": "01e1890f44e8ecef77717820001083b2283e2b1f825504415b3fd08d17ad7b86"
   },
   {
     "routeId": "mr-sunshine-hanseong",
@@ -220,7 +244,9 @@
     "downloadedAt": "2026-09-24",
     "file": "public/images/mr-sunshine-hanseong.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "checkedAt": "2026-09-24"
+    "checkedAt": "2026-09-24",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/mr-sunshine-hanseong-6e05eae29d975201.webp",
+    "storageSha256": "6e05eae29d975201122362c2733bd07dd30fdd0c5cab05a00c56f0697830c130"
   },
   {
     "imageType": "Filming location",
@@ -242,7 +268,9 @@
     "width": 940,
     "height": 528,
     "file": "public/images/king-the-land-jeju.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/king-the-land-jeju-bef8165ab8993129.webp",
+    "storageSha256": "bef8165ab89931299b64b22decdde2fa9a647e90199f5f870dc962d76e55c860"
   },
   {
     "imageType": "Filming location",
@@ -264,7 +292,9 @@
     "width": 5366,
     "height": 3578,
     "file": "public/images/twenty-five-jeonju.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/twenty-five-jeonju-378118308e81fa7e.webp",
+    "storageSha256": "378118308e81fa7ee6d08aefc611420b03ab69bb5c14d21c4f0245a8745d2cf8"
   },
   {
     "imageType": "Filming location",
@@ -287,7 +317,9 @@
     "width": 950,
     "height": 636,
     "file": "public/images/true-beauty-secret.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/true-beauty-secret-a4a20d3252eae857.webp",
+    "storageSha256": "a4a20d3252eae857806f0f300006394bc2fddbe84c4a3ef94702d6c257a1a4a6"
   },
   {
     "imageType": "Filming location",
@@ -309,7 +341,9 @@
     "width": 700,
     "height": 467,
     "file": "public/images/alchemy-return.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/alchemy-return-bd32322f6765d362.webp",
+    "storageSha256": "bd32322f6765d36236e2f3cdea7f263a0f255119a2f1a85dae38aef79df327bb"
   },
   {
     "imageType": "Filming location",
@@ -332,7 +366,9 @@
     "width": 940,
     "height": 529,
     "file": "public/images/glory-next-move.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/glory-next-move-274d6cd7d8b6a7de.webp",
+    "storageSha256": "274d6cd7d8b6a7de43a57ed375d530d32f0ab1ae137eefdf5740c9090c737eb0"
   },
   {
     "imageType": "Filming location",
@@ -354,7 +390,9 @@
     "width": 940,
     "height": 627,
     "file": "public/images/camellia-ongsan.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/camellia-ongsan-6e97e651417e7371.webp",
+    "storageSha256": "6e97e651417e73715ec4e07b61a44055302090135e36a2731b23d1ae9a81252f"
   },
   {
     "imageType": "Filming location",
@@ -376,7 +414,9 @@
     "width": 700,
     "height": 467,
     "file": "public/images/itaewon-finally-us.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/itaewon-finally-us-2c785a0e0828ff50.webp",
+    "storageSha256": "2c785a0e0828ff503532f2eca75a3fd5800a57548d01b748a3640ff2ca861cc2"
   },
   {
     "routeId": "sleeping-anguk-dream",
@@ -390,7 +430,9 @@
     "checkedAt": "2026-09-24",
     "sha256": "cba624db6362d52e5168e1618274151c351e3cee6c4e338c7319cd701b1b2c91",
     "file": "public/images/sleeping-anguk-dream.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/sleeping-anguk-dream-5ab7be3eee1b3369.webp",
+    "storageSha256": "5ab7be3eee1b336937c2a2f0007e192e5a6467c2f8fa4b322ad9292123ccd196"
   },
   {
     "routeId": "strong-girl-first-dates",
@@ -402,7 +444,9 @@
     "evidence": "Official article places this photograph in its Boramae Park section. Visually checked: actual park path and spring blossom trees; no unrelated poster or generated image.",
     "checkedAt": "2026-09-24",
     "file": "public/images/strong-girl-first-dates.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/strong-girl-first-dates-c71f79882a15a030.webp",
+    "storageSha256": "c71f79882a15a030bd1db3abda56b5e9ccffe4a03d4624fa901934b75f4cf003"
   },
   {
     "routeId": "nevertheless-sol-jiwan",
@@ -414,7 +458,9 @@
     "evidence": "Original publisher collage under the Mimiok section. Visually checked: restaurant facade, hanok dining space and food; the exact Sinyongsan venue is identified by the article.",
     "checkedAt": "2026-09-24",
     "file": "public/images/nevertheless-sol-jiwan.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/nevertheless-sol-jiwan-904ab0bc4797e3b4.webp",
+    "storageSha256": "904ab0bc4797e3b4b14f38acb51ea9bf2b41f749a1a12be3afe21a732488bb93"
   },
   {
     "routeId": "something-rain-seochon",
@@ -426,7 +472,9 @@
     "evidence": "Official source identifies Sejong Village Food Culture Street. Visually checked: publisher collage includes its named entrance arch and lanes.",
     "checkedAt": "2026-09-24",
     "file": "public/images/something-rain-seochon.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/something-rain-seochon-45959320a1094286.webp",
+    "storageSha256": "45959320a10942865767781efefc4ec24b130615c0dc31a39d9d884dfebfb741"
   },
   {
     "routeId": "blue-sea-seoul-promise",
@@ -438,7 +486,9 @@
     "evidence": "Source explicitly identifies Artmon Stay rooftop romantic encounters. Visually checked: rooftop night photograph with Namsan tower and the city beyond.",
     "checkedAt": "2026-09-24",
     "file": "public/images/blue-sea-seoul-promise.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/blue-sea-seoul-promise-d874e8873a1fe950.webp",
+    "storageSha256": "d874e8873a1fe950b0eed44bbfd230ea6cec07e161a7fb932758a39d8c247e3e"
   },
   {
     "routeId": "romance-bonus-recognition",
@@ -450,7 +500,9 @@
     "evidence": "Original collage appears with Royal Saloon in the official article. Visually checked: Royal Saloon facade, vintage telephone, restaurant interior and food.",
     "checkedAt": "2026-09-24",
     "file": "public/images/romance-bonus-recognition.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/romance-bonus-recognition-fe710825686a8f2f.webp",
+    "storageSha256": "fe710825686a8f2ff7cf90498b7178d55e8dbe2831fb4dca72dcf892b1359e65"
   },
   {
     "routeId": "she-pretty-seochon",
@@ -462,7 +514,9 @@
     "evidence": "Downloaded image is immediately under the official Yoon Dong-ju Hill heading. Visually checked: actual hill walking path, railings and autumn landscape. The She Was Pretty tourism article identifies the same hill as Shinhyuk’s episode 11 location.",
     "checkedAt": "2026-09-24",
     "file": "public/images/she-pretty-seochon.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/she-pretty-seochon-68cdb88e6e8ae0bb.webp",
+    "storageSha256": "68cdb88e6e8ae0bbf39119d2b92df75ce6182ead533e531cfd647fa33f0ba26f"
   },
   {
     "routeId": "goblin-seoul-walls",
@@ -474,7 +528,9 @@
     "evidence": "Source embeds this photo collage immediately after the Yunposun-gil ghost-scene description. Visually checked: public stone wall and hanok lanes; no synthetic imagery.",
     "checkedAt": "2026-09-24",
     "file": "public/images/goblin-seoul-walls.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/goblin-seoul-walls-a86993bdbaf2230b.webp",
+    "storageSha256": "a86993bdbaf2230b45580e4e8cc2c1b71c8b948a1d1b3e3def74b1b537b17f98"
   },
   {
     "routeId": "lovely-bukchon-future",
@@ -486,7 +542,9 @@
     "evidence": "Official photo caption identifies Bokjeong Well. Visually checked the well alley and retained Seoul Sarang watermark.",
     "checkedAt": "2026-09-24",
     "file": "public/images/lovely-bukchon-future.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/lovely-bukchon-future-18dd2a6742efedd1.webp",
+    "storageSha256": "18dd2a6742efedd1a954767dd8ef63889542c8db8b2e21e4cfb4bb3585b72aac"
   },
   {
     "routeId": "queen-mungyeong-goodbyes",
@@ -498,7 +556,9 @@
     "evidence": "Official KTO Eco World section supplies this venue photograph. Visually checked the park and fountain; it is a location photo, not a drama still.",
     "checkedAt": "2026-09-24",
     "file": "public/images/queen-mungyeong-goodbyes.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/queen-mungyeong-goodbyes-05e99689a93933b0.webp",
+    "storageSha256": "05e99689a93933b078eb28cc90a9d45fa4847c1ed6e6cbf60ccfe048cd50b973"
   },
   {
     "routeId": "my-demon-ordinary-date",
@@ -510,7 +570,9 @@
     "evidence": "Official My Demon section captions the Seoul Forest Mirror Pond. Visually checked reflective pond and retained Seoul Sarang watermark.",
     "checkedAt": "2026-09-24",
     "file": "public/images/my-demon-ordinary-date.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/my-demon-ordinary-date-1a19341fc329f4f8.webp",
+    "storageSha256": "1a19341fc329f4f8a9b8dd8b153bb3909b0f2a6466a17a49ef0705cfb0b5492d"
   },
   {
     "routeId": "encounter-hongje-last-date",
@@ -522,7 +584,9 @@
     "evidence": "Official Hongjecheon episode-5 section supplies the photo. Visually checked stream path, bridge pillars and art panels.",
     "checkedAt": "2026-09-24",
     "file": "public/images/encounter-hongje-last-date.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/encounter-hongje-last-date-8a8ae2868c9aecc8.webp",
+    "storageSha256": "8a8ae2868c9aecc8ac33bb646a25666b4f4d7f5f04497653f9b0a671b91e36af"
   },
   {
     "routeId": "fight-hocheon-rooftop",
@@ -534,7 +598,9 @@
     "evidence": "Official Hocheon article image 7-1 accompanies its 180 Stairs description. Visually checked fish-and-lotus tile staircase; separate official art-village article confirms screen use.",
     "checkedAt": "2026-09-24",
     "file": "public/images/fight-hocheon-rooftop.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/fight-hocheon-rooftop-2f22f444ade539a1.webp",
+    "storageSha256": "2f22f444ade539a10455ec9c24e279d2da33c3b7f368488a0c7a6e7ab2334230"
   },
   {
     "routeId": "samdal-seongsan-homecoming",
@@ -547,7 +613,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/samdal-seongsan-homecoming.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/samdal-seongsan-homecoming-a2db68654dddc626.webp",
+    "storageSha256": "a2db68654dddc626e28443ef4990006b341e69d9ff9f26a78d66583480c44b09"
   },
   {
     "routeId": "tangerines-hallim-homecoming",
@@ -560,7 +628,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/tangerines-hallim-homecoming.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/tangerines-hallim-homecoming-65be7b1303069191.webp",
+    "storageSha256": "65be7b1303069191eb51175706c5e39bd48a584c81454e654b938c14db379398"
   },
   {
     "routeId": "our-blues-hallim-hearts",
@@ -573,7 +643,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/our-blues-hallim-hearts.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/our-blues-hallim-hearts-26c65796acabe978.webp",
+    "storageSha256": "26c65796acabe9782b895b0802a4f16c39ced6e10383d16f98b09f325f147a7b"
   },
   {
     "routeId": "descendants-taebaek-uruk",
@@ -586,7 +658,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Recreated filming set",
     "file": "public/images/descendants-taebaek-uruk.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/descendants-taebaek-uruk-84882891f72b2fcc.webp",
+    "storageSha256": "84882891f72b2fcca299291a7ab4e86c4715b6482c333b911e95b7fceb819238"
   },
   {
     "routeId": "winter-sonata-nami-first-kiss",
@@ -599,7 +673,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/winter-sonata-nami-first-kiss.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/winter-sonata-nami-first-kiss-35bfd97ac06e6f1c.webp",
+    "storageSha256": "35bfd97ac06e6f1c8ad7074afe12b6c81691a2adfa90af087efd297a284d6c1b"
   },
   {
     "routeId": "dae-jang-geum-jeju-new-calling",
@@ -612,7 +688,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/dae-jang-geum-jeju-new-calling.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/dae-jang-geum-jeju-new-calling-6b8f044420be0ebb.webp",
+    "storageSha256": "6b8f044420be0ebb0be4f5f7fb048479b79d81f1611af2e85028ad87eee4cdb7"
   },
   {
     "routeId": "kingdom-mungyeong-gates",
@@ -625,7 +703,9 @@
     "checkedAt": "2026-09-24",
     "imageType": "Filming location",
     "file": "public/images/kingdom-mungyeong-gates.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/kingdom-mungyeong-gates-23f4bac1838a2234.webp",
+    "storageSha256": "23f4bac1838a22343460007ec49e21813ecd2acabf4b1d51a4297abb2f0982b2"
   },
   {
     "routeId": "hero-busan-investigation",
@@ -641,7 +721,9 @@
     "inspected": true,
     "checkedAt": "2026-09-24",
     "file": "public/images/hero-busan-investigation.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/hero-busan-investigation-20e3838de0e280a4.webp",
+    "storageSha256": "20e3838de0e280a484a84a97b1eaae2ef5cd69e19865d3f0d8e33807b9b1a1eb"
   },
   {
     "routeId": "architecture-seoul-first-love",
@@ -656,7 +738,9 @@
     "file": "public/images/architecture-seoul-first-love.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/architecture-seoul-first-love-e361585d7847ee56.webp",
+    "storageSha256": "e361585d7847ee56c48c1dbbfdd77f4e149ff86f9339c91ced56ac374ed89098"
   },
   {
     "routeId": "christmas-gunsan-photo",
@@ -671,7 +755,9 @@
     "file": "public/images/christmas-gunsan-photo.webp",
     "imageType": "Recreated filming set",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/christmas-gunsan-photo-8cced56fdf9eac4f.webp",
+    "storageSha256": "8cced56fdf9eac4fbcdd9b46b29fcab16648cc22c0d027f5ee53da5fc3ce932a"
   },
   {
     "routeId": "my-mister-yongsan-walk",
@@ -686,7 +772,9 @@
     "file": "public/images/my-mister-yongsan-walk.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/my-mister-yongsan-walk-3ac73213f83657a0.webp",
+    "storageSha256": "3ac73213f83657a0ea24feb2120b6163eed07db0e4ef58b65fcb7877683fa470"
   },
   {
     "routeId": "navillera-seoul-remember",
@@ -701,7 +789,9 @@
     "file": "public/images/navillera-seoul-remember.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/navillera-seoul-remember-ba4291a9172c798b.webp",
+    "storageSha256": "ba4291a9172c798b2eba077b278dcf8298e91ed26bb24082d5290b6899a76c3c"
   },
   {
     "routeId": "love-rain-daegu-three-seconds",
@@ -716,7 +806,9 @@
     "file": "public/images/love-rain-daegu-three-seconds.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/love-rain-daegu-three-seconds-1a6ce406bd076d13.webp",
+    "storageSha256": "1a6ce406bd076d134b3b03b75c287cf44711ba35f74ca735d68afbb9d68d0cf8"
   },
   {
     "routeId": "winter-sonata-chuncheon-promise",
@@ -731,7 +823,9 @@
     "file": "public/images/winter-sonata-chuncheon-promise.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/winter-sonata-chuncheon-promise-e6135f43c3dea73f.webp",
+    "storageSha256": "e6135f43c3dea73f1ead600e3160df870efcbfd57f24fa8deba4d03fe8b0bd91"
   },
   {
     "routeId": "coffee-prince-buam-quiet-heart",
@@ -746,7 +840,9 @@
     "sha256": "3c7ba8ea70e0bbc0c024a2c6e3a1ac307fba5a981519ada791acde8434c1efe8",
     "file": "public/images/coffee-prince-buam-quiet-heart.webp",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/coffee-prince-buam-quiet-heart-99ebab818ccb162c.webp",
+    "storageSha256": "99ebab818ccb162cc07e0ea300519e9df06992a6a871d83727d3dd17ddd68ba2"
   },
   {
     "routeId": "moon-lovers-pocheon-crossing-time",
@@ -761,7 +857,9 @@
     "sha256": "05bc0f9bef1320408e466456a638b7d420674e6bdb2ed70e6fea59388cbe3307",
     "file": "public/images/moon-lovers-pocheon-crossing-time.webp",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/moon-lovers-pocheon-crossing-time-fce167fadd53822c.webp",
+    "storageSha256": "fce167fadd53822cb006158a565eed304cece5ce2504af51fc4be1c807370e5d"
   },
   {
     "routeId": "autumn-heart-sokcho-near-miss",
@@ -776,7 +874,9 @@
     "sha256": "229ae7c03fe8a9ead82aa267eaf1c5b379c0203b65985964163646fc279b4d3f",
     "file": "public/images/autumn-heart-sokcho-near-miss.webp",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/autumn-heart-sokcho-near-miss-54ec81161338de41.webp",
+    "storageSha256": "54ec81161338de41b61a31b2778fe67afb7b9fb933bc217ec29857deed623689"
   },
   {
     "routeId": "boys-flowers-daegu-shinhwa",
@@ -794,7 +894,9 @@
     "pdfObjectId": 732,
     "file": "public/images/boys-flowers-daegu-shinhwa.webp",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/boys-flowers-daegu-shinhwa-511c4acf042d4b99.webp",
+    "storageSha256": "511c4acf042d4b99cfa16618558bef7d65cf8ffd9f28d74003d8794d24fcda11"
   },
   {
     "routeId": "misaeng-seoul-square-first-day",
@@ -810,7 +912,9 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
     "file": "public/images/misaeng-seoul-square-first-day.webp",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/misaeng-seoul-square-first-day-8851d0b3f1a81911.webp",
+    "storageSha256": "8851d0b3f1a8191142a97db3e4c3c0c332ff96222bc1d4bc327e81b8a9ac1e2a"
   },
   {
     "routeId": "avengers-sevit-lab",
@@ -827,7 +931,9 @@
     "file": "public/images/avengers-sevit-lab.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/avengers-sevit-lab-3e107ef88be67b6b.webp",
+    "storageSha256": "3e107ef88be67b6b0067c7814be6f9ddea12d9fcf129b9ec56f251e49d607fea"
   },
   {
     "routeId": "avengers-sangam-quinjet",
@@ -842,7 +948,9 @@
     "file": "public/images/avengers-sangam-quinjet.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/avengers-sangam-quinjet-a85542d61ac73bcf.webp",
+    "storageSha256": "a85542d61ac73bcfbf93d5e3c5f32670c5603c9f7a2d3b342cbd7f2473d4fa47"
   },
   {
     "routeId": "black-panther-jagalchi-pursuit",
@@ -858,7 +966,9 @@
     "file": "public/images/black-panther-jagalchi-pursuit.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/black-panther-jagalchi-pursuit-7bb973649acd1754.webp",
+    "storageSha256": "7bb973649acd1754aa85f9d5e7acbe75f8d65e58840c452f8c9902575b480159"
   },
   {
     "routeId": "black-panther-gwangalli-night",
@@ -874,7 +984,9 @@
     "file": "public/images/black-panther-gwangalli-night.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/black-panther-gwangalli-night-2ef178507f02dd23.webp",
+    "storageSha256": "2ef178507f02dd230d97e5bab752ffc118de0672d8f46c6a8d68a1063ce52ee0"
   },
   {
     "routeId": "past-lives-gwacheon-memory",
@@ -890,7 +1002,9 @@
     "file": "public/images/past-lives-gwacheon-memory.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/past-lives-gwacheon-memory-374a5985e658f223.webp",
+    "storageSha256": "374a5985e658f2232ed7e9415783b7c4bacc9532ff0d05e34a684a0a8ea5e111"
   },
   {
     "routeId": "broker-jeonpo-first-choice",
@@ -905,7 +1019,9 @@
     "file": "public/images/broker-jeonpo-first-choice.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/broker-jeonpo-first-choice-28aef9eae8ca27eb.webp",
+    "storageSha256": "28aef9eae8ca27eb049ecff2e055479cce4452a6c5304bde43f9fdd3f56e7d3c"
   },
   {
     "routeId": "oldboy-choryang-dumpling-clue",
@@ -920,7 +1036,9 @@
     "file": "public/images/oldboy-choryang-dumpling-clue.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/oldboy-choryang-dumpling-clue-65bdc3ba60212ccd.webp",
+    "storageSha256": "65bdc3ba60212ccdb3282d63da8ee0c18d67bc1603d530424bb8be27fe4af491"
   },
   {
     "routeId": "train-to-busan-bujeon-escape",
@@ -935,7 +1053,9 @@
     "file": "public/images/train-to-busan-bujeon-escape.webp",
     "imageType": "Filming location",
     "inspected": true,
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/train-to-busan-bujeon-escape-a12a4a021ba201a7.webp",
+    "storageSha256": "a12a4a021ba201a721380cfff047339f2a57046c8d8099aed2cffb9ba0bc0de9"
   },
   {
     "routeId": "twentieth-century-gyeongju-school-trip",
@@ -951,7 +1071,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/twentieth-century-gyeongju-school-trip.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/twentieth-century-gyeongju-school-trip-13e1559b0b346887.webp",
+    "storageSha256": "13e1559b0b3468877eb50b1672791c0b0b0624df0afe74fa67d8fdd046ad8055"
   },
   {
     "routeId": "moonlight-suwon-palace-days",
@@ -967,7 +1089,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/moonlight-suwon-palace-days.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/moonlight-suwon-palace-days-1f855bc716f7622a.webp",
+    "storageSha256": "1f855bc716f7622a7d8b22b673e4942633bae91e0b25cbc8f4e195519edd0823"
   },
   {
     "routeId": "liberation-seonghwan-small-moments",
@@ -983,7 +1107,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/liberation-seonghwan-small-moments.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/liberation-seonghwan-small-moments-66079436b7babbe3.webp",
+    "storageSha256": "66079436b7babbe37d747e502aabe1085b57789eddca2cf63fbe974038d59408"
   },
   {
     "routeId": "host-ichon-final-pursuit",
@@ -999,7 +1125,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/host-ichon-final-pursuit.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/host-ichon-final-pursuit-f172b104d8677327.webp",
+    "storageSha256": "f172b104d86773278297e4038b9d1df4c616ec6d86cfa528d14526659f39b723"
   },
   {
     "routeId": "little-forest-gunwi-homecoming",
@@ -1015,7 +1143,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/little-forest-gunwi-homecoming.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/little-forest-gunwi-homecoming-f6be581ce3e44b76.webp",
+    "storageSha256": "f6be581ce3e44b764be36fc6d86d6fdf1f97a044753e7d46475bc15b86dc0c52"
   },
   {
     "routeId": "ode-to-father-busan-kept-promise",
@@ -1031,7 +1161,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/ode-to-father-busan-kept-promise.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/ode-to-father-busan-kept-promise-3794f97b94a8ce90.webp",
+    "storageSha256": "3794f97b94a8ce90e861c6830391d237dafcdcfe018edcb6b545bb8efef5fe98"
   },
   {
     "routeId": "watermelon-gangneung-first-guitar",
@@ -1048,7 +1180,9 @@
     "checkedAt": "2026-09-25",
     "file": "public/images/watermelon-gangneung-first-guitar.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2016%EB%85%84_7%EC%9B%94_26%EC%9D%BC_%EB%B4%89%EB%B4%89%EB%B0%A9%EC%95%97%EA%B0%84_DSC03943.jpg/1280px-2016%EB%85%84_7%EC%9B%94_26%EC%9D%BC_%EB%B4%89%EB%B4%89%EB%B0%A9%EC%95%97%EA%B0%84_DSC03943.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/2016%EB%85%84_7%EC%9B%94_26%EC%9D%BC_%EB%B4%89%EB%B4%89%EB%B0%A9%EC%95%97%EA%B0%84_DSC03943.jpg/1280px-2016%EB%85%84_7%EC%9B%94_26%EC%9D%BC_%EB%B4%89%EB%B4%89%EB%B0%A9%EC%95%97%EA%B0%84_DSC03943.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/watermelon-gangneung-first-guitar-89697629a37f659e.webp",
+    "storageSha256": "89697629a37f659e0322e42b2b9a21bfced04dd0b50c5e176b0fa50d0ca9dcf9"
   },
   {
     "routeId": "another-oh-songdo-lonely-walk",
@@ -1065,7 +1199,9 @@
     "checkedAt": "2026-09-25",
     "file": "public/images/another-oh-songdo-lonely-walk.webp",
     "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
-    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal_City_Fountain%2C_Songdo%2C_Incheon.jpg/1280px-Canal_City_Fountain%2C_Songdo%2C_Incheon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal_City_Fountain%2C_Songdo%2C_Incheon.jpg/1280px-Canal_City_Fountain%2C_Songdo%2C_Incheon.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/another-oh-songdo-lonely-walk-202364497fc74a2d.webp",
+    "storageSha256": "202364497fc74a2d42017838ee75c11111843ecd1015bcd6b0c80f90987a1043"
   },
   {
     "routeId": "goblin-incheon-summons",
@@ -1081,7 +1217,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/goblin-incheon-summons.webp",
-    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+    "changes": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/goblin-incheon-summons-70bd12dbda0732b1.webp",
+    "storageSha256": "70bd12dbda0732b1ee5a0315272847f1d2b38f392aac617be5c3843bc6a14b5f"
   },
   {
     "routeId": "lovely-sapgyoho-second-ride",
@@ -1097,7 +1235,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/lovely-sapgyoho-second-ride-location.webp",
-    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/lovely-sapgyoho-second-ride-location-eda43b865fd8979b.webp",
+    "storageSha256": "eda43b865fd8979b1b9560f1b9a08d90044920eea467fec929e3e793e8a0388b"
   },
   {
     "routeId": "queen-irwol-rooftop-garden",
@@ -1113,7 +1253,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/queen-irwol-rooftop-garden-location.webp",
-    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/queen-irwol-rooftop-garden-location-11f923768c6a1562.webp",
+    "storageSha256": "11f923768c6a15621d1c9e26a927933595dfd7436e0fff3e9e650e33f331f376"
   },
   {
     "routeId": "my-love-star-petite-france-kiss",
@@ -1129,7 +1271,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/my-love-star-petite-france-kiss-location.webp",
-    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/my-love-star-petite-france-kiss-location-9ce5b6f3af29380f.webp",
+    "storageSha256": "9ce5b6f3af29380fdd9a8533a9e4a9e58a7acba43b610a4aa5659b9dd613b4b0"
   },
   {
     "routeId": "true-beauty-namhae-seaside-date",
@@ -1145,7 +1289,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/true-beauty-namhae-seaside-date-location.webp",
-    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/true-beauty-namhae-seaside-date-location-f88c70157cecd156.webp",
+    "storageSha256": "f88c70157cecd156685e86b9fc88c4f236fb4a57b13f39630937c1f50f95538b"
   },
   {
     "routeId": "hotel-del-luna-mokpo-front-door",
@@ -1161,7 +1307,9 @@
     "inspected": true,
     "checkedAt": "2026-09-25",
     "file": "public/images/hotel-del-luna-mokpo-front-door-location.webp",
-    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "changes": "Auto-oriented, resized without enlarging, and converted to WebP. Original composition retained; display crops may vary with the viewport.",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/hotel-del-luna-mokpo-front-door-location-8bc98523422d01b0.webp",
+    "storageSha256": "8bc98523422d01b0035bbd3c98b77b59e1b4dbdcaa05da9e3c55df0a38a0cb4a"
   },
   {
     "routeId": "vincenzo-seongsu-coffee-truce",
@@ -1178,7 +1326,9 @@
     "checkedAt": "2026-09-25",
     "file": "public/images/vincenzo-seongsu-coffee-truce.webp",
     "changes": "Public 600 × 400 preview converted to WebP without enlargement. Original image composition retained. Display crops may vary with the viewport.",
-    "downloadUrl": "https://www.kogl.or.kr/upload_recommend/thumb_V/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%92%8D%EA%B2%BD/%ED%92%8D%EA%B2%BD/%EC%BB%A4%EB%A8%BC%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C_8.jpg"
+    "downloadUrl": "https://www.kogl.or.kr/upload_recommend/thumb_V/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%92%8D%EA%B2%BD/%ED%92%8D%EA%B2%BD/%EC%BB%A4%EB%A8%BC%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C_8.jpg",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/vincenzo-seongsu-coffee-truce-626fdae9c84bf444.webp",
+    "storageSha256": "626fdae9c84bf444399dd0ade3d5cab2e31941f4a1f01e185c46d55959dc4536"
   },
   {
     "routeId": "vincenzo-chungju-riverside-confession",
@@ -1197,7 +1347,9 @@
     "sha256": "0e960141593ab687f8e4b23a78c6c4737ed3fe5bcb7040c84416cb3be62408ab",
     "originalSha256": "9cb3e957fa34932e92b9ba2a9e09bb773afe3e717e5f1acdb276b78f79ae4e0e",
     "width": 1600,
-    "height": 900
+    "height": 900,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/vincenzo-chungju-riverside-confession-0e960141593ab687.webp",
+    "storageSha256": "0e960141593ab687f8e4b23a78c6c4737ed3fe5bcb7040c84416cb3be62408ab"
   },
   {
     "routeId": "avengers-gangnam-motorcycle-chase",
@@ -1216,7 +1368,9 @@
     "sha256": "1fe047f3cfd7919e5b92947c3bbedbbf96c3e327906598300763d0072ad9d267",
     "originalSha256": "5ab8588876678ed31022bc31803f7bce556d1170ca949e15eadad9bbfe508f4a",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/avengers-gangnam-motorcycle-chase-1fe047f3cfd7919e.webp",
+    "storageSha256": "1fe047f3cfd7919e5b92947c3bbedbbf96c3e327906598300763d0072ad9d267"
   },
   {
     "routeId": "mr-sunshine-andong-lets-love",
@@ -1235,7 +1389,9 @@
     "sha256": "f55b0016f5347ba86f69e966036d879304a201ce81ce5713c123165fabc28674",
     "originalSha256": "912bc3cd8d8070c9f95a70b4a6fdf899482a38179987cd672910131f08ce72d3",
     "width": 940,
-    "height": 627
+    "height": 627,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/mr-sunshine-andong-lets-love-f55b0016f5347ba8.webp",
+    "storageSha256": "f55b0016f5347ba86f69e966036d879304a201ce81ce5713c123165fabc28674"
   },
   {
     "routeId": "glory-cheongna-board-of-revenge",
@@ -1254,7 +1410,9 @@
     "sha256": "03747d8007b2c61ec465885f2a944abf16720d0fd80139b00fa6e63edf4c7a9c",
     "originalSha256": "6bdeb91e321a967dc32d87738ef2e6f3b9d33f54ce4120720824f84553b932f9",
     "width": 1600,
-    "height": 1048
+    "height": 1048,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/glory-cheongna-board-of-revenge-03747d8007b2c61e.webp",
+    "storageSha256": "03747d8007b2c61ec465885f2a944abf16720d0fd80139b00fa6e63edf4c7a9c"
   },
   {
     "routeId": "romantic-pocheon-doldam-doorstep",
@@ -1271,7 +1429,9 @@
     "file": "public/images/romantic-pocheon-doldam-doorstep.webp",
     "changes": "Converted to WebP without enlarging. Original framing retained; display crops may vary with the viewport.",
     "sha256": "65b6786f026ebd08bd581a047254629d7116579133b8f9200ff06855dbe31faf",
-    "originalSha256": "afe4a997098badc3d776a76d523e63861596d8f40134be7ef728b77651bc81c3"
+    "originalSha256": "afe4a997098badc3d776a76d523e63861596d8f40134be7ef728b77651bc81c3",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/romantic-pocheon-doldam-doorstep-65b6786f026ebd08.webp",
+    "storageSha256": "65b6786f026ebd08bd581a047254629d7116579133b8f9200ff06855dbe31faf"
   },
   {
     "imageUrl": "https://www.kogl.or.kr/upload_recommend/thumb_V/%EC%A7%80%EC%97%AD%EB%B3%84%EA%B4%80%EA%B4%91%EC%A7%80/%EA%B0%95%EC%9B%90%EB%8F%84/%EC%98%81%EC%9B%94/thumb_%EB%B3%84%EB%A7%88%EB%A1%9C%EC%B2%9C%EB%AC%B8%EB%8C%80_9.jpg",
@@ -1292,7 +1452,9 @@
     "originalSha256": "aa25f8ca6569befbaf094051463464b8310bb4557a483a999397f0fa35e44dee",
     "sha256": "a38e67540aacff9e3b6b4eaee0b14051b00d8b3ac8ee104fbae689ad1531758e",
     "width": 760,
-    "height": 507
+    "height": 507,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/cloy-yeongwol-first-flight-a38e67540aacff9e.webp",
+    "storageSha256": "a38e67540aacff9e3b6b4eaee0b14051b00d8b3ac8ee104fbae689ad1531758e"
   },
   {
     "imageUrl": "https://support.nonsan.go.kr/kor/html/sub03/030106.html?mode=IMG&site_dvs_cd=kor&code=kor_sub30106&no=bb5b20fcc0edf0ad2fa5aa68c0b16d38&file_id=214446&dlgt=N",
@@ -1313,7 +1475,9 @@
     "originalSha256": "ace21b949453c64fd557fb2fff0130707a97f685a18452658158319cdf8a7882",
     "sha256": "0fa90c563ae4cb22fc238b9de226e8677bdfa1d5c7e7749af09521d1c0fabc04",
     "width": 800,
-    "height": 533
+    "height": 533,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/summer-onbit-documentary-retreat-0fa90c563ae4cb22.webp",
+    "storageSha256": "0fa90c563ae4cb22fc238b9de226e8677bdfa1d5c7e7749af09521d1c0fabc04"
   },
   {
     "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/29/3528329_image2_1.jpg",
@@ -1346,7 +1510,9 @@
       "cpyrhtDivCd": "Type1",
       "originimgurl": "http://tong.visitkorea.or.kr/cms/resource/29/3528329_image2_1.jpg",
       "smallimageurl": "http://tong.visitkorea.or.kr/cms/resource/29/3528329_image3_1.jpg"
-    }
+    },
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/hometown-wolpo-first-meeting-dd2e7ae166f7c6be.webp",
+    "storageSha256": "dd2e7ae166f7c6be54ab5a8aad044fc30e8a591d1f4bbe2f0759df577b7d5669"
   },
   {
     "routeId": "parasite-noryangjin-pizza-scheme",
@@ -1374,7 +1540,9 @@
       "originimgurl": "https://tong.visitkorea.or.kr/cms/resource/77/2947077_image2_1.jpg"
     },
     "width": 700,
-    "height": 467
+    "height": 467,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/parasite-noryangjin-pizza-scheme-9040f9ed40c3d850.webp",
+    "storageSha256": "9040f9ed40c3d850999fd9394c8d96a1de35a55e23ae38d354dac08b3132c543"
   },
   {
     "routeId": "king-the-land-parnas-lobby",
@@ -1393,7 +1561,9 @@
     "sha256": "23d85ef367174955fbabad618be1bda788c8c422091d0f7c15a5f108a6d623e2",
     "originalSha256": "8088b6816719325393bc076e338243301b2f59fd3df314435c56686400d42048",
     "width": 800,
-    "height": 600
+    "height": 600,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/king-the-land-parnas-lobby-23d85ef367174955.webp",
+    "storageSha256": "23d85ef367174955fbabad618be1bda788c8c422091d0f7c15a5f108a6d623e2"
   },
   {
     "routeId": "okay-incheon-first-impressions",
@@ -1412,7 +1582,9 @@
     "sha256": "1f62928fe5a17f9f7914661abd2cc332357c0860c8b0603d1689826ebf8f4fe6",
     "originalSha256": "fc1c102b4666d6974aa614c1686138f197fc27b3e4051690030d737c9b68219c",
     "width": 1440,
-    "height": 1440
+    "height": 1440,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/okay-incheon-first-impressions-1f62928fe5a17f9f.webp",
+    "storageSha256": "1f62928fe5a17f9f7914661abd2cc332357c0860c8b0603d1689826ebf8f4fe6"
   },
   {
     "routeId": "winter-sonata-yongpyong-mountain-love",
@@ -1431,7 +1603,9 @@
     "sha256": "0c3d2ffb950f88db507e043b77708c98325c98eccd44823055d818f3e177eae3",
     "originalSha256": "196833c3b043329264a95a6d76b6a833961aedcdc6e09c4302864cdb847070c2",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/winter-sonata-yongpyong-mountain-love-0c3d2ffb950f88db.webp",
+    "storageSha256": "0c3d2ffb950f88db507e043b77708c98325c98eccd44823055d818f3e177eae3"
   },
   {
     "routeId": "business-proposal-jayu-promise",
@@ -1457,7 +1631,9 @@
     "originalDimensions": [
       3264,
       2448
-    ]
+    ],
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/business-proposal-jayu-promise-23704de2a6d6c265.webp",
+    "storageSha256": "23704de2a6d6c265995fdf94afa3f9c2f1be7c276dedd7f0b9721e7925f4b97d"
   },
   {
     "routeId": "itaewon-yiseo-stairs-rooftop",
@@ -1480,7 +1656,9 @@
     "originalSha256": "6a9e74ed906c7538f776430f93ed15d47a96fe2d534b3a7e9bb70b193e10806b",
     "sha256": "c78a5ce1bc5346b2380d6a3394950415aad8760f5b96fd552cf9af809ba5bbf9",
     "width": 1600,
-    "height": 1067
+    "height": 1067,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/itaewon-yiseo-stairs-rooftop-c78a5ce1bc5346b2.webp",
+    "storageSha256": "c78a5ce1bc5346b2380d6a3394950415aad8760f5b96fd552cf9af809ba5bbf9"
   },
   {
     "routeId": "goblin-yongdap-fateful-meeting",
@@ -1499,6 +1677,8 @@
     "sha256": "029bd6da222b1969f2cf7b2858ae1d2347fe4cff64721ecbe7707b471af3aa0e",
     "originalSha256": "3f0527e0ee469cc4215587260680c348faaf5d4c6622d9b5cfefe8786edbcdc7",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/goblin-yongdap-fateful-meeting-029bd6da222b1969.webp",
+    "storageSha256": "029bd6da222b1969f2cf7b2858ae1d2347fe4cff64721ecbe7707b471af3aa0e"
   }
 ]

@@ -106,6 +106,8 @@ async function mapLimited(items, action) {
 async function run({ baseUrl, canonicalOrigin }) {
   const request = (path, method = "GET") => fetch(new URL(path, baseUrl), { method, redirect: "manual", signal: AbortSignal.timeout(20_000), headers: { "User-Agent": "SceneTrip-SEO-Check/1.0", "Cache-Control": "no-cache" } });
   const catalog = JSON.parse(await readFile(new URL("../src/domains/drama/data/routes.json", import.meta.url), "utf8"));
+  const imageAssets = JSON.parse(await readFile(new URL("../src/domains/drama/data/image-assets.json", import.meta.url), "utf8"));
+  const blobImageUrls = new Set(Object.values(imageAssets).map((asset) => asset.url));
   const routesByPath = new Map(catalog.routes.map((route) => [`/stories/${route.id}`, route]));
   const sitemapResponse = await request("/sitemap.xml");
   if (sitemapResponse.status !== 200) throw new Error(`sitemap.xml returned ${sitemapResponse.status}.`);
@@ -204,10 +206,11 @@ async function run({ baseUrl, canonicalOrigin }) {
   check(robots.split(/\r?\n/).some((line) => line.trim() === `Sitemap: ${canonicalOrigin}/sitemap.xml`), "robots.txt must reference the canonical sitemap.");
 
   const sitemapImages = [...sitemap.matchAll(/<image:loc>([^<]*)<\/image:loc>/g)].map((match) => decodeEntities(match[1].trim()));
-  const samples = [...new Set([...imageUrls.slice(0, 3), ...sitemapImages.slice(0, 3)])].map(absoluteUrl).filter((url) => url?.origin === canonicalOrigin);
+  check(sitemapImages.length > 0 && sitemapImages.every((url) => blobImageUrls.has(url)), "Sitemap images must reference the published Blob assets.");
+  const samples = [...new Set([...imageUrls.slice(0, 3), ...sitemapImages.slice(0, 3)])].map(absoluteUrl).filter((url) => url && (url.origin === canonicalOrigin || blobImageUrls.has(url.href)));
   await mapLimited(samples, async (url) => {
     try {
-      const response = await request(url.pathname, "HEAD");
+      const response = await request(url.origin === canonicalOrigin ? url.pathname : url.href, "HEAD");
       check(response.status === 200 && response.headers.get("content-type")?.startsWith("image/"), `${url.pathname}: image sample is unavailable or not an image.`);
     } catch (error) { failures.push(`${url.pathname}: ${error.message}`); }
   });

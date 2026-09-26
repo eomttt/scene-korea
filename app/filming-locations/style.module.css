@@ -15,20 +15,15 @@
 .linkDetail { margin: var(--space-2) 0; font-family: var(--font-display); font-size: 1.05rem; }
 .linkAction { margin-top: auto; font-size: .8rem; text-decoration: underline; text-underline-offset: .2em; }
 .intro { margin: var(--space-2) 0 var(--space-3); }
-.tableScroll { max-width: 100%; overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
-.tableScroll:focus-visible, .page a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
-.comparison { width: 100%; min-width: 760px; border-collapse: collapse; font-size: .85rem; text-align: left; }
-.comparison caption { padding: var(--space-2); color: var(--muted); text-align: left; }
-.comparison th, .comparison td { padding: var(--space-2); vertical-align: top; border-top: 1px solid var(--line); }
-.comparison thead { background: var(--soft); }
-.comparison tbody th { width: 27%; font-weight: 500; }
-.comparison a { text-underline-offset: .2em; }
-.routeSection { margin-top: var(--space-5); }
+.page a:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
 .routeList { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-3); margin-top: var(--space-3); }
 .route { min-width: 0; padding: var(--space-3); border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
 .route h3 { margin: 0 0 var(--space-2); font-family: var(--font-display); font-size: 1.5rem; font-weight: 400; line-height: 1.3; }
 .route h3 a { text-decoration: none; }
 .route h3 a:hover { text-decoration: underline; text-underline-offset: .15em; }
+.routeFacts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-2); margin: var(--space-3) 0; font-size: .85rem; }
+.routeFacts dt { color: var(--muted); }
+.routeFacts dd { margin: var(--space-1) 0 0; }
 .sceneList { padding-left: var(--space-3); margin: var(--space-3) 0; }
 .sceneList li { padding-left: var(--space-1); margin-bottom: var(--space-2); }
 .sceneList a { text-underline-offset: .2em; }

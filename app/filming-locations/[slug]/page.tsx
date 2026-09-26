@@ -68,26 +68,19 @@ export default async function TitleGuidePage({ params }: PageProps) {
       <h1>{title}</h1>
       <p>{guide.intro}</p>
     </header>
-    <section aria-labelledby="compare-heading">
-      <h2 id="compare-heading">Choose the story for your day</h2>
-      <p className={styles.intro}>Each row is a separate outing. Compare the scenes, starting area and travel before choosing one route. The times below are estimates; travel to the first stop is extra.</p>
-      <div className={styles.tableScroll} role="region" aria-label={`${guide.title} route comparison`} tabIndex={0}>
-        <table className={styles.comparison}>
-          <caption>{guide.routes.length} self-guided {guide.title} routes</caption>
-          <thead><tr><th scope="col">Story</th><th scope="col">Area</th><th scope="col">Estimated time</th><th scope="col">Getting around</th><th scope="col">Scene stops</th></tr></thead>
-          <tbody>{guide.routes.map((route) => <tr key={route.id}>
-            <th scope="row"><Link href={`/stories/${route.id}`}>{route.course}</Link></th>
-            <td>{route.tourArea}</td><td>{route.duration}</td><td>{route.transport}</td><td>{route.stops.length}</td>
-          </tr>)}</tbody>
-        </table>
-      </div>
-    </section>
-    <section className={styles.routeSection} aria-labelledby="scenes-heading">
-      <h2 id="scenes-heading">The scenes in each route</h2>
+    <section id="routes" aria-labelledby="routes-heading">
+      <h2 id="routes-heading">Choose the story for your day</h2>
+      <p className={styles.intro}>Choose one of {guide.routes.length} self-guided routes for your day. Times are estimates and exclude travel to the first stop.</p>
       <div className={styles.routeList}>
         {guide.routes.map((route) => <article className={styles.route} key={route.id}>
           <h3><Link href={`/stories/${route.id}`}>{route.course}</Link></h3>
           <p>{route.hook}</p>
+          <dl className={styles.routeFacts}>
+            <div><dt>Area</dt><dd>{route.tourArea}</dd></div>
+            <div><dt>Estimated time</dt><dd>{route.duration}</dd></div>
+            <div><dt>Getting around</dt><dd>{route.transport}</dd></div>
+            <div><dt>Scene stops</dt><dd>{route.stops.length}</dd></div>
+          </dl>
           <ol className={styles.sceneList}>
             {route.stops.map((stop, index) => <li key={`${route.id}-${stop.name}`}>
               <Link href={`/stories/${route.id}#stop-${index + 1}`}>{stop.name}</Link>

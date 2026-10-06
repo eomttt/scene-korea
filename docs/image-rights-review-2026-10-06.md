@@ -1,6 +1,6 @@
 # 이미지 재사용 권한 점검 · 2026-10-06
 
-100개 투어 모두 서로 다른 대표 사진을 표시한다. 촬영 장소 사진 60개, 같은 동네·인근 산책길 사진 38개, 지역 풍경 사진 2개다. 사진 속 장소와 코스의 관계를 상세 사진 설명에 밝힌다. `Nearby scenery`와 `Regional scenery`는 내부 분류로 보관하며 카드와 상세 사진에 별도 분류 표시는 붙이지 않는다.
+100개 투어 모두 서로 다른 대표 사진을 표시한다. 촬영 장소 사진 72개, 같은 동네·인근 산책길 사진 26개, 지역 풍경 사진 2개다. 사진 속 장소와 코스의 관계를 상세 사진 설명에 밝힌다. `Nearby scenery`와 `Regional scenery`는 내부 분류로 보관하며 카드와 상세 사진에 별도 분류 표시는 붙이지 않는다.
 
 1차 검토에서는 85개 투어에 사진을 표시하고 15개는 코스 표지를 썼다. 사용자가 지역 명소 사진으로 빈 표지를 채우고 중복 사진을 줄여 달라고 요청해 24장의 사진을 추가 검토했다. 빈 표지 15개를 채우고 중복 배정 9개를 교체했다. 같은 사진을 다르게 잘라 중복을 숨기지 않았다.
 
@@ -35,29 +35,42 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 - **한림 귀향·월포 첫 만남**: 각각 협재해변과 화진해변의 지역 풍경을 사용한다. 실제 코스의 한림항·수산시장 또는 월포해변을 찍은 사진으로 소개하지 않는다. 한림항 공식 사진 후보는 변경금지 조건이라 현재 가공 방식에 사용하지 않았다.
 - **나머지 빈 표지**: 태극당·구남로·금능해변 등 실제 장소 사진과 쌍문·상수·용산·노량진의 주변 풍경을 사용한다.
 
-드라마 스틸의 상업적 재사용 허가가 확인된 새 자료는 확보하지 못했다. 허가 없이 스틸을 복제하지 않고 실제 장소 사진을 우선한다.
+이번 후속 검토에서는 주변 풍경 12개를 실제 촬영 정거장 사진으로 교체했다.
+
+## 장면 스틸 우선 검토
+
+사진은 **드라마·영화 장면 → 실제 촬영지 → 주변 풍경** 순서로 선택한다. 재사용 조건과 코스 관련성을 확인하고, 주변 풍경을 실제 촬영지로 소개하지 않는다.
+
+갯마을 차차차, 도깨비, 오징어 게임, 선재 업고 튀어, 이태원 클라쓰, 눈물의 여왕, 미스터 션샤인, 기생충의 공식 갤러리·보도자료·프레스킷을 확인했다. **현재 목록 카드와 상세의 큰 표지에 함께 쓰는 형태로 즉시 게시 승인한 스틸은 0개**다. 이는 확인한 자료와 사용 형태의 한계이며, 스틸이나 광고가 있는 편집 콘텐츠를 일괄 금지한다는 뜻은 아니다.
+
+- **Netflix:** [약관](https://help.netflix.com/en/legal/media-terms-and-conditions)은 실제 표시 라이선스를 제공한다. 사진에도 무변형·제공된 크레딧 유지·페이지에서 가장 두드러진 요소로 쓰지 않는 조건 등이 적용된다. 광고 사이트 일괄 금지 문구는 없다. [오징어 게임 공개 스틸](https://about.netflix.com/en/news/netflix-will-award-an-unprecedented-prize-of-1-million) 1장은 다운로드·픽셀 확인을 마쳤지만, 현재 표지 적용은 미승인이다. 작은 본문 삽입 등은 조건부 검토 대상이다. 갯마을의 공개 자료는 티저 포스터였고, 미스터 션샤인은 사용 조건과 크레딧까지 확인한 코스 관련 장면을 확보하지 못했다.
+- **CJ ENM·CJ Newsroom:** 갯마을·도깨비·미스터 션샤인의 공식 사진 페이지를 확인했다. [법적 고지](https://www.cjenm.com/en/legal-notice-and-disclaimer/)는 자료 제공 자체가 이용 허락은 아니라고 명시한다. [선재 스틸](https://cjnews.cj.net/medialibrary/cj-enm-엔터테인먼트부문/cj-enm-엔터-선재-업고-튀어-스틸/)과 [눈물의 여왕 자료실](https://newsroom.cj.net/medialibrary/cj-enm/queen-of-tears/)에는 보도용·상업 목적 제한이 있다. 투어 대표 이미지 사용 범위는 확인하지 못했으며, 광고 유무만으로 보도용 해당 여부를 단정하지 않았다.
+- **JTBC:** [이태원 클라쓰 공식 페이지](https://tv.jtbc.co.kr/itaewonclass)에 갤러리와 클립이 있지만 공개 재게시 허가는 찾지 못했다. [외부 영상 사용 안내](https://jtbc.co.kr/help/cs/help/etc)의 별도 검토·구매 절차를 스틸 허가로 확대하지 않았다.
+- **기생충:** [공식 국제 프레스킷](https://cdn-media.festival-cannes.com/film_film/0001/66/72f026493fedd9576b0ebc4b7837fd67b8cc95a3.pdf)은 공개되어 있으나 확인한 본문에 재게시 허가가 없었다. [NEON 약관](https://www.neonrated.com/terms-of-use)은 별도 허용이 없는 제3자 재게시에는 사전 서면 동의를 요구한다.
+
+이번에는 **재사용 조건을 확인한 실제 촬영지 사진으로 먼저 개선**한다. 조건부 오징어 게임 사진은 자동 게시 대상이 아니다.
 
 ## 투어별 현재 결과
 
-| 투어 | 이번 변경 | 내부 분류 | 사진 출처와 라이선스 |
+| 투어 | 변경 이력 | 내부 분류 | 사진 출처와 라이선스 |
 | --- | --- | --- | --- |
 | `lovely` | 유지 | Filming location | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Hwahongmun_02.jpg) |
 | `hometown` | 빈 표지에 사진 추가 | Filming location | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Cheongha_Market.jpg) |
-| `goblin` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EC%98%81%EC%A7%84%ED%95%B4%EB%B3%80_2016-12-18_13.50.08.jpg) |
+| `goblin` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=Gh9IRo) |
 | `summer` | 중복 사진 교체 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Hwahongmun_20240929_003.jpg) |
 | `itaewon` | 유지 | Nearby scenery | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Noksapyeong_(%EB%85%B9%EC%82%AC%ED%8F%89)_neighborhood_-_panoramio.jpg) |
 | `vincenzo` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seoullo_7017_night_time_city_lights.jpg) |
 | `cloy` | 유지 | Filming location | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Chungju_20151104_02_(22378410587).jpg) |
 | `woo` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Jeju_Gwaneumsa_01.jpg) |
 | `squid` | 빈 표지에 사진 추가 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg) |
-| `okay` | 빈 표지에 사진 추가 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg) |
+| `okay` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=A8VItQ) |
 | `queen-of-tears-seoul` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:The_Hyundai_Seoul_Yeoui-dong_3.jpg) |
 | `business-proposal-date` | 유지 | Filming location | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Lotte_World.jpg) |
 | `king-the-land-jeju` | 유지 | Filming location | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Gapado_scenery.JPG) |
 | `twenty-five-jeonju` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Eunhaeng-ro.jpg) |
 | `true-beauty-secret` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg) |
 | `hotel-del-luna-memories` | 유지 | Filming location | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Corridor_of_Seoulbookbogo.jpg) |
-| `my-love-star-seoul` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:View_from_N_Seoul_Tower_a2.jpg) |
+| `my-love-star-seoul` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=DTRVja) |
 | `mr-sunshine-hanseong` | 빈 표지에 사진 추가 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://www.nonsan.go.kr/kor/html/sub03/030106.html?mode=V&no=83db35ef66c339eb763d7f5466da5443) |
 | `kingdom-palace` | 유지 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://commons.wikimedia.org/wiki/File:창경궁_통명전_전경_(2013).jpg) |
 | `reply-1988-first-love` | 빈 표지에 사진 추가 | Filming location | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Taegeukdang_Front_Side.jpg) |
@@ -66,22 +79,22 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 | `camellia-ongsan` | 유지 | Filming location | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Guryongpo_Japanese_House_Street_20240113_001.jpg) |
 | `parasite-first-job` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Doijissal_Supermarket.jpg) |
 | `parasite-rain` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Parasite_filming_location.jpg) |
-| `decision-to-leave-chase` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Chinatown_in_Busan_1.jpg) |
+| `decision-to-leave-chase` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA004948) |
 | `pachinko-homecoming` | 유지 | Nearby scenery | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Korea-Busan-Taejongdae-03.jpg) |
 | `startup-dream` | 유지 | Filming location | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Nodeulseom_(14005438206).jpg) |
-| `itaewon-finally-us` | 중복 사진 교체 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Itaewon_view_with_yongsan_art_hall.jpg) |
+| `itaewon-finally-us` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=ofvkv0) |
 | `king-between-worlds` | 빈 표지에 사진 추가 | Filming location | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Haeundae_Gunam-ro_Cultural_Square.jpg) |
 | `sleeping-anguk-dream` | 중복 사진 교체 | Nearby scenery | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg) |
-| `strong-girl-first-dates` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Yeouido_Hangang_Park_from_Mapo_Bridge_2.jpg) |
+| `strong-girl-first-dates` | 실제 촬영 정거장 사진으로 교체 | Filming location | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:20240427_보라매공원_연못.jpg) |
 | `nevertheless-sol-jiwan` | 빈 표지에 사진 추가 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg) |
-| `something-rain-seochon` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seochon_scene.jpg) |
+| `something-rain-seochon` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=SOo6RF) |
 | `blue-sea-seoul-promise` | 중복 사진 교체 | Nearby scenery | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Northeast_View_from_N-Seoul_Tower.jpg) |
 | `romance-bonus-recognition` | 유지 | Nearby scenery | [CC BY 2.0 Korea](https://creativecommons.org/licenses/by/2.0/kr/) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EC%97%B0%EB%82%A8%EB%8F%99_(20240803)_2.jpg) |
-| `she-pretty-seochon` | 중복 사진 교체 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seochon_Dae-o_Bookstore.jpg) |
-| `goblin-seoul-walls` | 중복 사진 교체 | Nearby scenery | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_04.jpg) |
+| `she-pretty-seochon` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=pLXyvE) |
+| `goblin-seoul-walls` | 실제 촬영 정거장 사진으로 교체 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://phoko.visitkorea.or.kr/en/media/modalDetail_ajax.kto?cntntsId=sjBmEa) |
 | `lovely-bukchon-future` | 중복 사진 교체 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_Mar_2025_03.jpg) |
 | `queen-mungyeong-goodbyes` | 유지 | Nearby scenery | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EB%AC%B8%EA%B2%BD_%EA%B5%AC_%EA%B0%80%EC%9D%80%EC%97%AD.jpg) |
-| `my-demon-ordinary-date` | 유지 | Nearby scenery | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Seoulforest_path01.jpg) |
+| `my-demon-ordinary-date` | 실제 촬영 정거장 사진으로 교체 | Filming location | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) · [사진 출처](https://commons.wikimedia.org/wiki/File:Ttukseom_Hangang_Park_20260416_1.jpg) |
 | `encounter-hongje-last-date` | 유지 | Nearby scenery | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Hongjecheon_Artificial_Waterfall_2023-10-31.jpg) |
 | `fight-hocheon-rooftop` | 유지 | Nearby scenery | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA005276) |
 | `samdal-seongsan-homecoming` | 유지 | Filming location | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Jeju_Island_20141127_25_(15892738751).jpg) |
@@ -92,7 +105,7 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 | `dae-jang-geum-jeju-new-calling` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:%ED%91%9C%EC%84%A0%ED%95%B4%EB%B9%84%EC%B9%98%ED%95%B4%EB%B3%80_(1).jpg) |
 | `kingdom-mungyeong-gates` | 중복 사진 교체 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Mungyeong_Saejae_Second_Gate.JPG) |
 | `hero-busan-investigation` | 유지 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Gamcheon_Cultural_Village,_Busan.jpg) |
-| `architecture-seoul-first-love` | 유지 | Nearby scenery | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Jeongneung_Jeongjagak.jpg) |
+| `architecture-seoul-first-love` | 실제 촬영 정거장 사진으로 교체 | Filming location | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EA%B2%BD%ED%9D%AC%EB%8C%80_%EC%84%A4%EC%BA%A0_%EB%AC%B8%EA%B3%BC%EB%8C%80_(%EC%9D%B4%EA%B3%BC%EB%8C%80_%EC%84%9C%EA%B4%80_%EC%9E%A1%ED%9E%98).jpg) |
 | `christmas-gunsan-photo` | 유지 | Filming location | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://www.kogl.or.kr/recommend/recommendDivView.do?division=img&oc=&recommendIdx=38018) |
 | `my-mister-yongsan-walk` | 빈 표지에 사진 추가 | Nearby scenery | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Yongsan_Station.jpg) |
 | `navillera-seoul-remember` | 유지 | Filming location | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EC%95%99%EC%B9%B4%EB%9D%BC%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_02.jpg) |
@@ -100,7 +113,7 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 | `winter-sonata-chuncheon-promise` | 유지 | Nearby scenery | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:%EA%B3%B5%EC%A7%80%EC%B2%9C_%EC%95%BC%EA%B2%BD_(2023).jpg) |
 | `coffee-prince-buam-quiet-heart` | 유지 | Nearby scenery | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Korea-Seoul-Changuimun-01.jpg) |
 | `moon-lovers-pocheon-crossing-time` | 유지 | Filming location | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Art_Valley_In_Korea_(65750913).jpeg) |
-| `autumn-heart-sokcho-near-miss` | 유지 | Nearby scenery | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Abai_Village.jpg) |
+| `autumn-heart-sokcho-near-miss` | 실제 촬영 정거장 사진으로 교체 | Filming location | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) · [사진 출처](https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg) |
 | `boys-flowers-daegu-shinhwa` | 빈 표지에 사진 추가 | Nearby scenery | [KOGL Type 1](https://www.kogl.or.kr/info/licenseType1.do) · [사진 출처](https://nam.daegu.kr/tour/index.do?menu_id=00001532) |
 | `misaeng-seoul-square-first-day` | 유지 | Filming location | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Downtown_Seoul_(2)_(41087270502).jpg) |
 | `avengers-sevit-lab` | 유지 | Filming location | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Korea_Sevit_Island_15_(15540663165).jpg) |
@@ -144,8 +157,8 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 
 ## 자산 기록
 
-1차 검토 자산 41개와 이번 추가 사진 24개의 원 출처, 내려받은 URL, 저자, 라이선스, 픽셀 크기, Blob URL과 SHA-256은 [reviewed-image-assets.json](reviewed-image-assets.json)에 보존했다. 전체 65개 중 64개가 게시 중이고, 기존 허용 사진 36개와 합쳐 서로 다른 사진 100개를 표시한다. 익선동 사진 1개는 서울책보고의 실제 장소 사진을 확보한 뒤 사용을 중단했다.
+1차 검토 자산 41개와 빈 표지·중복 보완 사진 24개, 이번 우선순위 교체 사진 12개의 원 출처, 내려받은 URL, 저자, 라이선스, 픽셀 크기, Blob URL과 SHA-256은 [reviewed-image-assets.json](reviewed-image-assets.json)에 보존했다. 전체 77개 중 64개가 게시 중이고, 기존 허용 사진 36개와 합쳐 서로 다른 사진 100개를 표시한다. 사용을 중단한 사진도 이전 확인 기록을 보존한다.
 
-이번 WebP 24개는 총 6,273,386바이트이며, 검토 자산 전체는 17,819,924바이트다. 업로드 파일의 해시·크기·픽셀 크기를 공개 Blob 응답과 대조한다. 원본 다운로드의 로그인이나 이용 신청 절차를 우회하지 않았다. 이전의 비승인 사진과 사용하지 않는 Blob 파일은 삭제하지 않았다.
+이번 교체 WebP 12개는 총 4,452,590바이트이며, 검토 자산 전체는 22,272,514바이트다. 업로드 파일의 해시·크기·픽셀 크기를 공개 Blob 응답과 대조했다. 원본 다운로드의 로그인이나 이용 신청 절차를 우회하지 않았다. 이전의 비승인 사진과 사용하지 않는 Blob 파일은 삭제하지 않았다.
 
 투어별 현재 사진, 캡션, 권리 표시는 [approved-images.json](../src/domains/drama/data/approved-images.json)이 공개 화면에 전달한다. 승인 목록에 없는 과거 사진은 화면·구조화 데이터·사이트맵에 노출하지 않는다. 이 문서는 사진의 재사용 조건을 확인한 기록이며 AdSense의 승인이나 거절 사유를 나타내지 않는다.

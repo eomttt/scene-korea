@@ -12,6 +12,7 @@ export const dramaRoutes = content.routes.map((route) => {
     image: image?.image ?? "",
     imageType: image?.imageType ?? "Itinerary",
     imageCaption: image?.imageCaption ?? "",
+    imagePosition: image?.imagePosition ?? "center",
     imageSource: image?.imageSource ?? "",
     credit: image?.credit ?? "",
     imageLicense: image?.imageLicense ?? "",

@@ -14,6 +14,7 @@ export function dramaRouteToCard(route: DramaRoute): DramaCardData {
     image: route.image,
     imageUrl: route.image ? getImageUrl(route.image) : "",
     imageCaption: route.imageCaption,
+    imagePosition: route.imagePosition,
     imageType: route.imageType,
     stopNames: route.stops.map((stop) => stop.name),
   };

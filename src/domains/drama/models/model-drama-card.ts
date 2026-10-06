@@ -13,6 +13,7 @@ export type DramaCardData = {
   image: string;
   imageUrl: string;
   imageCaption: string;
+  imagePosition: string;
   imageType: string;
   stopNames: string[];
 };

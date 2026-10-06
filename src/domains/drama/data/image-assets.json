@@ -342,6 +342,20 @@
     "height": 721,
     "bytes": 292894
   },
+  "licensed-ayajin-beach-aerial": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-ayajin-beach-aerial-ba3bd5dd85f1609e.webp",
+    "sha256": "ba3bd5dd85f1609e2b6188b04c383de104e0b5cf6a0374a9e0f5a706a9312cf2",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 384650
+  },
+  "licensed-baekbeom-square-grounds": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-baekbeom-square-grounds-80441c4154d64add.webp",
+    "sha256": "80441c4154d64addfc322453876009f6f9762820b7f99c8538e00964406aab7c",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 309480
+  },
   "licensed-blue-sea-namsan-day": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-blue-sea-namsan-day-4bb8f866bc38f36f.webp",
     "sha256": "4bb8f866bc38f36ff3b925363f89830f0d13553abc27299503b3f0cffc6c2080",
@@ -355,6 +369,13 @@
     "width": 1280,
     "height": 960,
     "bytes": 322556
+  },
+  "licensed-boramae-pond": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-boramae-pond-cb9c3bea89a2fce0.webp",
+    "sha256": "cb9c3bea89a2fce0780cf7467da86435b0b049938b5dcc77e8d871bac397df48",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 779360
   },
   "licensed-bujeon": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-bujeon-bcebbb1cea03fd66.webp",
@@ -426,6 +447,13 @@
     "height": 666,
     "bytes": 102246
   },
+  "licensed-deoksugung-autumn-alley": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-deoksugung-autumn-alley-1069f9047875a204.webp",
+    "sha256": "1069f9047875a2046a3070f8bedcf567ed8a9eaf7cfac50904fe39f1e48372c8",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 558086
+  },
   "licensed-doijissal": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-doijissal-ced9717ee8d4388b.webp",
     "sha256": "ced9717ee8d4388baa42b4bff1753cd56164490ee464bf7d375d707a712db9b4",
@@ -496,6 +524,13 @@
     "height": 792,
     "bytes": 167346
   },
+  "licensed-hakrim-window-table": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hakrim-window-table-a4d145e536b907f4.webp",
+    "sha256": "a4d145e536b907f4b5ef1304ddd7dd5c5e220bbd1eb28ec408abcbdb61f9160e",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 152050
+  },
   "licensed-hallim-hyeopjae": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hallim-hyeopjae-435efbf089be91c1.webp",
     "sha256": "435efbf089be91c172a6b7fe3c91fec26ab74e8cf8cb7cae8a9fd4d604de64b9",
@@ -530,6 +565,13 @@
     "width": 1280,
     "height": 960,
     "bytes": 141440
+  },
+  "licensed-ibagu-stairway": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-ibagu-stairway-5c53a61f689a45be.webp",
+    "sha256": "5c53a61f689a45be153e1be3f13a463d3cf9faccfe4c3939ff5256968298a290",
+    "width": 1400,
+    "height": 933,
+    "bytes": 451906
   },
   "licensed-ikseon": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-ikseon-975aefaaa0e7ed74.webp",
@@ -586,6 +628,13 @@
     "width": 1600,
     "height": 1200,
     "bytes": 390030
+  },
+  "licensed-kyunghee-humanities": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-kyunghee-humanities-6a23e38dfe724c48.webp",
+    "sha256": "6a23e38dfe724c488f79c617c814de54902ea27ea428747374d811986f4123e1",
+    "width": 1280,
+    "height": 853,
+    "bytes": 276724
   },
   "licensed-lovely-bukchon-walls": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-lovely-bukchon-walls-930cb509936fa148.webp",
@@ -699,6 +748,13 @@
     "height": 1280,
     "bytes": 313162
   },
+  "licensed-sejong-food-street": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-sejong-food-street-df75653439444653.webp",
+    "sha256": "df756534394446539df5a6c7a2128f37275622c9c23add45c35c6d7d51cba64c",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 271636
+  },
   "licensed-seochon": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-seochon-2c88b8e0cb2d8ce5.webp",
     "sha256": "2c88b8e0cb2d8ce5f5257922735e197367ebb7ef526e11754c3790969aba0a03",
@@ -734,6 +790,13 @@
     "height": 1066,
     "bytes": 372440
   },
+  "licensed-sokcho-gaetbae-ferry": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-sokcho-gaetbae-ferry-8a96504535cc8936.webp",
+    "sha256": "8a96504535cc893635960e0155c5b60b892b44e0017d112b3bf9b149752c6acb",
+    "width": 1280,
+    "height": 853,
+    "bytes": 216884
+  },
   "licensed-summer-hwahongmun": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-summer-hwahongmun-f2089cf528db41ad.webp",
     "sha256": "f2089cf528db41ad66e151f2701bcebaf9bf5ec16b2988620a0a8af8d5c36d91",
@@ -762,6 +825,20 @@
     "height": 720,
     "bytes": 79362
   },
+  "licensed-ttukseom-date-park": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-ttukseom-date-park-431e25035eb70f37.webp",
+    "sha256": "431e25035eb70f37075bfd0826a30c845b2bf2662ba4152ddea8873f111378cb",
+    "width": 1280,
+    "height": 853,
+    "bytes": 201834
+  },
+  "licensed-woljeongsa-fir-trail": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-woljeongsa-fir-trail-249a4e1127b4631c.webp",
+    "sha256": "249a4e1127b4631cd2c580a1ce7afadabc5fea80daf61b48383a77795f0e7c70",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 427376
+  },
   "licensed-yeongjin": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-yeongjin-39cfbca05dbc51c1.webp",
     "sha256": "39cfbca05dbc51c1dc63507cf5233fce39a472df64f92d6039d8378c7c10ca8d",
@@ -782,6 +859,13 @@
     "width": 1280,
     "height": 306,
     "bytes": 62944
+  },
+  "licensed-yun-dongju-poem-hill": {
+    "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-yun-dongju-poem-hill-2ca3c77b1b09e2aa.webp",
+    "sha256": "2ca3c77b1b09e2aaa67e61f273f0de5ac90e3c7952e452dbcf7bfb212b27253f",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 422604
   },
   "little-forest-gunwi-homecoming": {
     "url": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/little-forest-gunwi-homecoming-f6be581ce3e44b76.webp",

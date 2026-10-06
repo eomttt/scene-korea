@@ -1,6 +1,6 @@
 # 이미지 재사용 권한 점검 · 2026-10-06
 
-100개 투어 모두 서로 다른 대표 사진을 표시한다. 촬영 장소 사진 60개, 같은 동네·인근 산책길 사진 38개, 지역 풍경 사진 2개다. 사진 속 장소를 캡션에 밝히고 `Nearby scenery`와 `Regional scenery`를 실제 촬영 장소와 구분한다.
+100개 투어 모두 서로 다른 대표 사진을 표시한다. 촬영 장소 사진 60개, 같은 동네·인근 산책길 사진 38개, 지역 풍경 사진 2개다. 사진 속 장소와 코스의 관계를 상세 사진 설명에 밝힌다. `Nearby scenery`와 `Regional scenery`는 내부 분류로 보관하며 카드와 상세 사진에 별도 분류 표시는 붙이지 않는다.
 
 1차 검토에서는 85개 투어에 사진을 표시하고 15개는 코스 표지를 썼다. 사용자가 지역 명소 사진으로 빈 표지를 채우고 중복 사진을 줄여 달라고 요청해 24장의 사진을 추가 검토했다. 빈 표지 15개를 채우고 중복 배정 9개를 교체했다. 같은 사진을 다르게 잘라 중복을 숨기지 않았다.
 
@@ -39,7 +39,7 @@ Korea.net의 일부 Commons 파일은 옛 제한 문구와 별도 CC BY-SA 허�
 
 ## 투어별 현재 결과
 
-| 투어 | 이번 변경 | 표시 구분 | 사진 출처와 라이선스 |
+| 투어 | 이번 변경 | 내부 분류 | 사진 출처와 라이선스 |
 | --- | --- | --- | --- |
 | `lovely` | 유지 | Filming location | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Hwahongmun_02.jpg) |
 | `hometown` | 빈 표지에 사진 추가 | Filming location | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) · [사진 출처](https://commons.wikimedia.org/wiki/File:Cheongha_Market.jpg) |

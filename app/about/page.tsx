@@ -26,7 +26,8 @@ export default function AboutPage() {
     <p>A suggested time is a planning allowance, not a train timetable or a live traffic prediction. Where sources disagree or a current price cannot be confirmed, we point you to the operator instead of quoting an unverified fare. A one-stop route is a short location visit; it is not a full-day organized tour.</p>
     <h2>Images and credits</h2>
     <p>We publish photographs with a recorded reuse license and show the photographer, source, license and image changes beside the picture. A location photograph shows the place, not a frame from the production. An older photograph may show a place before later changes.</p>
-    <p>When a suitable licensed filming-location photo is unavailable, a picture from the same neighbourhood may be labelled “Nearby scenery.” It is not presented as the filming spot. Routes without a suitable photograph use an itinerary cover. The collection is not affiliated with the shows, broadcasters or tourism organizations featured here.</p>
+    <p>We choose a photograph of a route stop where possible. “Nearby scenery” shows the surrounding neighbourhood; “Regional scenery” shows a landmark or landscape in the wider area. The caption names the place pictured and explains its connection to the route. These photographs are not presented as drama scenes or as filming stops they do not show. We choose different photographs for different tours.</p>
+    <p>Production stills require permission that covers their use here. If we cannot find a suitable licensed photograph, the route uses an itinerary cover. The collection is not affiliated with the shows, broadcasters or tourism organizations featured here.</p>
     <h2>Help shape the next route</h2>
     <p>Have a drama, film or scene in mind, or a correction to share? <Link href="/request">Send a request</Link> and tell us what you would like us to check.</p>
   </article>;

@@ -14,8 +14,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hwahongmun_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "lovely",
-      "summer"
+      "lovely"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hwahongmun-964d008ff70337e6.webp",
@@ -227,10 +226,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "true-beauty-secret",
-      "sleeping-anguk-dream",
-      "goblin-seoul-walls",
-      "lovely-bukchon-future"
+      "true-beauty-secret"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-bukchon-c8645c768f79bbc9.webp",
@@ -252,8 +248,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/View_from_N_Seoul_Tower_a2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "my-love-star-seoul",
-      "blue-sea-seoul-promise"
+      "my-love-star-seoul"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-namsan-view-5eb13c4463bbc861.webp",
@@ -297,8 +292,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Seochon_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "something-rain-seochon",
-      "she-pretty-seochon"
+      "something-rain-seochon"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-seochon-2c88b8e0cb2d8ce5.webp",
@@ -364,8 +358,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Noksapyeong_%28%EB%85%B9%EC%82%AC%ED%8F%89%29_neighborhood_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "itaewon",
-      "itaewon-finally-us"
+      "itaewon"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-noksapyeong-12bd600b3bf26104.webp",
@@ -386,8 +379,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mungyeong_Saejae_Open_Film_Set.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "alchemy-return",
-      "kingdom-mungyeong-gates"
+      "alchemy-return"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-mungyeong-set-685f1c5ab900cc9b.webp",
@@ -409,7 +401,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ikseon-dong_%EC%9D%B5%EC%84%A0%EB%8F%99_October_1_2020_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [],
-    "status": "unused candidate superseded by a photograph of a listed stop",
+    "status": "reviewed; not currently published",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-ikseon-975aefaaa0e7ed74.webp",
     "storageSha256": "975aefaaa0e7ed74e80c8f322607b19e74902509a2e644be104b0da049913526"
   },
@@ -774,8 +766,7 @@
     "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Chinatown_in_Busan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
     "sourceVariant": "Original file linked from the Commons file page; downloadUrl records the fetched version",
     "routeIds": [
-      "decision-to-leave-chase",
-      "oldboy-choryang-dumpling-clue"
+      "decision-to-leave-chase"
     ],
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-choryang-7fb2070a9537fdbb.webp",
@@ -889,5 +880,564 @@
     "status": "published replacement",
     "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hocheon-49529b8f1723dceb.webp",
     "storageSha256": "49529b8f1723dceb58f45ef39c5440c55e067ee0c1eb71ca8e8a4095c0397ffd"
+  },
+  "licensed-gunam-square": {
+    "sha256": "93dc487125fb2d56a35f6e25be39be36bcdc0ddac0365a613b7d3d1420ae560e",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 443226,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haeundae_Gunam-ro_Cultural_Square.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Haeundae_Gunam-ro_Cultural_Square.jpg/1920px-Haeundae_Gunam-ro_Cultural_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Choi2451 / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "caption": "Gunam-ro Cultural Square in Haeundae, photographed in June 2019. This street is one of the filming locations on the route; the photograph is not a drama still.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Haeundae_Gunam-ro_Cultural_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Individual Commons file description identifies author and CC BY-SA 3.0",
+    "routeIds": [
+      "king-between-worlds"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-gunam-square-93dc487125fb2d56.webp",
+    "storageSha256": "93dc487125fb2d56a35f6e25be39be36bcdc0ddac0365a613b7d3d1420ae560e"
+  },
+  "licensed-geumneung-olle": {
+    "sha256": "143a33a510da9e81e7f72103f265a9ff2bc3508b4428fc258adf27736c8a487e",
+    "width": 1600,
+    "height": 1159,
+    "bytes": 94630,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Olle_Route_14_(2).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Jeju_Olle_Route_14_%282%29.jpg/1920px-Jeju_Olle_Route_14_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Jeju Olle Foundation / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Biyangdo seen across the sand and shallow water at Geumneung Beach, one of this route’s coastal stops. Location photograph from 2021, not a frame from Our Blues.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jeju_Olle_Route_14_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Individual Commons file description identifies author and CC BY-SA 4.0",
+    "routeIds": [
+      "our-blues-hallim-hearts"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-geumneung-olle-143a33a510da9e81.webp",
+    "storageSha256": "143a33a510da9e81e7f72103f265a9ff2bc3508b4428fc258adf27736c8a487e"
+  },
+  "licensed-hallim-hyeopjae": {
+    "sha256": "435efbf089be91c172a6b7fe3c91fec26ab74e8cf8cb7cae8a9fd4d604de64b9",
+    "width": 1600,
+    "height": 1063,
+    "bytes": 147276,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hyeopjae_Beach_Scenery.jpg/1920px-Hyeopjae_Beach_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "credit": "Lcarrion88 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Hyeopjae Beach and Biyangdo on the Hallim coast, photographed in 2014. Regional scenery near the route; Hallim Port and the fisheries-market filming stops are not pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hyeopjae_Beach_Scenery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Individual Commons file description identifies author and CC BY-SA 4.0",
+    "routeIds": [
+      "tangerines-hallim-homecoming"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hallim-hyeopjae-435efbf089be91c1.webp",
+    "storageSha256": "435efbf089be91c172a6b7fe3c91fec26ab74e8cf8cb7cae8a9fd4d604de64b9"
+  },
+  "licensed-mmca-gwacheon-pond": {
+    "sha256": "1b9688637426f1511e285dc3077bba9520eced318e1ffa46d0300534b6fe10ed",
+    "width": 760,
+    "height": 507,
+    "bytes": 106116,
+    "sourceUrl": "https://www.kogl.or.kr/recommend/recommendDivView.do?division=img&oc=&recommendIdx=36990",
+    "downloadUrl": "https://www.kogl.or.kr/upload_recommend/thumb_V/%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%A0%80%EC%9E%91%EB%AC%BC/%EA%B2%BD%EA%B8%B0%EA%B4%80%EA%B4%91/%ED%8F%AC%ED%86%A0%EA%B0%A4%EB%9F%AC%EB%A6%AC/%EA%B2%BD%EA%B8%B0%EA%B4%80%EA%B4%91%ED%8F%AC%ED%84%B8_0539_%5B%EA%B3%BC%EC%B2%9C%5D%20%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80.JPG",
+    "credit": "Gyeonggi Province / Korea Open Government License",
+    "license": "KOGL Type 1",
+    "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "caption": "The pond and museum grounds at MMCA Gwacheon, photographed in 2018. The childhood outing in Past Lives uses this museum’s outdoor sculpture park; this photograph shows the location, not the film scene.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://www.kogl.or.kr/upload_recommend/thumb_V/%ED%82%A4%EC%9B%8C%EB%93%9C%20%EC%A0%80%EC%9E%91%EB%AC%BC/%EA%B2%BD%EA%B8%B0%EA%B4%80%EA%B4%91/%ED%8F%AC%ED%86%A0%EA%B0%A4%EB%9F%AC%EB%A6%AC/%EA%B2%BD%EA%B8%B0%EA%B4%80%EA%B4%91%ED%8F%AC%ED%84%B8_0539_%5B%EA%B3%BC%EC%B2%9C%5D%20%EA%B5%AD%EB%A6%BD%ED%98%84%EB%8C%80%EB%AF%B8%EC%88%A0%EA%B4%80.JPG",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Official KOGL individual work 36990 identifies Gyeonggi Province, year 2018 and Type 1 for this photo collection. First image: 경기관광포털_0539_[과천] 국립현대미술관.JPG.",
+    "routeIds": [
+      "past-lives-gwacheon-memory"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-mmca-gwacheon-pond-1b9688637426f151.webp",
+    "storageSha256": "1b9688637426f1511e285dc3077bba9520eced318e1ffa46d0300534b6fe10ed"
+  },
+  "licensed-cheongha-market": {
+    "sha256": "4a47fc11bbc06a370464848761d82e2e478baa5cb6e30db4eb69b2b10ed0b664",
+    "width": 1280,
+    "height": 721,
+    "bytes": 113744,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheongha_Market.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cheongha_Market.jpg/1280px-Cheongha_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "credit": "@seungmia / YouTube / Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "caption": "Cheongha Market in Pohang, the real-life Gongjin market, shown in a visitor's 2021 travel video. A location image, not a drama still.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cheongha_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Commons identifies this as Cheongha Market, dated 2021-11-10, author @seungmia, sourced from https://www.youtube.com/watch?v=kWmtSjUKv_4 and licensed CC BY 3.0. On 2026-10-06, the original YouTube watch-page public metadataRowRenderer explicitly showed title 라이선스 and value 크리에이티브 커먼즈 저작자 표시 라이선스(재사용 허용), linked to https://www.youtube.com/t/creative_commons. Downloaded pixels inspected: the real market building/sign and street from a visitor travel video, not a drama scene or actor still.",
+    "routeIds": [
+      "hometown"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-cheongha-market-4a47fc11bbc06a37.webp",
+    "storageSha256": "4a47fc11bbc06a370464848761d82e2e478baa5cb6e30db4eb69b2b10ed0b664",
+    "additionalSourceUrls": [
+      "https://www.youtube.com/watch?v=kWmtSjUKv_4"
+    ]
+  },
+  "licensed-cheongganjeong": {
+    "sha256": "29379e7157a40a329910d5f0f2261515b6e27a96275c35760baa21e535a18cb8",
+    "width": 1280,
+    "height": 853,
+    "bytes": 254166,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg/1280px-Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "credit": "Amlou2518 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Cheongganjeong Pavilion on the Goseong coast, south of Ayajin, photographed in 2016. A nearby landmark; Secret Blue and the drama's beach scenes are not pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original Commons file page identifies 고성 청간정, cultural heritage 42-TH-32, photographed 2016-06-02 by Amlou2518, source Own work, and explicitly grants CC BY-SA 4.0. Independently, the Academy of Korean Studies identifies Cheongganjeong in Toseong-myeon, Goseong; the Ayajin tourism site lists it among the local coastal landmarks. Pixels inspected: pavilion exterior. This regional landmark is not presented as the drama's actual scene stop.",
+    "routeIds": [
+      "okay"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-cheongganjeong-29379e7157a40a32.webp",
+    "storageSha256": "29379e7157a40a329910d5f0f2261515b6e27a96275c35760baa21e535a18cb8",
+    "additionalSourceUrls": [
+      "https://encykorea.aks.ac.kr/Article/E0056226",
+      "https://www.ayajinbeach.co.kr/"
+    ]
+  },
+  "licensed-hwajin-coast": {
+    "sha256": "180dbfc9c23982c8c6e4c0287ea832964bb6d175c35c462c5ff24f7aa005cdea",
+    "width": 1280,
+    "height": 960,
+    "bytes": 141440,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwajin_Beach,_Pohang.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Hwajin_Beach%2C_Pohang.jpg/1280px-Hwajin_Beach%2C_Pohang.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "credit": "Choi2451 / Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "caption": "Hwajin Beach on Pohang's northern coast, photographed in 2019. Regional coastal scenery north of Wolpo; this is not Wolpo Beach or a drama frame.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hwajin_Beach%2C_Pohang.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original Commons file page names Hwajin Beach in Pohang, source Own work, author Choi2451, captured 2019-03-02, and explicitly grants CC BY-SA 3.0. Original EXIF and description consistently locate this in Pohang. The official Pohang Maritime Office lists Hwajin and Wolpo separately on its coastal tourism page. Pixels inspected: sandy beach and sea. This is a distinct regional beach image, not incorrectly identified as Wolpo. Exact Wolpo images found so far lack primary photo-specific reusable permission.",
+    "routeIds": [
+      "hometown-wolpo-first-meeting"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-hwajin-coast-180dbfc9c23982c8.webp",
+    "storageSha256": "180dbfc9c23982c8c6e4c0287ea832964bb6d175c35c462c5ff24f7aa005cdea",
+    "additionalSourceUrls": [
+      "https://pohang.mof.go.kr/en/page.do?menuIdx=2896"
+    ]
+  },
+  "licensed-summer-hwahongmun": {
+    "sha256": "f2089cf528db41ad66e151f2701bcebaf9bf5ec16b2988620a0a8af8d5c36d91",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 417574,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwahongmun_20240929_003.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hwahongmun_20240929_003.jpg",
+    "credit": "Mobius6 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Hwahongmun and the Suwoncheon watercourse at Hwaseong Fortress, photographed in 2024. A landmark in the Haenggung-dong walking area.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hwahongmun_20240929_003.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Mobius6) and grants CC BY-SA 4.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "summer"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-summer-hwahongmun-f2089cf528db41ad.webp",
+    "storageSha256": "f2089cf528db41ad66e151f2701bcebaf9bf5ec16b2988620a0a8af8d5c36d91",
+    "originalSha256": "f40d183ed29919c0f96d2d83d112f01f9335823b2f1cd530fbfd3ccb741db07d"
+  },
+  "licensed-sleeping-bukchon-lane": {
+    "sha256": "953cfc1b7923092804275587d0c43196c0663b38d3688f678541ab784bf38c6d",
+    "width": 1600,
+    "height": 1066,
+    "bytes": 372440,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bukchon_Hanok_Village_01.jpg",
+    "credit": "Bgag / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "caption": "A downhill hanok lane in Bukchon with the Seoul skyline beyond, photographed in 2022. Neighborhood scenery near the Anguk walking route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bukchon_Hanok_Village_01.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Bgag) and grants CC0 1.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "sleeping-anguk-dream"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-sleeping-bukchon-lane-953cfc1b79230928.webp",
+    "storageSha256": "953cfc1b7923092804275587d0c43196c0663b38d3688f678541ab784bf38c6d",
+    "originalSha256": "5ffa881b11a91eaea41e1c483035c9b8d59a0f57f3bf54e6ff03b8bbcbd23cf6"
+  },
+  "licensed-goblin-bukchon-street": {
+    "sha256": "7d865ceb40843a0970ab3334231d48146d08df21ed05f0458912c36e235aff03",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 292662,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_04.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bukchon_Hanok_Village_04.jpg",
+    "credit": "Bgag / Wikimedia Commons",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "caption": "An uphill lane framed by hanok roofs and stone walls in Bukchon, photographed in 2022. Neighborhood scenery around the route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bukchon_Hanok_Village_04.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Bgag) and grants CC0 1.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "goblin-seoul-walls"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-goblin-bukchon-street-7d865ceb40843a09.webp",
+    "storageSha256": "7d865ceb40843a0970ab3334231d48146d08df21ed05f0458912c36e235aff03",
+    "originalSha256": "fbe200529126aba0cefd5ca26e99d842b857268c589a1bee375ee07fd1b6f5a7"
+  },
+  "licensed-lovely-bukchon-walls": {
+    "sha256": "930cb509936fa14816d4ecb3f0786ba823d0243c7c5061de17d82477684f76be",
+    "width": 1600,
+    "height": 2133,
+    "bytes": 451450,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_Mar_2025_03.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bukchon_Hanok_Village_Mar_2025_03.jpg",
+    "credit": "Epicgenius / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "A curving stone wall and hanok lane in Bukchon, photographed in March 2025. Neighborhood scenery near the route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bukchon_Hanok_Village_Mar_2025_03.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Epicgenius) and grants CC BY-SA 4.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "lovely-bukchon-future"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-lovely-bukchon-walls-930cb509936fa148.webp",
+    "storageSha256": "930cb509936fa14816d4ecb3f0786ba823d0243c7c5061de17d82477684f76be",
+    "originalSha256": "c77dde768189a9a6b080c2b9e28ae40cf76186f481c26df660c6b11dc887a10e"
+  },
+  "licensed-she-pretty-seochon-bookstore": {
+    "sha256": "18b50dbff833bf30e713f32c71eb24ea602f98ade80b222e98019dbb9abeeab9",
+    "width": 900,
+    "height": 675,
+    "bytes": 161466,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seochon_Dae-o_Bookstore.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Seochon_Dae-o_Bookstore.jpg",
+    "credit": "Luvepoli / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Dae-o Bookstore in Seochon, photographed in 2015. A neighborhood landmark near the walking route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Seochon_Dae-o_Bookstore.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Luvepoli) and grants CC BY-SA 4.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "she-pretty-seochon"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-she-pretty-seochon-bookstore-18b50dbff833bf30.webp",
+    "storageSha256": "18b50dbff833bf30e713f32c71eb24ea602f98ade80b222e98019dbb9abeeab9",
+    "originalSha256": "04c6cf5d65dcdafd8b20decfaacf02c1dd309c0601bc62bff9f4dbc404893a9c"
+  },
+  "licensed-kingdom-jogokgwan": {
+    "sha256": "9a6012870b7ec5d176c4d81ca6c1742f9b50cdea0821d625e6157862a1d949f9",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 390030,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mungyeong_Saejae_Second_Gate.JPG",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mungyeong_Saejae_Second_Gate.JPG",
+    "credit": "hyolee2 / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Jogokgwan, the second gate at Mungyeongsaejae, photographed in 2015. One of the gate stops on this route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mungyeong_Saejae_Second_Gate.JPG",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (hyolee2) and grants CC BY-SA 4.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "kingdom-mungyeong-gates"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-kingdom-jogokgwan-9a6012870b7ec5d1.webp",
+    "storageSha256": "9a6012870b7ec5d176c4d81ca6c1742f9b50cdea0821d625e6157862a1d949f9",
+    "originalSha256": "4f1036738f4662b6c380a25707e6b0a4bb9e7230be9531871a5eda1dc4c8c958"
+  },
+  "licensed-oldboy-choryang-street": {
+    "sha256": "aeae16f78296acf7d9b8143dd9146e40d161d20ed3e15a8aed5d00a490f91a73",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 262154,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Chinatown.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Busan_Chinatown.jpg",
+    "credit": "Jirka Matousek / Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "caption": "The entrance to Choryang Chinatown in Busan, photographed in 2011. Neighborhood scenery around the restaurant stop.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Busan_Chinatown.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Jirka Matousek) and grants CC BY 2.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "oldboy-choryang-dumpling-clue"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-oldboy-choryang-street-aeae16f78296acf7.webp",
+    "storageSha256": "aeae16f78296acf7d9b8143dd9146e40d161d20ed3e15a8aed5d00a490f91a73",
+    "originalSha256": "df06282beea1ce732bef82fe56c64c2ab352a8f30d2170bedc8a38d8deb03759"
+  },
+  "licensed-blue-sea-namsan-day": {
+    "sha256": "4bb8f866bc38f36ff3b925363f89830f0d13553abc27299503b3f0cffc6c2080",
+    "width": 1000,
+    "height": 750,
+    "bytes": 191174,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northeast_View_from_N-Seoul_Tower.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Northeast_View_from_N-Seoul_Tower.jpg",
+    "credit": "InSapphoWeTrust / Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "caption": "The daytime skyline looking northeast from N Seoul Tower, photographed in 2008. A city view from the route’s Namsan area.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Northeast_View_from_N-Seoul_Tower.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (InSapphoWeTrust) and grants CC BY-SA 2.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "blue-sea-seoul-promise"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-blue-sea-namsan-day-4bb8f866bc38f36f.webp",
+    "storageSha256": "4bb8f866bc38f36ff3b925363f89830f0d13553abc27299503b3f0cffc6c2080",
+    "originalSha256": "f175e43ac9988336299dc722be558e699c2a9125143eb4f2365f0537a8987091"
+  },
+  "licensed-itaewon-neighborhood-view": {
+    "sha256": "78ec54b552dd720784492fbba2179e9ec840b282d1930d40f18dc120bdc52871",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 385992,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itaewon_view_with_yongsan_art_hall.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Itaewon_view_with_yongsan_art_hall.jpg",
+    "credit": "Sgroey / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Itaewon rooftops with Yongsan Art Hall in the distance, photographed in 2024. Neighborhood scenery near the route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Itaewon_view_with_yongsan_art_hall.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The individual Commons file page identifies the photographer (Sgroey) and grants CC BY-SA 4.0. Downloaded pixels were inspected and match the named place in the caption.",
+    "routeIds": [
+      "itaewon-finally-us"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-itaewon-neighborhood-view-78ec54b552dd7207.webp",
+    "storageSha256": "78ec54b552dd720784492fbba2179e9ec840b282d1930d40f18dc120bdc52871",
+    "originalSha256": "7b07bce69d28b0f758d5bc3108c982f8e8d4c7c9682c67321325c0e587af073e"
+  },
+  "licensed-refresh-taegeukdang-front": {
+    "sha256": "6ac248457fa1b43fbf368da64e4070aee38062da21068435ef6c385c83ab160d",
+    "width": 1800,
+    "height": 1350,
+    "bytes": 263088,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taegeukdang_Front_Side.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Taegeukdang_Front_Side.jpg",
+    "credit": "오모군 / Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "caption": "Taegeukdang’s original Jangchung-dong bakery, photographed in 2018. This is the first stop on the Reply 1988 café route.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Taegeukdang_Front_Side.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "The original file page identifies the Jangchung-dong main bakery, own work by 오모군, taken 2018-08-31, and CC BY 3.0. This matches the Taegeukdang first stop; it does not show Brown Hands Dogok.",
+    "routeIds": [
+      "reply-1988-first-love"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-refresh-taegeukdang-front-6ac248457fa1b43f.webp",
+    "storageSha256": "6ac248457fa1b43fbf368da64e4070aee38062da21068435ef6c385c83ab160d"
+  },
+  "licensed-sunshine-studio-dusk": {
+    "sha256": "f0104412fec64ac809c0306ff112443f192636028caeeb10e04da82be2010248",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 309562,
+    "sourceUrl": "https://www.nonsan.go.kr/kor/html/sub03/030106.html?mode=V&no=83db35ef66c339eb763d7f5466da5443",
+    "downloadUrl": "https://www.nonsan.go.kr/kor/html/sub03/030106.html?mode=D&no=83db35ef66c339eb763d7f5466da5443&file_id=178271&dlgt=N",
+    "credit": "Nonsan City / Official press photograph",
+    "license": "KOGL Type 1",
+    "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "caption": "Sunshine Studio in Nonsan at dusk, with its period street, tram rails and clock tower. The real filming set, photographed for Nonsan City; not a drama frame.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://www.nonsan.go.kr/kor/html/sub03/030106.html?mode=D&no=83db35ef66c339eb763d7f5466da5443&file_id=178271&dlgt=N",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Nonsan City's 2024-11-05 press release '드라마, 영화 흥행과 함께 바로 그곳, 논산이 뜬다' lists the attached file 선샤인스튜디오_야경.jpg, file_id 178271. This individual release explicitly names Nonsan City as creator and displays KOGL Type 1 (img_opentype01.png) with the attribution-only license link. Downloaded attachment inspected: empty period street at dusk, tram rails, rickshaw and clock-tower building, matching the real Sunshine Studio set. No drama frame or actor portrait is used.",
+    "routeIds": [
+      "mr-sunshine-hanseong"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-sunshine-studio-dusk-f0104412fec64ac8.webp",
+    "storageSha256": "f0104412fec64ac809c0306ff112443f192636028caeeb10e04da82be2010248"
+  },
+  "licensed-daemyeong-arts-street-day": {
+    "sha256": "9352f3d185d390a87a4909878a559ac69ba8a7c284fc18b6ee652c56698128b3",
+    "width": 1280,
+    "height": 852,
+    "bytes": 169934,
+    "sourceUrl": "https://nam.daegu.kr/tour/index.do?menu_id=00001532",
+    "downloadUrl": "https://nam.daegu.kr/cms_images/gallery/20181016054604021za8.jpg",
+    "credit": "Daegu Nam-gu / Official tourism photograph",
+    "license": "KOGL Type 1",
+    "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "caption": "Daemyeong Performing Arts Street beside Keimyung University's Daemyeong Campus. This neighborhood arts-center entrance is not the campus or a Boys Over Flowers scene.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://nam.daegu.kr/cms_images/gallery/20181016054604021za8.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Daegu Nam-gu's individual Daemyeong Performing Arts Street tourism page identifies its location as 계명중앙1길 일대(계명대학교 대명캠퍼스 주변). Its gallery includes this file as the representative photograph and image 2. The gallery is immediately followed by a KOGL Type 1 figure, attribution-only license link and statement that this article is available under Type 1. Downloaded pixels inspected: arts-center exterior and a sign explicitly reading DAE MYEONG Performing Arts Street. The billboard and visitors are incidental to the street view. The caption identifies nearby scenery, not the university campus or a drama scene.",
+    "routeIds": [
+      "boys-flowers-daegu-shinhwa"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-daemyeong-arts-street-day-9352f3d185d390a8.webp",
+    "storageSha256": "9352f3d185d390a87a4909878a559ac69ba8a7c284fc18b6ee652c56698128b3"
+  },
+  "licensed-daemyeong-arts-street-night": {
+    "sha256": "9aa6c2d2312e8efa5690609caae6c123f910df0003161b57e237c6547948e2c1",
+    "width": 1000,
+    "height": 666,
+    "bytes": 102246,
+    "sourceUrl": "https://nam.daegu.kr/tour/index.do?menu_id=00001532",
+    "downloadUrl": "https://nam.daegu.kr/cms_images/gallery/20181016054559575k47.JPG",
+    "credit": "Daegu Nam-gu / Official tourism photograph",
+    "license": "KOGL Type 1",
+    "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "caption": "An evening lane on Daemyeong Performing Arts Street near Keimyung University's Daemyeong Campus. Neighborhood scenery; Love Rain's campus path and scenes are not pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://nam.daegu.kr/cms_images/gallery/20181016054559575k47.JPG",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Daegu Nam-gu's individual Daemyeong Performing Arts Street tourism page identifies its location as 계명중앙1길 일대(계명대학교 대명캠퍼스 주변). Its gallery includes this file as image 1. The gallery is immediately followed by a KOGL Type 1 figure, attribution-only license link and statement that this article is available under Type 1. Downloaded pixels inspected: a nighttime neighborhood lane with the performing-arts street's circular pavement sign. It is a distinct photograph from the daytime center entrance. The caption does not identify it as the campus three-second path or as a drama frame.",
+    "routeIds": [
+      "love-rain-daegu-three-seconds"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-daemyeong-arts-street-night-9aa6c2d2312e8efa.webp",
+    "storageSha256": "9aa6c2d2312e8efa5690609caae6c123f910df0003161b57e237c6547948e2c1"
+  },
+  "licensed-refresh-ssangmun-street": {
+    "sha256": "365ff283631c0399fc3c8562b5791768fe1aa8579bc2057a61378806f45fd87b",
+    "width": 1012,
+    "height": 1800,
+    "bytes": 245226,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "credit": "LERK / Wikimedia Commons · Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "The street outside Ssangmun Station in Seoul, photographed in 2018. Neighborhood scenery; the market and convenience-store filming locations are not pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original page identifies Ssangmun Station entrance in Dobong-gu, own work by LERK, 2018-11-26, and CC BY-SA 4.0. Korean/Japanese descriptions identify exit 4 but English description says exit 1, so the caption does not claim an exit number. LERK requests author, original filename, source and license in attribution.",
+    "routeIds": [
+      "squid"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-refresh-ssangmun-street-365ff283631c0399.webp",
+    "storageSha256": "365ff283631c0399fc3c8562b5791768fe1aa8579bc2057a61378806f45fd87b",
+    "placeEvidence": {
+      "url": "https://english.visitkorea.or.kr/svc/contents/bbsHtmlView.do?menuSn=862&vcontsId=200823",
+      "text": "KTO identifies both Baegun Market and the CU Ssangmun Uicheon filming site in the Ssangmun-dong/Dobong-gu area. The station photograph is surrounding district scenery, not either filming shop."
+    }
+  },
+  "licensed-refresh-sangsu-street": {
+    "sha256": "2dd533e0694dd926edf49569b0caeea8082a27832a5ffe87b57a52ed64dfb699",
+    "width": 1800,
+    "height": 1013,
+    "bytes": 367994,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
+    "credit": "LERK / Wikimedia Commons · Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "A street beside Sangsu Station in Seoul, photographed in 2019. Neighborhood scenery near the second restaurant stop; neither restaurant from Nevertheless is pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original page identifies Sangsu Station exit 1 in Mapo-gu, own work by LERK, 2019-10-22, and CC BY-SA 4.0. The route second stop is Gyeongju Sikdang near Sangsu Station. LERK requests author, original filename, source and license in attribution.",
+    "routeIds": [
+      "nevertheless-sol-jiwan"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-refresh-sangsu-street-2dd533e0694dd926.webp",
+    "storageSha256": "2dd533e0694dd926edf49569b0caeea8082a27832a5ffe87b57a52ed64dfb699",
+    "placeEvidence": {
+      "url": "https://english.visitseoul.net/hallyu/K-DRAMA-Inside-Nevertheless-Seoul-Filming-Locations-that-Created-the-Best-Scenes/38649",
+      "text": "Visit Seoul identifies Gyeongju Restaurant at 49-7 Wausan-ro 13-gil and lists Sangsu Station Exit 1, 254m, as the access point. The photograph shows that station exit, not the restaurant."
+    }
+  },
+  "licensed-refresh-yongsan-arrival": {
+    "sha256": "f62e80cefd22c3559518419cb86997f453bf26aa0c40c66f872f39db6ab23edf",
+    "width": 1350,
+    "height": 1800,
+    "bytes": 249858,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongsan_Station.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Yongsan_Station.jpg",
+    "credit": "Douglas Paul Perkins / Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "caption": "Yongsan Station, the starting point for this neighborhood walk, photographed in 2013. The Baekbin crossing and the drama’s railway lanes are not pictured.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Yongsan_Station.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original page identifies the front of Yongsan Station in Seoul, own work by Douglas Paul Perkins, 2013-12-27, and CC BY 3.0. Route starts at Yongsan Station Exit 1; station is an arrival landmark, not a claimed filming stop.",
+    "routeIds": [
+      "my-mister-yongsan-walk"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-refresh-yongsan-arrival-f62e80cefd22c355.webp",
+    "storageSha256": "f62e80cefd22c3559518419cb86997f453bf26aa0c40c66f872f39db6ab23edf",
+    "placeEvidence": {
+      "url": "https://english.visitseoul.net/attractions/BaekbinRailroadCrossing/ENPhmlx6l",
+      "text": "Visit Seoul identifies Baekbin as a My Mister filming location in Yongsan and lists Yongsan Station Exit 1, 715m, as the access point. The photograph illustrates the route arrival station."
+    }
+  },
+  "licensed-refresh-noryangjin-market": {
+    "sha256": "b1a21cbec12265466a582ff9dc293afe565fe17af4db8b2f93d7a135d7d8bb7d",
+    "width": 1350,
+    "height": 1800,
+    "bytes": 339938,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noryangjin_Fish_Market.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Noryangjin_Fish_Market.jpg",
+    "credit": "Clément Chevallier / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Noryangjin Fish Market in Seoul, photographed in 2018. A landmark in the wider Noryangjin area; this is not Sky Pizza or a Parasite filming location.",
+    "checkedAt": "2026-10-06",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Noryangjin_Fish_Market.jpg",
+    "sourceVariant": "Publicly provided image linked from the source page; downloadUrl records the fetched version.",
+    "licenseEvidence": "Original page identifies Noryangjin Fish Market, own work by Clément Chevallier, 2018-03-24, and CC BY-SA 4.0. It illustrates the route neighborhood only. The market is not part of this itinerary.",
+    "routeIds": [
+      "parasite-noryangjin-pizza-scheme"
+    ],
+    "status": "published replacement",
+    "storageUrl": "https://d9cx37rhzrr61yso.public.blob.vercel-storage.com/images/licensed-refresh-noryangjin-market-b1a21cbec1226546.webp",
+    "storageSha256": "b1a21cbec12265466a582ff9dc293afe565fe17af4db8b2f93d7a135d7d8bb7d"
   }
 }

@@ -11,6 +11,17 @@
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
+    "routeId": "hometown",
+    "image": "licensed-cheongha-market",
+    "imageType": "Filming location",
+    "imageCaption": "Cheongha Market in Pohang, the real-life Gongjin market, shown in a visitor's 2021 travel video. A location image, not a drama still.",
+    "credit": "@seungmia / YouTube / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Cheongha_Market.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
+  },
+  {
     "routeId": "goblin",
     "image": "licensed-yeongjin",
     "imageType": "Nearby scenery",
@@ -23,14 +34,14 @@
   },
   {
     "routeId": "summer",
-    "image": "licensed-hwahongmun",
+    "image": "licensed-summer-hwahongmun",
     "imageType": "Nearby scenery",
-    "imageCaption": "Hwahongmun in the Hwaseong Fortress walking area, photographed in 2022. Nearby scenery in Haenggung-dong; the house exteriors and exact drama scenes are not pictured.",
-    "credit": "Bernard Gagnon / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Hwahongmun_02.jpg",
-    "imageLicense": "CC0 1.0",
-    "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
+    "imageCaption": "Hwahongmun and the Suwoncheon watercourse at Hwaseong Fortress, photographed in 2024. A landmark in the Haenggung-dong walking area.",
+    "credit": "Mobius6 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hwahongmun_20240929_003.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
   },
   {
     "routeId": "itaewon",
@@ -72,6 +83,28 @@
     "imageCaption": "The lantern-lined approach at Gwaneumsa Temple, Jeju, photographed in 2026. A location photograph, not a drama frame.",
     "credit": "Grapesurgeon / Wikimedia Commons",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Jeju_Gwaneumsa_01.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
+    "routeId": "squid",
+    "image": "licensed-refresh-ssangmun-street",
+    "imageType": "Nearby scenery",
+    "imageCaption": "The street outside Ssangmun Station in Seoul, photographed in 2018. Neighborhood scenery; the market and convenience-store filming locations are not pictured.",
+    "credit": "LERK / Wikimedia Commons · Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Seoul-metro-413-Ssangmun-station-entrance-4-20181126-110834.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
+    "routeId": "okay",
+    "image": "licensed-cheongganjeong",
+    "imageType": "Nearby scenery",
+    "imageCaption": "Cheongganjeong Pavilion on the Goseong coast, south of Ayajin, photographed in 2016. A nearby landmark; Secret Blue and the drama's beach scenes are not pictured.",
+    "credit": "Amlou2518 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Amlou2518_%EC%B2%AD%EA%B0%84%EC%A0%95.jpg",
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
@@ -154,6 +187,17 @@
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
   },
   {
+    "routeId": "mr-sunshine-hanseong",
+    "image": "licensed-sunshine-studio-dusk",
+    "imageType": "Filming location",
+    "imageCaption": "Sunshine Studio in Nonsan at dusk, with its period street, tram rails and clock tower. The real filming set, photographed for Nonsan City; not a drama frame.",
+    "credit": "Nonsan City / Official press photograph",
+    "imageSource": "https://www.nonsan.go.kr/kor/html/sub03/030106.html?mode=V&no=83db35ef66c339eb763d7f5466da5443",
+    "imageLicense": "KOGL Type 1",
+    "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
+  },
+  {
     "routeId": "kingdom-palace",
     "image": "kingdom-palace",
     "imageType": "Filming location",
@@ -163,6 +207,17 @@
     "imageLicense": "KOGL Type 1",
     "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
     "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport."
+  },
+  {
+    "routeId": "reply-1988-first-love",
+    "image": "licensed-refresh-taegeukdang-front",
+    "imageType": "Filming location",
+    "imageCaption": "Taegeukdang’s original Jangchung-dong bakery, photographed in 2018. This is the first stop on the Reply 1988 café route.",
+    "credit": "오모군 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Taegeukdang_Front_Side.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
     "routeId": "alchemy-return",
@@ -254,25 +309,36 @@
   },
   {
     "routeId": "itaewon-finally-us",
-    "image": "licensed-noksapyeong",
+    "image": "licensed-itaewon-neighborhood-view",
     "imageType": "Nearby scenery",
-    "imageCaption": "A lane in the Noksapyeong and Itaewon neighborhood, photographed in 2011. Nearby scenery; the specific drama scene stops are not pictured.",
-    "credit": "Daugilas / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Noksapyeong_(%EB%85%B9%EC%82%AC%ED%8F%89)_neighborhood_-_panoramio.jpg",
+    "imageCaption": "Itaewon rooftops with Yongsan Art Hall in the distance, photographed in 2024. Neighborhood scenery near the route.",
+    "credit": "Sgroey / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Itaewon_view_with_yongsan_art_hall.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
+    "routeId": "king-between-worlds",
+    "image": "licensed-gunam-square",
+    "imageType": "Filming location",
+    "imageCaption": "Gunam-ro Cultural Square in Haeundae, photographed in June 2019. This street is one of the filming locations on the route; the photograph is not a drama still.",
+    "credit": "Choi2451 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Haeundae_Gunam-ro_Cultural_Square.jpg",
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 3.0."
   },
   {
     "routeId": "sleeping-anguk-dream",
-    "image": "licensed-bukchon",
+    "image": "licensed-sleeping-bukchon-lane",
     "imageType": "Nearby scenery",
-    "imageCaption": "Hanok houses on Bukchon-ro 11-gil, photographed in 2024. Nearby scenery in the Bukchon and Anguk walking area; the specific scene stops are not pictured.",
-    "credit": "Basile Morin / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+    "imageCaption": "A downhill hanok lane in Bukchon with the Seoul skyline beyond, photographed in 2022. Neighborhood scenery near the Anguk walking route.",
+    "credit": "Bgag / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_01.jpg",
+    "imageLicense": "CC0 1.0",
+    "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
     "routeId": "strong-girl-first-dates",
@@ -281,6 +347,17 @@
     "imageCaption": "Yeouido Hangang Park seen from Mapo Bridge in 2022. A riverside overview of the route's park stop; the exact date-scene spot is not shown.",
     "credit": "kallerna / Wikimedia Commons",
     "imageSource": "https://commons.wikimedia.org/wiki/File:Yeouido_Hangang_Park_from_Mapo_Bridge_2.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
+    "routeId": "nevertheless-sol-jiwan",
+    "image": "licensed-refresh-sangsu-street",
+    "imageType": "Nearby scenery",
+    "imageCaption": "A street beside Sangsu Station in Seoul, photographed in 2019. Neighborhood scenery near the second restaurant stop; neither restaurant from Nevertheless is pictured.",
+    "credit": "LERK / Wikimedia Commons · Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Seoul-metro-623-Sangsu-station-entrance-1-20191022-080026.jpg",
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
@@ -298,14 +375,14 @@
   },
   {
     "routeId": "blue-sea-seoul-promise",
-    "image": "licensed-namsan-view",
+    "image": "licensed-blue-sea-namsan-day",
     "imageType": "Nearby scenery",
-    "imageCaption": "Seoul at dusk from N Seoul Tower, photographed in 2017. A view from the route's Namsan stop, not the tower exterior, love-lock railings or a drama frame.",
-    "credit": "CYAN / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:View_from_N_Seoul_Tower_a2.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+    "imageCaption": "The daytime skyline looking northeast from N Seoul Tower, photographed in 2008. A city view from the route’s Namsan area.",
+    "credit": "InSapphoWeTrust / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Northeast_View_from_N-Seoul_Tower.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 2.0."
   },
   {
     "routeId": "romance-bonus-recognition",
@@ -320,33 +397,33 @@
   },
   {
     "routeId": "she-pretty-seochon",
-    "image": "licensed-seochon",
+    "image": "licensed-she-pretty-seochon-bookstore",
     "imageType": "Nearby scenery",
-    "imageCaption": "A neighborhood storefront in Seochon, photographed in 2015. Nearby scenery from the walking area; the featured restaurants and drama scenes are not pictured.",
+    "imageCaption": "Dae-o Bookstore in Seochon, photographed in 2015. A neighborhood landmark near the walking route.",
     "credit": "Luvepoli / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Seochon_scene.jpg",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Seochon_Dae-o_Bookstore.jpg",
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
   },
   {
     "routeId": "goblin-seoul-walls",
-    "image": "licensed-bukchon",
+    "image": "licensed-goblin-bukchon-street",
     "imageType": "Nearby scenery",
-    "imageCaption": "Hanok houses on Bukchon-ro 11-gil, photographed in 2024. Nearby scenery in the Bukchon and Anguk walking area; the specific scene stops are not pictured.",
-    "credit": "Basile Morin / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+    "imageCaption": "An uphill lane framed by hanok roofs and stone walls in Bukchon, photographed in 2022. Neighborhood scenery around the route.",
+    "credit": "Bgag / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_04.jpg",
+    "imageLicense": "CC0 1.0",
+    "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
     "routeId": "lovely-bukchon-future",
-    "image": "licensed-bukchon",
+    "image": "licensed-lovely-bukchon-walls",
     "imageType": "Nearby scenery",
-    "imageCaption": "Hanok houses on Bukchon-ro 11-gil, photographed in 2024. Nearby scenery in the Bukchon and Anguk walking area; the specific scene stops are not pictured.",
-    "credit": "Basile Morin / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_and_blue_sky_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "imageCaption": "A curving stone wall and hanok lane in Bukchon, photographed in March 2025. Neighborhood scenery near the route.",
+    "credit": "Epicgenius / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_Mar_2025_03.jpg",
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
@@ -407,6 +484,28 @@
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 2.0."
   },
   {
+    "routeId": "tangerines-hallim-homecoming",
+    "image": "licensed-hallim-hyeopjae",
+    "imageType": "Regional scenery",
+    "imageCaption": "Hyeopjae Beach and Biyangdo on the Hallim coast, photographed in 2014. Regional scenery near the route; Hallim Port and the fisheries-market filming stops are not pictured.",
+    "credit": "Lcarrion88 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hyeopjae_Beach_Scenery.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
+    "routeId": "our-blues-hallim-hearts",
+    "image": "licensed-geumneung-olle",
+    "imageType": "Filming location",
+    "imageCaption": "Biyangdo seen across the sand and shallow water at Geumneung Beach, one of this route’s coastal stops. Location photograph from 2021, not a frame from Our Blues.",
+    "credit": "Jeju Olle Foundation / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Jeju_Olle_Route_14_(2).jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+  },
+  {
     "routeId": "descendants-taebaek-uruk",
     "image": "licensed-tongri",
     "imageType": "Nearby scenery",
@@ -441,11 +540,11 @@
   },
   {
     "routeId": "kingdom-mungyeong-gates",
-    "image": "licensed-mungyeong-set",
-    "imageType": "Nearby scenery",
-    "imageCaption": "Mungyeongsaejae Open Film Set beside the fortress-gate walking route, photographed in 2018. Nearby scenery; Juheulgwan and Jogokgwan themselves are not pictured.",
-    "credit": "Choi2451 / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Mungyeong_Saejae_Open_Film_Set.jpg",
+    "image": "licensed-kingdom-jogokgwan",
+    "imageType": "Filming location",
+    "imageCaption": "Jogokgwan, the second gate at Mungyeongsaejae, photographed in 2015. One of the gate stops on this route.",
+    "credit": "hyolee2 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Mungyeong_Saejae_Second_Gate.JPG",
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
@@ -484,6 +583,17 @@
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
+    "routeId": "my-mister-yongsan-walk",
+    "image": "licensed-refresh-yongsan-arrival",
+    "imageType": "Nearby scenery",
+    "imageCaption": "Yongsan Station, the starting point for this neighborhood walk, photographed in 2013. The Baekbin crossing and the drama’s railway lanes are not pictured.",
+    "credit": "Douglas Paul Perkins / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Yongsan_Station.jpg",
+    "imageLicense": "CC BY 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
+  },
+  {
     "routeId": "navillera-seoul-remember",
     "image": "licensed-ankara",
     "imageType": "Filming location",
@@ -492,6 +602,17 @@
     "imageSource": "https://commons.wikimedia.org/wiki/File:%EC%95%99%EC%B9%B4%EB%9D%BC%EA%B3%B5%EC%9B%90_%EC%A0%84%EA%B2%BD_02.jpg",
     "imageLicense": "CC0 1.0",
     "imageLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
+  },
+  {
+    "routeId": "love-rain-daegu-three-seconds",
+    "image": "licensed-daemyeong-arts-street-night",
+    "imageType": "Nearby scenery",
+    "imageCaption": "An evening lane on Daemyeong Performing Arts Street near Keimyung University's Daemyeong Campus. Neighborhood scenery; Love Rain's campus path and scenes are not pictured.",
+    "credit": "Daegu Nam-gu / Official tourism photograph",
+    "imageSource": "https://nam.daegu.kr/tour/index.do?menu_id=00001532",
+    "imageLicense": "KOGL Type 1",
+    "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
@@ -537,6 +658,17 @@
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
     "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 2.0."
+  },
+  {
+    "routeId": "boys-flowers-daegu-shinhwa",
+    "image": "licensed-daemyeong-arts-street-day",
+    "imageType": "Nearby scenery",
+    "imageCaption": "Daemyeong Performing Arts Street beside Keimyung University's Daemyeong Campus. This neighborhood arts-center entrance is not the campus or a Boys Over Flowers scene.",
+    "credit": "Daegu Nam-gu / Official tourism photograph",
+    "imageSource": "https://nam.daegu.kr/tour/index.do?menu_id=00001532",
+    "imageLicense": "KOGL Type 1",
+    "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
     "routeId": "misaeng-seoul-square-first-day",
@@ -594,6 +726,17 @@
     "imageChanges": "Resized without enlarging; converted to WebP. Original image composition retained. Display crops may vary with the viewport. This derivative is available under CC BY-SA 3.0."
   },
   {
+    "routeId": "past-lives-gwacheon-memory",
+    "image": "licensed-mmca-gwacheon-pond",
+    "imageType": "Filming location",
+    "imageCaption": "The pond and museum grounds at MMCA Gwacheon, photographed in 2018. The childhood outing in Past Lives uses this museum’s outdoor sculpture park; this photograph shows the location, not the film scene.",
+    "credit": "Gyeonggi Province / Korea Open Government License",
+    "imageSource": "https://www.kogl.or.kr/recommend/recommendDivView.do?division=img&oc=&recommendIdx=36990",
+    "imageLicense": "KOGL Type 1",
+    "imageLicenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+    "imageChanges": "Converted to WebP without enlargement. Original composition retained; display crops may vary with the viewport."
+  },
+  {
     "routeId": "broker-jeonpo-first-choice",
     "image": "licensed-jeonpo-phone",
     "imageType": "Filming location",
@@ -606,14 +749,14 @@
   },
   {
     "routeId": "oldboy-choryang-dumpling-clue",
-    "image": "licensed-choryang",
+    "image": "licensed-oldboy-choryang-street",
     "imageType": "Nearby scenery",
-    "imageCaption": "Choryang Chinatown in Busan, photographed in 2018. Nearby neighborhood scenery; the restaurant interior and film scenes are not pictured.",
-    "credit": "Christophe95 / Wikimedia Commons",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Chinatown_in_Busan_1.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
+    "imageCaption": "The entrance to Choryang Chinatown in Busan, photographed in 2011. Neighborhood scenery around the restaurant stop.",
+    "credit": "Jirka Matousek / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Busan_Chinatown.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport."
   },
   {
     "routeId": "train-to-busan-bujeon-escape",
@@ -770,6 +913,17 @@
     "imageChanges": "Converted to WebP without enlarging or cropping. Original image composition and any watermark retained."
   },
   {
+    "routeId": "hometown-wolpo-first-meeting",
+    "image": "licensed-hwajin-coast",
+    "imageType": "Regional scenery",
+    "imageCaption": "Hwajin Beach on Pohang's northern coast, photographed in 2019. Regional coastal scenery north of Wolpo; this is not Wolpo Beach or a drama frame.",
+    "credit": "Choi2451 / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Hwajin_Beach,_Pohang.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 3.0."
+  },
+  {
     "routeId": "summer-onbit-documentary-retreat",
     "image": "summer-onbit-documentary-retreat",
     "imageType": "Filming location",
@@ -911,6 +1065,17 @@
     "imageLicense": "CC BY-SA 3.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "imageChanges": "Resized without enlarging; converted to WebP. Original composition retained. Display crops may vary with the viewport. This derivative is available under CC BY-SA 3.0."
+  },
+  {
+    "routeId": "parasite-noryangjin-pizza-scheme",
+    "image": "licensed-refresh-noryangjin-market",
+    "imageType": "Nearby scenery",
+    "imageCaption": "Noryangjin Fish Market in Seoul, photographed in 2018. A landmark in the wider Noryangjin area; this is not Sky Pizza or a Parasite filming location.",
+    "credit": "Clément Chevallier / Wikimedia Commons",
+    "imageSource": "https://commons.wikimedia.org/wiki/File:Noryangjin_Fish_Market.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "imageChanges": "Resized without enlargement and converted to WebP. Original composition retained; display crops may vary with the viewport. This derivative is available under CC BY-SA 4.0."
   },
   {
     "routeId": "itaewon-yiseo-stairs-rooftop",

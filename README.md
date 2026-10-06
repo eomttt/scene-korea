@@ -28,20 +28,24 @@ npm run check:seo -- --base-url http://localhost:3104 --canonical-origin https:/
 - 상세 페이지는 스크롤 애니메이션 없이 열린다. 브라우저 뒤로가기는 이전 위치를 복원하며, `All stories`도 같은 탭에서 필터별로 보던 위치를 복원한다. 저장한 위치가 없으면 목록 시작점으로 이동한다.
 - 북마크로 저장한 코스를 `/saved`에서 모아본다. 같은 브라우저에서 새로고침과 재방문 후에도 유지되며 저장 취소도 가능하다.
 - 장소마다 주요 장면, 확인된 회차, 방문 팁, Google Maps와 NAVER Map 링크가 있다.
-- 실제 드라마 스틸과 촬영지 사진을 구분한다. 사진이 없는 코스에는 방문 순서를 표시한 표지를 쓴다.
+- 재사용 라이선스를 확인한 사진만 표시한다. 같은 동네의 참고 사진은 `Nearby scenery`로 구분한다. 적합한 사진이 없는 코스에는 방문 순서를 표시한 표지를 쓴다.
 - 작품 추가와 장면 추가 요청을 받는다. 코스에서 요청하면 작품명이 채워진다.
 
 `src/domains/drama/data/routes.json`에서 콘텐츠를 관리한다. 장면과 회차는 출처를 확인한 뒤 추가한다. 이동 시간은 현지 일정의 추정치이며 첫 장소까지 가는 시간은 별도다.
 
 2026-09-25 운영 카탈로그는 70작품·100투어·181정거장이다. 기존 작품에 20투어·25정거장을 추가했고, 여러 투어가 있는 21작품에는 비교 가이드를 연결했다. 통합 빌드·로컬 및 운영 SEO 검사를 통과했다. Google은 사이트맵의 125개 페이지를 정상으로 읽었다. 검증과 등록 결과는 [SEO 작업 기록](docs/seo-2026-09-25.md)에 따로 남긴다.
 
-현재 100투어 모두 사진이 있다. 용답교 코스는 동선에 포함된 인근 하천 사진을 `Nearby walk`로 구분하고, 나머지는 촬영지 사진 또는 작품 스틸로 표시한다. 이미지 출처와 표시된 권리자는 각 코스에 기록했다. 보강한 사진 90개의 원본 URL, 장소 일치 근거, 확인한 이용 조건은 `docs/image-sources.json`에 있다. 라이선스가 명시된 사진은 상세 화면에 라이선스 링크와 변환 내역도 표시한다. 나머지 이미지의 상업적 재사용 허가를 확보했다는 뜻은 아니다. 광고를 켜기 전에 직접 촬영한 사진이나 허가받은 자료로 교체하거나 이용 조건을 확인한다.
+`src/domains/drama/data/visit-plans.json`은 대표 12개 투어의 도착 방법·구간별 일정·비용·방문 제한·날씨 대안을 관리한다. 일정은 편집상 예상 시간이다. 요금과 운영 정보는 확인한 범위만 기재하며 출처와 확인 날짜를 상세 화면에 표시한다. 조사 근거와 확인하지 못한 범위는 [방문 계획 조사 기록](docs/visit-plan-research-2026-10-06.md)에 남긴다.
+
+화면에 표시할 사진은 `src/domains/drama/data/approved-images.json`에서 관리한다. 라이선스 확인 목록에 없는 사진은 카드·상세·구조화 데이터·사이트맵에 노출하지 않는다. 같은 동네의 참고 사진은 실제 촬영지로 설명하지 않는다. 각 사진에 저자·원문·라이선스·가공 내역을 표시한다. 이전 이미지 90개의 조사 기록인 `docs/image-sources.json`은 과거 상태를 보존하며 현재 게시 허가 목록으로 사용하지 않는다. 검토 결과는 [이미지 사용권 기록](docs/image-rights-review-2026-10-06.md)에 남긴다.
+
+2026-10-06 검토 후 사진을 표시하는 투어는 85개다. 53개는 촬영 장소 사진, 32개는 동네 풍경이나 인근 산책길 사진이다. 적합한 허가 사진을 확보하지 못한 15개는 코스 표지를 사용한다. 새 사진의 원본·해시·Blob 주소는 `docs/reviewed-image-assets.json`에 기록한다.
 
 ## 이미지 저장
 
-사진 102개는 [Vercel Blob의 scene-trip-images 저장소](https://vercel.com/hyuntae-eoms-projects/~/stores/blob/store_D9Cx37rhzRr61ySO)에 둔다. 저장소는 `scene-korea`의 Production·Preview·Development에 연결되어 있다. 화면에는 Next.js Image가 크기를 조절한 사진을 보낸다.
+사진은 [Vercel Blob의 scene-trip-images 저장소](https://vercel.com/hyuntae-eoms-projects/~/stores/blob/store_D9Cx37rhzRr61ySO)에 둔다. 저장소는 `scene-korea`의 Production·Preview·Development에 연결되어 있다. 화면에는 Next.js Image가 크기를 조절한 사진을 보낸다.
 
-`src/domains/drama/data/image-assets.json`이 이미지 ID와 공개 Blob URL을 연결한다. 파일 내용의 SHA-256 일부를 주소에 넣어 사진을 교체할 때 새 주소를 만든다. 이전 Blob 파일을 덮어쓰거나 지우지 않는다. 예전 `/images/<id>.webp` 주소는 Vercel이 Blob 사진을 대신 전달한다. 방문자가 열어 둔 예전 페이지의 이미지 크기 조절 요청도 계속 동작하도록 리디렉션 대신 rewrite를 쓴다.
+`src/domains/drama/data/image-assets.json`이 이미지 ID와 공개 Blob URL을 연결한다. 파일 내용의 SHA-256 일부를 주소에 넣어 사진을 교체할 때 새 주소를 만든다. 이전 Blob 파일을 덮어쓰거나 지우지 않는다. 사용권을 확인한 사진만 `/images/<id>.webp` rewrite와 Next.js 이미지 변환을 허용한다. 사용하지 않는 과거 Blob 원본 자체를 삭제한 것은 아니다.
 
 새 사진은 이미지 ID를 파일명으로 쓴 WebP 파일로 준비한다. 아래 명령은 입력 폴더의 사진만 추가하거나 갱신하며 기존 목록을 보존한다. 각 업로드의 응답·파일 크기·SHA-256·가로와 세로 길이를 확인한 뒤 목록에 기록한다. 중간에 실패하면 같은 명령으로 이어갈 수 있다.
 
@@ -53,7 +57,7 @@ npm run images:verify
 
 환경변수를 가져오는 명령은 `.env.local`을 갱신한다. 업로드 인증값은 이 파일에만 두고 Git에 넣지 않는다. 사진을 보는 브라우저에는 공개 URL만 전달한다. 사이트 빌드와 공개 이미지 검사는 업로드 인증값 없이 실행할 수 있다.
 
-사진 설명·출처·라이선스는 `routes.json`에서 관리한다. `docs/image-sources.json`의 `file`은 이전 Git 파일 경로이고 `storageUrl`은 현재 Blob 주소다. 사진 추가·교체 후에는 이미지 목록과 출처를 커밋하고 배포해야 화면에 반영된다. 이미지 파일 자체는 Git에 추가하지 않는다.
+사진 설명·출처·라이선스는 `approved-images.json`에서 관리한다. `docs/image-sources.json`의 `file`은 이전 Git 파일 경로이고 `storageUrl`은 당시 Blob 주소다. 새 사진은 Blob 업로드 후 사용권 목록에 연결한다. 사진 추가·교체 후에는 이미지 목록과 출처를 커밋하고 배포해야 화면에 반영된다. 이미지 파일 자체는 Git에 추가하지 않는다.
 
 ## Slack 피드백
 
@@ -79,7 +83,7 @@ npm run images:verify
 3. 해외 이용자에게 필요한 동의 메시지를 AdSense의 Privacy & messaging에서 설정한다. EEA·영국·스위스 대상 광고에는 Google이 인증한 동의 관리 설정을 사용한다.
 4. 승인된 광고 단위의 `NEXT_PUBLIC_ADSENSE_SLOT_ID`를 설정하고 광고를 켠다.
 
-이 프로젝트는 AdSense 계정 생성이나 사이트 승인을 대신하지 않는다. 광고 수익과 노출은 검증되지 않았다. 2026년 9월 24일 사이트 소유권 확인과 심사 신청을 마쳤다. Google 심사는 진행 중이다.
+이 프로젝트는 AdSense 계정 생성이나 사이트 승인을 대신하지 않는다. 광고 수익과 노출은 검증되지 않았다. 2026년 10월 6일 관리 화면에서 `scene-trip.com`의 상태가 `준비 중`이며 리뷰 요청 시각이 2026년 9월 25일 오후 9:01임을 확인했다. 9월 24일 신청은 이전 Vercel 도메인의 기록이다. 사이트를 삭제하거나 재신청하지 않았으며 콘텐츠 보강이 승인을 보장하지 않는다.
 
 참고: [AdSense 사이트 연결](https://support.google.com/adsense/answer/7584263?hl=en), [동의 관리 요구사항](https://support.google.com/adsense/answer/13554116?hl=en)
 

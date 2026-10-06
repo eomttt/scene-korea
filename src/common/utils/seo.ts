@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 // Change this date only when shared page content or structured data changes.
-export const seoContentUpdatedAt = "2026-09-25";
+export const seoContentUpdatedAt = "2026-10-06";
 
 export function getContentModifiedDate(checkedAt: string) {
   return checkedAt > seoContentUpdatedAt ? checkedAt : seoContentUpdatedAt;

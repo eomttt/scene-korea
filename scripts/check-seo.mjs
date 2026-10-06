@@ -107,7 +107,9 @@ async function run({ baseUrl, canonicalOrigin }) {
   const request = (path, method = "GET") => fetch(new URL(path, baseUrl), { method, redirect: "manual", signal: AbortSignal.timeout(20_000), headers: { "User-Agent": "SceneTrip-SEO-Check/1.0", "Cache-Control": "no-cache" } });
   const catalog = JSON.parse(await readFile(new URL("../src/domains/drama/data/routes.json", import.meta.url), "utf8"));
   const imageAssets = JSON.parse(await readFile(new URL("../src/domains/drama/data/image-assets.json", import.meta.url), "utf8"));
-  const blobImageUrls = new Set(Object.values(imageAssets).map((asset) => asset.url));
+  const approvedImages = JSON.parse(await readFile(new URL("../src/domains/drama/data/approved-images.json", import.meta.url), "utf8"));
+  const approvedByRoute = new Map(approvedImages.map((image) => [image.routeId, image]));
+  const blobImageUrls = new Set(approvedImages.map((image) => imageAssets[image.image]?.url).filter(Boolean));
   const routesByPath = new Map(catalog.routes.map((route) => [`/stories/${route.id}`, route]));
   const sitemapResponse = await request("/sitemap.xml");
   if (sitemapResponse.status !== 200) throw new Error(`sitemap.xml returned ${sitemapResponse.status}.`);
@@ -164,6 +166,12 @@ async function run({ baseUrl, canonicalOrigin }) {
         check(page.headings[0]?.includes(route.title) && page.headings[0]?.includes(route.course), `${label}: H1 must include the work title and story title.`);
         const trips = nodes.filter((node) => hasType(node, "TouristTrip"));
         check(trips.length === 1 && trips[0].itinerary?.numberOfItems === route.stops.length && trips[0].itinerary?.itemListElement?.length === route.stops.length, `${label}: TouristTrip stop count does not match published data.`);
+        const approvedImage = approvedByRoute.get(route.id);
+        const expectedImage = approvedImage ? imageAssets[approvedImage.image]?.url : `${expectedCanonical}/share-image`;
+        check(trips[0]?.image === expectedImage, `${label}: TouristTrip must use its reviewed cover.`);
+        if (approvedImage) {
+          check(page.links.includes(approvedImage.imageSource) && page.links.includes(approvedImage.imageLicenseUrl), `${label}: reviewed photo is missing its source or license link.`);
+        }
         check(breadcrumbs.length === 1, `${label}: requires one BreadcrumbList.`);
       }
       const linkedPaths = new Set(page.links.flatMap((href) => {
@@ -206,7 +214,7 @@ async function run({ baseUrl, canonicalOrigin }) {
   check(robots.split(/\r?\n/).some((line) => line.trim() === `Sitemap: ${canonicalOrigin}/sitemap.xml`), "robots.txt must reference the canonical sitemap.");
 
   const sitemapImages = [...sitemap.matchAll(/<image:loc>([^<]*)<\/image:loc>/g)].map((match) => decodeEntities(match[1].trim()));
-  check(sitemapImages.length > 0 && sitemapImages.every((url) => blobImageUrls.has(url)), "Sitemap images must reference the published Blob assets.");
+  check(sitemapImages.length > 0 && sitemapImages.every((url) => blobImageUrls.has(url)), "Sitemap images must reference only reviewed Blob assets.");
   const samples = [...new Set([...imageUrls.slice(0, 3), ...sitemapImages.slice(0, 3)])].map(absoluteUrl).filter((url) => url && (url.origin === canonicalOrigin || blobImageUrls.has(url.href)));
   await mapLimited(samples, async (url) => {
     try {

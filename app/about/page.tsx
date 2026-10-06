@@ -21,8 +21,12 @@ export default function AboutPage() {
     <h2>One story for one outing</h2>
     <p>Each tour groups nearby locations from one drama or film into an outing of one day or less. A title can have several routes, each following different scenes. <Link href="/filming-locations">Browse by title</Link> to find the story you want to revisit.</p>
     <p>Route durations are editorial estimates for the local outing, including photo breaks. Travel to the first stop is extra. Check current opening hours, transport and access before setting out.</p>
+    <h2>Practical planning notes</h2>
+    <p>Selected routes include a suggested schedule, arrival advice, admission and transport considerations, access restrictions and a weather alternative. These are desk-researched guides, not first-hand accounts of visits. Travel references and their check date appear with each planning guide.</p>
+    <p>A suggested time is a planning allowance, not a train timetable or a live traffic prediction. Where sources disagree or a current price cannot be confirmed, we point you to the operator instead of quoting an unverified fare. A one-stop route is a short location visit; it is not a full-day organized tour.</p>
     <h2>Images and credits</h2>
-    <p>Captions distinguish drama stills, location photographs and recreated sets. Credits and image source links appear on each route; an older photograph may show a place before later changes. The collection is not affiliated with the shows, broadcasters or tourism organizations featured here.</p>
+    <p>We publish photographs with a recorded reuse license and show the photographer, source, license and image changes beside the picture. A location photograph shows the place, not a frame from the production. An older photograph may show a place before later changes.</p>
+    <p>When a suitable licensed filming-location photo is unavailable, a picture from the same neighbourhood may be labelled “Nearby scenery.” It is not presented as the filming spot. Routes without a suitable photograph use an itinerary cover. The collection is not affiliated with the shows, broadcasters or tourism organizations featured here.</p>
     <h2>Help shape the next route</h2>
     <p>Have a drama, film or scene in mind, or a correction to share? <Link href="/request">Send a request</Link> and tell us what you would like us to check.</p>
   </article>;

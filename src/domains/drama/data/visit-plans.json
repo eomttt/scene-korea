@@ -1,0 +1,474 @@
+[
+  {
+    "routeId": "lovely",
+    "checkedAt": "2026-10-06",
+    "overview": "Keep this outing inside Haenggung-dong instead of trying to collect every Lovely Runner location in Korea. The four stops connect the house exterior, neighborhood lanes, confession bridge and bicycle scene. Plan around three to four hours with a café break; the time blocks below are editorial allowances, not measured walking times.",
+    "arrival": {
+      "heading": "Reach Haenggung-dong before starting the clock",
+      "text": "Suwon Station is a practical rail arrival point. Continue by local bus or taxi toward Hwaseong Haenggung, then navigate to Mongted at 14 Hwaseomun-ro 48beon-gil. Suwon Museum of Art's official directions explain the station-to-palace bus approach. Check your departure-day service instead of assuming the station is beside the filming streets."
+    },
+    "schedule": [
+      {
+        "label": "First 60–75 minutes · Mongted and the neighboring lanes",
+        "text": "Photograph the curved café entrance from the street before taking an optional coffee break. Then explore the adjacent lanes on foot. The splash-scene map marks a neighborhood, so allow time to compare the street layout rather than treating the pin as an exact camera position."
+      },
+      {
+        "label": "Next 60–75 minutes · Hwahongmun",
+        "text": "Continue to the water gate and find the smaller pedestrian bridge in front of it. Give other walkers room to cross. This is the useful place to slow down and compare the confession backdrop, instead of spending the whole visit in the café queue."
+      },
+      {
+        "label": "Final 60–90 minutes · Yongyeon and a break",
+        "text": "Finish beside Yongyeon Pond below Banghwasuryujeong. Keep a remaining half hour for refreshments or finding your return bus. The pond paths are the bicycle-scene setting; climbing the fortress wall is an optional extension."
+      }
+    ],
+    "budget": "Budget separately for the rail journey, the local connection and café purchases. This plan uses streets and outdoor viewpoints; it does not require a palace admission, paid tour or bicycle rental. Check any attraction ticket before adding it to the walk.",
+    "access": "The café can close independently of the outdoor route. The facing blue gate is not an invitation to enter a home. A step-free version of every lane and waterside approach has not been verified; travelers who need one should check individual access points before setting out.",
+    "weather": "Choose daylight after heavy rain and obey stream-path closures. In hot weather, place the café break between the lanes and the water gate. If the café is closed, the outdoor scene sequence still works.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Suwon filming route",
+        "url": "https://german.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=528048"
+      },
+      {
+        "label": "Suwon Museum of Art · station and bus directions",
+        "url": "https://suma.suwon.go.kr/views/come.do?lang=en"
+      },
+      {
+        "label": "Roseanne Ducut · visited scene locations",
+        "url": "https://heyroseanne.com/lovely-runner-filming-locations/"
+      }
+    ]
+  },
+  {
+    "routeId": "hometown",
+    "checkedAt": "2026-10-06",
+    "overview": "Treat Gongjin as a coastal driving outing with short walks. Cheongha Market, the dental-clinic exterior and the hilltop boat are separate places in northern Pohang. The six-to-seven-hour allowance includes lunch and local transfers, but starts at the market rather than at your hotel in Seoul. The suggested blocks are editorial estimates.",
+    "arrival": {
+      "heading": "Book a Pohang Station pickup",
+      "text": "Pohang City lists a tourist-taxi course linking Cheongha Market, the clinic and Sabang Memorial Park. Request pickup at Pohang Station and send those three stops plus your return destination when booking. The city asks for reservations at least two days ahead; use its listed phone contact to confirm availability because the page retains an old app-maintenance notice."
+    },
+    "schedule": [
+      {
+        "label": "First 90–120 minutes · Cheongha Market",
+        "text": "Start near the central squid statue and explore the market lanes at 6 Cheongha-ro 200beon-gil. Browse or buy food where premises are open. The fictional shops are filming exteriors, so do not assume each one now runs as a café or souvenir store."
+      },
+      {
+        "label": "Middle 2 hours · Lunch, transfer and the clinic exterior",
+        "text": "Combine lunch with the drive to Cheongjin 3-ri. Show the driver 1884-2 Haean-ro for the former clinic setting. Spend a short period photographing the exterior, then take a coastal break. A visit inside the drama's dental surgery is not included."
+      },
+      {
+        "label": "Final 2½–3 hours · Sabang Memorial Park",
+        "text": "Continue south along the coastal road to Sabang Memorial Park at 1801 Haean-ro. Allow time for the uphill walk to the boat, rests and the descent. Agree a pickup from the lower park before climbing, then return to Pohang Station or your booked accommodation."
+      }
+    ],
+    "budget": "Pohang City lists a tourist taxi for up to four passengers at KRW 125,000 for five hours, with KRW 25,000 per extra hour. A six-to-seven-hour outing needs a longer booking; confirm the full station-to-station total and waiting charges. Pay by card or cash after the ride. Parking, admissions and meals are separate.",
+    "access": "The market contains working premises and the clinic is an exterior-only stop. The boat requires an uphill walk; this guide does not claim a step-free route to it. If climbing is unsuitable, keep the market and clinic visit and arrange pickup from the lower park.",
+    "weather": "Move the hill visit earlier if rain is forecast. In strong wind or slippery conditions, skip the climb and keep the ground-level coastal stops. Do not add nearby breakwaters simply because they appear in the series: access permissions differ.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Gongjin scenes, addresses and access",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224805"
+      },
+      {
+        "label": "Korea Tourism Organization · Pohang route geography",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=385585&menuSn=217"
+      },
+      {
+        "label": "Pohang City · tourist-taxi course, booking and prices",
+        "url": "https://pohang.go.kr/phtour/wmap/tourReservation/taxi/index.do?menu_idx=70"
+      }
+    ]
+  },
+  {
+    "routeId": "goblin",
+    "checkedAt": "2026-10-06",
+    "overview": "Woljeongsa is in the mountains and the Jumunjin filming site is on the coast. Allow six to seven hours between the first and last filming stops, with a car or booked driver. Visit the forest first, then the sea. The schedule includes meals and spare time; station transfers are additional.",
+    "arrival": {
+      "heading": "Arrive at Jinbu; leave from Gangneung",
+      "text": "The temple's current Templestay directions estimate about 20 minutes by taxi from Jinbu Odaesan Station to Woljeongsa. Ask the driver to use the forest-side parking approach at 350-1 Odaesan-ro. Arrange the onward drive to the Goblin breakwater and a final drop-off at Gangneung Station when booking; a taxi to the temple alone does not cover the rest."
+    },
+    "schedule": [
+      {
+        "label": "First 90–120 minutes · Woljeongsa fir forest",
+        "text": "Walk the signed fir-tree path between the entrance-gate area and Geumgang Bridge. KTO describes this core section as about one kilometer. Allow time to return to your agreed pickup point; walking deeper into the temple grounds increases the outing."
+      },
+      {
+        "label": "Middle 3 hours · Lunch and the drive to the coast",
+        "text": "Return to the agreed forest pickup point, have lunch, then drive to the Goblin breakwater at 1609 Haean-ro in Gangneung. Confirm this complete road journey with the driver before departure. This block includes the meal and spare time; it is not a three-hour driving estimate."
+      },
+      {
+        "label": "Final 90–120 minutes · Jumunjin",
+        "text": "Use the Goblin breakwater pin at Yeongjin, rather than a generic Jumunjin Beach or harbor search. Observe the sea from shore before entering any permitted pier area. For the return, have the driver collect you at the agreed shore-side point and continue to Gangneung Station. Check that road estimate before choosing your train."
+      }
+    ],
+    "budget": "Ask for one vehicle quote covering Jinbu Station pickup, waiting at Woljeongsa, the coastal transfer and Gangneung Station drop-off. Add food, rail tickets and parking separately. Check the temple's current visitor information for any entry charge; older travel articles retain historical admission prices.",
+    "access": "The forest and breakwater are outdoor settings, not indoor sets. Confirm current forest and road notices before departure. Snow is seasonal, and this plan does not promise the winter appearance seen on screen. A continuous step-free itinerary has not been verified.",
+    "weather": "If waves, barriers or local notices prevent pier access, take the coastal view from shore. Rain, ice or mountain-road conditions can make the combined route unsuitable; visit only the safer location instead of protecting the original schedule.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · fir forest and filming scene",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=174088"
+      },
+      {
+        "label": "Korea Tourism Organization · Jinbu rail approach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225974"
+      },
+      {
+        "label": "Korea Tourism Organization · Jumunjin Breakwater",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67191"
+      },
+      {
+        "label": "Woljeongsa Templestay · station transfer and parking approach",
+        "url": "https://www.templestay.com/en/MI000000000000000062/reserve/view.do?bookmarkFlag=&templeFlag=&templeId=Woljeongsa&templestaySeq=24581"
+      },
+      {
+        "label": "Korea Tourism Organization · Yeongjin filming-site address",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225899"
+      }
+    ]
+  },
+  {
+    "routeId": "itaewon",
+    "checkedAt": "2026-10-06",
+    "overview": "Start before sunset to see the former DanBam exterior clearly, then finish with the Namsan skyline from the footbridge. Two to three hours leaves space for a meal without turning the visit into a bar crawl. The time blocks are editorial suggestions; the route does not depend on any particular restaurant still trading.",
+    "arrival": {
+      "heading": "Navigate by address, not the fictional pub name",
+      "text": "Use Noksapyeong Station as the neighborhood reference and navigate to 57 Noksapyeong-daero 40-gil. KTO records the filming address and notes that the business appeared under different names. Save the street address before leaving so a renamed shop does not send you to an unrelated DanBam search result."
+    },
+    "schedule": [
+      {
+        "label": "First 30–45 minutes · Former DanBam exterior",
+        "text": "Identify the building from the public street and compare its shape with the reunion scene. Photograph without blocking the entrance. Treat changed signs, furniture or a closed business as normal changes to a working neighborhood, rather than expecting a preserved film set."
+      },
+      {
+        "label": "Next 60–90 minutes · A nearby meal or pause",
+        "text": "Choose an open venue after checking its displayed menu. This is time for food and for the daylight to soften, not a third claimed filming stop. If you only want the two scenes, shorten this break and continue straight to the bridge."
+      },
+      {
+        "label": "Final 30–45 minutes · Noksapyeong footbridge",
+        "text": "Cross the overpass and find a safe viewpoint toward the city skyline. Leave the walking lane clear while taking a photograph. Finish near the station, with a little spare time to check the journey back to your accommodation."
+      }
+    ],
+    "budget": "The plan uses public streets and the pedestrian overpass. Allow for your subway or taxi journey and optional food. Do not book a meal on the assumption that a historic filming-location article guarantees the current business, menu or opening hours.",
+    "access": "This route includes sloping neighborhood streets and access to a pedestrian overpass. A working lift or a complete step-free alternative has not been verified. If stairs are unsuitable, inspect the exterior and enjoy a ground-level skyline view without treating it as the same camera position.",
+    "weather": "Clear dusk gives the best chance of seeing the distant tower. In heavy rain, move the meal indoors and shorten the bridge stop. Check the last useful subway departure for your destination before extending dinner late into the evening.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · DanBam address and footbridge scenes",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+      }
+    ]
+  },
+  {
+    "routeId": "romantic-pocheon-doldam-doorstep",
+    "checkedAt": "2026-10-06",
+    "overview": "Doldam is a short exterior visit that works best as part of a Sanjeong Lake outing. Plan 45–75 minutes for the filming stop itself. Add a lake walk only if your transport and daylight allow it; travel from Seoul is outside that allowance. The sequence below is an editorial plan, not a guided hospital experience.",
+    "arrival": {
+      "heading": "Arrange a return from Sanjeong Lake",
+      "text": "KTO lists the filming building at 771 Sanjeonghosu-ro, Yeongbuk-myeon, Pocheon. Share the Korean name 낭만닥터김사부촬영지 with your driver and agree a pickup point. Public transport to the lake exists, but a current end-to-end timetable has not been verified here; check both outward and return services before relying on it."
+    },
+    "schedule": [
+      {
+        "label": "First 15–20 minutes · Find the permitted approach",
+        "text": "Locate the façade from the visitor approach and check any barriers or notices before moving closer. The former hotel supplied the hospital exterior; it does not offer the wards, operating theater or staff rooms seen in the drama."
+      },
+      {
+        "label": "Next 20–30 minutes · Exterior photographs",
+        "text": "Compare the building and hospital sign from outside. Allow other visitors room and keep entrances clear. This is the whole filming stop, so there is no reason to wait for an interior tour or try a side door."
+      },
+      {
+        "label": "Final 10–25 minutes · Return or extend beside the lake",
+        "text": "Return to the agreed pickup area within the short visit. For a longer outing, add a separate lakeside walk and refreshment stop. Choose the turnaround point from the time remaining rather than assuming you must complete the entire lake circuit."
+      }
+    ],
+    "budget": "Allow for return transport, any parking charge and food. We have not verified a current paid admission product for the hospital exterior. Lake activities are optional purchases and should not be confused with admission to a drama set; confirm their own prices locally.",
+    "access": "KTO confirms exterior photography only and no interior entry. Its listing describes year-round access, but site barriers take precedence. Step-free access between the parking area, façade and every lake path has not been verified; ask about the exact approach if mobility is a concern.",
+    "weather": "Choose a dry daylight visit. Wet leaves, ice or a closed lake path are reasons to keep this to the façade rather than extend the walk. Agree a return pickup before exploring, especially if your accommodation is far from Pocheon.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Doldam address and exterior-only access",
+        "url": "https://data.visitkorea.or.kr/linkedview/2772347"
+      },
+      {
+        "label": "Lee In-jae · Sanjeong Lake walk and Doldam visit",
+        "url": "https://leeinjae-life.tistory.com/646"
+      }
+    ]
+  },
+  {
+    "routeId": "parasite-first-job",
+    "checkedAt": "2026-10-06",
+    "overview": "This is the compact Parasite walk: a shop and the nearby peach-scene staircase in one residential area. Keep it to one or two hours, including navigation and a short break. The Park mansion is not waiting at the top of the steps. The timings below are editorial allowances rather than a claim that the two locations take hours to walk between.",
+    "arrival": {
+      "heading": "Save both street addresses",
+      "text": "Set the first destination to 32 Songijeong-ro in Mapo-gu, the Doijissal Supermarket address published by KTO. Save 3 Songijeong-ro 6-gil for the staircase as well. Use the exact pins to choose your transit approach; a general search for the movie can mix this walk with distant Seoul locations."
+    },
+    "schedule": [
+      {
+        "label": "First 20–30 minutes · The supermarket exterior",
+        "text": "Find a public viewpoint toward the shop where the tutoring opportunity begins. Leave deliveries and customer access clear. A quick photograph is enough if the store is busy, and a changed sign does not justify going behind the counter or into private space."
+      },
+      {
+        "label": "Next 20–30 minutes · The peach staircase",
+        "text": "Continue to the nearby Songijeong-ro 6-gil steps and compare the uphill perspective. Let residents pass before stopping. The point of the pairing is the short transition between ordinary streets and the film's social climb, not finding a hidden mansion entrance."
+      },
+      {
+        "label": "Remaining 20–60 minutes · Return and an optional break",
+        "text": "Retrace a public route toward your chosen transit connection. Use spare time for refreshments or photographs from a different permitted street angle. Save the rain-scene neighborhoods for a separate outing unless you have explicitly allowed a cross-city transfer."
+      }
+    ],
+    "budget": "Plan for local transport and any voluntary shop or café purchase. There is no guided-tour booking included in this route. The public street viewpoints do not include entry to the fictional homes; keep any optional food stop separate from the two filming locations.",
+    "access": "The staircase is the main physical constraint. A visitor who cannot use steps can view the lower approach, but that is a shortened version of the route. Shop opening is not required for an exterior look, and the map does not grant access to adjoining homes.",
+    "weather": "Visit in dry daylight so the steps and residential traffic are easy to see. Avoid recreating the peach scene on wet stairs. On a crowded day, take a brief photograph and move your break to an open business rather than occupying the narrow lane.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · supermarket and staircase addresses",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334"
+      }
+    ]
+  },
+  {
+    "routeId": "parasite-rain",
+    "checkedAt": "2026-10-06",
+    "overview": "The film cuts two separate neighborhoods into one desperate descent. This route preserves the scene order but adds the real transfer between Jahamun Tunnel and Changsin-dong. Allow three to four hours locally. The proposed time blocks are planning estimates, and the dramatic rain is something to remember rather than recreate.",
+    "arrival": {
+      "heading": "Approach Jahamun from Gyeongbokgung",
+      "text": "Visit Seoul describes a bus approach from Gyeongbokgung Station Exit 3 toward Buam Community Center. Its listed services include 1020, 7022 and 7212; verify current stops and departures before boarding. Save 219 Jahamun-ro for the tunnel area, then locate the pedestrian approach rather than following vehicles into the road."
+    },
+    "schedule": [
+      {
+        "label": "First hour · Jahamun stairs and tunnel",
+        "text": "Look at the descending stairs and the tunnel entrance from the public pedestrian space. Keep photography brief at narrow points. There is no need to walk the traffic carriageway or force the camera angle used by the production."
+      },
+      {
+        "label": "Next 60–90 minutes · Transfer and a rest",
+        "text": "Set the next destination to 38 Jibong-ro 11-gil, Changsin-dong. Compare the live bus and taxi options before leaving the tunnel area. This block deliberately includes waiting and a break; it is not a verified door-to-door journey duration."
+      },
+      {
+        "label": "Final 60–90 minutes · Changsin-dong and the return",
+        "text": "Explore only the public lanes around the mapped filming area. Notice how the steps change the sense of height, then leave time to return downhill to your onward connection. The flooded basement interior was not a visitor attraction in these alleys."
+      }
+    ],
+    "budget": "Budget for reaching the first neighborhood, the cross-city transfer and the journey home. A taxi can simplify the middle leg but does not remove the stair climbing. No fixed fare is quoted because traffic, pickup point and route choice change the total.",
+    "access": "Steep steps are essential to both scene stops, so this is not a verified step-free outing. Decide before starting whether a tunnel-area viewpoint alone meets your needs. Changsin-dong is a living neighborhood; do not enter gates, house stairwells or courtyards to match a still.",
+    "weather": "Choose a dry day and finish the residential steps before dark. If stairs are wet, icy or blocked, omit that stop. The route has no indoor substitute that reproduces these scenes, so postponing is more useful than adding an unrelated attraction.",
+    "sources": [
+      {
+        "label": "Visit Seoul · Jahamun Tunnel and public transport",
+        "url": "https://english.visitseoul.net/attractions/Jahamun-Tunnel/ENP037158"
+      },
+      {
+        "label": "Korea Tourism Organization · Changsin-dong and tunnel scene addresses",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=177334"
+      }
+    ]
+  },
+  {
+    "routeId": "queen-of-tears-seoul",
+    "checkedAt": "2026-10-06",
+    "overview": "Pair the public shopping world of Queens with the hillside museum garden used for the family estate. These are two separate visits across Seoul, not adjoining parts of one mansion. Keep four to five hours after arriving at The Hyundai Seoul. The schedule below is an editorial plan and works only when the museum is open.",
+    "arrival": {
+      "heading": "Start at The Hyundai Seoul after opening",
+      "text": "The department store's official directions connect Yeouido Station Exit 3 with the basement approach. The posted regular opening time is 10:30; check the monthly closure calendar before traveling. Starting then leaves more room for the museum than arriving at the shopping center in mid-afternoon."
+    },
+    "schedule": [
+      {
+        "label": "10:30–11:45 · The Hyundai Seoul",
+        "text": "Explore the atrium and public shopping floors, with a short refreshment break if desired. Shops and events can change the view. The greenhouse used as the fictional rooftop garden is in Suwon and is not an extra floor to find in this building."
+      },
+      {
+        "label": "11:45–13:15 · Lunch and the transfer",
+        "text": "Allow this block for lunch and travel toward the Korean Stone Art Museum at 66 Daesagwan-ro 13-gil. Check the live journey before lingering over lunch. A taxi for the final uphill approach may suit some visitors better than walking the entire climb."
+      },
+      {
+        "label": "13:15–15:00 · Museum garden and departure",
+        "text": "Buy the relevant museum admission and use the permitted garden paths to compare the estate setting. Leave room to see the collection rather than treating it solely as a photo backdrop. Confirm the return pickup or downhill connection before leaving the entrance area."
+      }
+    ],
+    "budget": "Department-store shopping and food are optional. Budget separately for the cross-city transfer and museum admission. The museum's published guide says ticket prices can vary by exhibition; an old standard price is not a reliable quote for your chosen date.",
+    "access": "Check the museum's closure day and last admission before setting off. The former stone museum address also appears in Museum Wave exhibition listings, so confirm the current exhibition and garden access for that exact address. The hillside approach and outdoor paths are not certified step-free by this guide.",
+    "weather": "The department-store stop provides an indoor option in poor weather, but the estate comparison depends on the outdoor garden. If garden access closes or rain makes the hill unsuitable, visit the store alone and keep the museum for another day.",
+    "sources": [
+      {
+        "label": "The Hyundai Seoul · opening and station directions",
+        "url": "https://m.ehyundai.com/mobile/DP/en/branch.do?branchCd=B00140000&branchType=10&lanType=EN"
+      },
+      {
+        "label": "Korean Stone Art Museum · visiting information",
+        "url": "https://koreanstonemuseum.com/info-3"
+      },
+      {
+        "label": "Visit Seoul · Museum Wave address and approach",
+        "url": "https://english.visitseoul.net/exhibition/2024-DIVINITY_/46178"
+      },
+      {
+        "label": "Mohazi · Queen of Tears location distinctions",
+        "url": "https://mohazi.net/en/magazine/queen-of-tears-korea-filming-locations/"
+      }
+    ]
+  },
+  {
+    "routeId": "business-proposal-date",
+    "checkedAt": "2026-10-06",
+    "overview": "Put the flower market first and give the theme park the longer afternoon block. This is a six-to-eight-hour outing with two very different operating schedules. A later start can miss the fresh-flower sellers. The times below are editorial allowances and include queues, a meal and the transfer rather than promising a fixed number of rides.",
+    "arrival": {
+      "heading": "Reach Yangjae Citizen's Forest in the morning",
+      "text": "Visit Seoul places the market about 274 meters from Yangjae Citizen's Forest Station Exit 4 on the Shinbundang Line. Use the market address, 27 Gangnam-daero. Its fresh-flower hall trades overnight into the morning, while other halls keep different hours; check the hall you want rather than assuming one schedule covers the complex."
+    },
+    "schedule": [
+      {
+        "label": "First 60–90 minutes · Yangjae Flower Market",
+        "text": "Browse the open public stalls and look for the atmosphere of the rain-and-bouquet scene. Ask before taking close photographs of a vendor's display. If buying flowers, consider how you will carry them during a long theme-park afternoon."
+      },
+      {
+        "label": "Next 60–90 minutes · Transfer and lunch",
+        "text": "Plan the public-transport journey to Jamsil with a live route planner. Follow signs for Lotte World Adventure, rather than the tower observatory or aquarium. Decide whether to eat before entry after checking the terms of your selected ticket."
+      },
+      {
+        "label": "Remaining 4–5 hours · Lotte World Adventure",
+        "text": "Prioritize the carousel and bumper-car settings before adding other rides. Keep time for queues and a snack instead of scheduling attractions back-to-back. The film locations are only one reason to buy admission; choose the visit length that makes the ticket worthwhile for you."
+      }
+    ],
+    "budget": "Flowers, transport, food and theme-park admission are separate costs. Check the official dated ticket and any age conditions before purchase. A tower, aquarium or mall product is not automatically admission to Adventure, and no unverified promotional discount is included in this plan.",
+    "access": "Visit Seoul lists Sunday closures at the market, with variations by shop. Lotte World ride availability and rider restrictions need a separate check on the day. The flower-market guide lists accessible facilities, but that does not establish access to every stall or ride.",
+    "weather": "Much of the Adventure visit can be indoors, but outdoor attractions may be affected by weather. On a rainy day, protect purchases and allow extra transfer time. Market closure cannot be solved by arriving later, so change the visit day or use the park-only option.",
+    "sources": [
+      {
+        "label": "Visit Seoul · flower-market hours, access and station",
+        "url": "https://english.visitseoul.net/area/Yangjae-Flower-Market/ENP64f1uy"
+      },
+      {
+        "label": "Lotte World Adventure · current tickets and operations",
+        "url": "https://adventure.lotteworld.com/eng/main/index.do"
+      },
+      {
+        "label": "Korea Tourism Organization · Jamsil station connection",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=264&menuSn=929&vcontsId=249802"
+      },
+      {
+        "label": "Klook · identification of the two filmed dates",
+        "url": "https://www.klook.com/en-MY/blog/business-proposal-kdrama-filming-locations/"
+      }
+    ]
+  },
+  {
+    "routeId": "kingdom-palace",
+    "checkedAt": "2026-10-06",
+    "overview": "Visit the queen's court setting at Changgyeonggung, then the throne-hall setting at neighboring Changdeokgung. These are protected palaces with separate admissions, not a Kingdom studio tour. Allow three to four hours and start in the morning. The time blocks are editorial estimates designed to avoid the earlier closing time at Changdeokgung.",
+    "arrival": {
+      "heading": "Start at Changgyeonggung's public entrance",
+      "text": "Navigate to Changgyeonggung at 185 Changgyeonggung-ro and enter through the public visitor entrance. Use the palace map to find Tongmyeongjeon; the hall name is not a separate street entrance. Before traveling, check both palaces' calendars because their regular Monday closure can move after a public holiday."
+    },
+    "schedule": [
+      {
+        "label": "09:30–10:45 · Changgyeonggung and Tongmyeongjeon",
+        "text": "Buy admission and follow the public paths toward the hall. View architecture from designated areas; filming permission does not imply that visitors can enter the rooms. Leave enough time to return to an authorized exit without cutting through closed courtyards."
+      },
+      {
+        "label": "10:45–11:15 · Move between the palaces",
+        "text": "Ask staff whether the connecting gate is operating for your visit. If it is unavailable, follow the public outside route to Changdeokgung's visitor entrance. Keep the second admission ready rather than assuming one ticket covers both sites."
+      },
+      {
+        "label": "11:15–13:00 · Changdeokgung and Injeongjeon",
+        "text": "Explore the throne-hall courtyard and the permitted palace paths, then allow time for photographs and your exit. The Secret Garden is a separate experience; it is not needed to see the two scene stops in this route."
+      }
+    ],
+    "budget": "The KTO listings checked for this guide show standard individual admission of KRW 1,000 at Changgyeonggung and KRW 3,000 for Changdeokgung's palace grounds. That makes KRW 4,000 before transport or food. Age concessions and special events can change what you pay; verify your eligibility at the operator's current notice.",
+    "access": "Both palaces normally close on Mondays. Changgyeonggung lists evening access, while Changdeokgung has seasonal closing times and stops admission one hour earlier. Do not infer late access to both. Stone surfaces and thresholds require care; ask staff about the accessible route to each hall.",
+    "weather": "The main scene viewpoints are outdoors. Bring sun or rain protection and allow slower walking on wet paving. Special interior openings are separate programs and may be canceled; this plan relies on public courtyard viewing rather than a booked interior session.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Changgyeonggung hours and admission",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111553"
+      },
+      {
+        "label": "Korea Tourism Organization · Changdeokgung hours and admission",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94399"
+      },
+      {
+        "label": "Royal Palaces and Tombs Center · current notices",
+        "url": "https://royal.khs.go.kr/ENG/contents/R201000000.do"
+      },
+      {
+        "label": "Korea Tourism Organization · screen-location guidebook",
+        "url": "https://english1.visitkorea.or.kr/e_book/access/ecatalogt.jsp?Dir=802&callmode=normal&catimage=&eclang=ko&start=54&um=s"
+      }
+    ]
+  },
+  {
+    "routeId": "cloy",
+    "checkedAt": "2026-10-06",
+    "overview": "Give Chungju's riverside reunion scenes one relaxed afternoon rather than combining them with the drama's distant mountain or overseas locations. This three-to-four-hour plan pairs Jungangtap Park with Rainbow Road and leaves room to wait for dusk. The blocks are editorial estimates, not a promise that decorative lighting will operate.",
+    "arrival": {
+      "heading": "Connect through Chungju Bus Terminal",
+      "text": "From Chungju Bus Terminal, take a local connection to Jungangtap Historic Park. KTO's published directions list bus 412 from opposite Hi-Mart to Jungangtap stop, followed by about five minutes on foot; check the current service before relying on it. For a taxi, show the park name and 112-28 Jungangtap-gil. Arrange the return to the terminal before staying for dusk."
+    },
+    "schedule": [
+      {
+        "label": "First 75–90 minutes · Jungangtap Park",
+        "text": "Start with the park paths and look for the reunion bench in its riverside context. Use the pagoda and park layout to orient yourself rather than expecting a large themed set. Share the bench and leave time for visitors who came simply to enjoy the park."
+      },
+      {
+        "label": "Next 45–60 minutes · A rest and the onward approach",
+        "text": "Take a refreshment break and confirm which signed path toward Rainbow Road is open. If maintenance interrupts a connection, use the available local transfer rather than following an unofficial shortcut. Check your return pickup time before deciding to stay after sunset."
+      },
+      {
+        "label": "Final 60–90 minutes · Rainbow Road",
+        "text": "Walk the permitted lakeside bridge section and choose a turnaround point that fits your energy and departure time. KTO describes a 1.4-kilometer bridge, so a full out-and-back is a different commitment from a short photo stop. Finish before your planned return connection."
+      }
+    ],
+    "budget": "Budget for the intercity journey, local bus or taxi and refreshments. A boat ride or performance ticket is not needed for this walk. If driving, check posted parking charges; if returning by taxi, agree the pickup point near the park before walking out onto Rainbow Road.",
+    "access": "The tourism listing describes outdoor access around the clock, but temporary barriers and maintenance notices take priority. The exact step-free approach to every viewpoint has not been checked. Ask the Chungju visitor information center about accessible entry and current lighting before making either essential to the visit.",
+    "weather": "Wind and rain can make the open waterside walk uncomfortable even when the park is open. Choose a shorter daylight visit in poor conditions. A fountain show or illuminated evening is an optional bonus, not something the route can guarantee.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Chungju scenes, address and bridge length",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224503"
+      },
+      {
+        "label": "Chungju Tourism · local visitor information",
+        "url": "https://www.chungju.go.kr/tour"
+      },
+      {
+        "label": "Korea Tourism Organization · Chungju terminal approach to Jungangtap",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224799"
+      }
+    ]
+  },
+  {
+    "routeId": "vincenzo",
+    "checkedAt": "2026-10-06",
+    "overview": "Move from Geumga Plaza's working shopping complex to the Bank of Korea exterior, then finish with Seoullo's city walk. Four to five hours gives room for food and a transit leg. Start in the afternoon if you want the final stop near dusk. The timing below is an editorial plan, not a museum reservation.",
+    "arrival": {
+      "heading": "Approach the Sewoon complex by subway",
+      "text": "KTO identifies Jongno 3-ga Exit 12 and Euljiro 4-ga Exits 2 or 3 as approaches to the complex. Navigate onward to the Cheonggye building used for Geumga Plaza, rather than stopping at the first building carrying the Sewoon name. Keep the Korean label 청계상가 available on your phone."
+    },
+    "schedule": [
+      {
+        "label": "First 60–90 minutes · Geumga Plaza exterior",
+        "text": "Explore the open public walkways and compare the building form with the drama. Leave shop entrances and delivery paths clear. This is a working complex; a closed walkway is a reason to use a different public viewpoint, not to follow staff into a service area."
+      },
+      {
+        "label": "Next 2 hours · Transfer, food and Woosang's exterior",
+        "text": "Continue toward the Bank of Korea Money Museum at 39 Namdaemun-ro. Photograph the historic façade from permitted public space and take a meal break nearby. Adding the museum collection requires its own opening and reservation check, even though the scene stop itself is outside."
+      },
+      {
+        "label": "Final 60–90 minutes · Seoullo 7017",
+        "text": "Follow the pedestrian approach toward the elevated walkway near Seoul Station. Time a comfortable section around dusk if the weather allows. Choose an exit that suits your onward journey; you do not need to walk every branch to experience the night-walk setting."
+      }
+    ],
+    "budget": "Allow for urban transport and meals. The core route is an exterior and public-walkway outing. The Bank of Korea's current guide lists free museum admission, but weekend and holiday visits need advance reservations; free entry does not mean a guaranteed walk-in place.",
+    "access": "The museum normally opens Tuesday–Sunday, 10:00–17:00, with additional holiday closures. Those hours matter only if you add the indoor collection. Check the actual public access points at the mall and Seoullo; this guide has not verified that every lift or escalator is operating.",
+    "weather": "In rain, shorten the exposed Seoullo section and keep the bank stop to a brief exterior view. If you need an indoor alternative, book the museum on an eligible day before reorganizing the route. Leave time for your final subway or rail connection.",
+    "sources": [
+      {
+        "label": "Korea Tourism Organization · Seoul Vincenzo route and subway approaches",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224799"
+      },
+      {
+        "label": "Bank of Korea · current museum hours, admission and reservations",
+        "url": "https://www.bok.or.kr/eng/main/contents.do?menuNo=400267"
+      }
+    ]
+  }
+]

@@ -7,6 +7,7 @@ export type DramaCardData = {
   id: string;
   title: string;
   course: string;
+  tourArea: string;
   hook: string;
   duration: string;
   format: string;

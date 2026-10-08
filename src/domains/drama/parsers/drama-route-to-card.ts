@@ -8,6 +8,7 @@ export function dramaRouteToCard(route: DramaRoute): DramaCardData {
     id: route.id,
     title: route.title,
     course: route.course,
+    tourArea: route.tourArea,
     hook: route.hook,
     duration: route.duration,
     format: route.format,

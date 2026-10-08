@@ -65,7 +65,7 @@ function CollectionView({ routes, filters, onFiltersChange }: {
   }
 
   return <section id="collection" aria-labelledby="collection-heading">
-    <div className="section-heading"><h2 id="collection-heading">Choose your story</h2><span>Scene-led walks & day trips</span></div>
+    <div className="section-heading"><h2 id="collection-heading">Find your next route</h2><span>Walks & day trips</span></div>
     <div className="collection-filters">
       <div className="collection-tools">
         <div className="search-field">
@@ -84,7 +84,7 @@ function CollectionView({ routes, filters, onFiltersChange }: {
       <div className="category-filters" role="group" aria-label="Filter by screen story">
         {tourCategories.map((option) => {
           const count = searchedRoutes.filter((route) => option.value === "all" || route.category === option.value).length;
-          return <button key={option.value} type="button" disabled={!onFiltersChange} aria-pressed={category === option.value} onClick={() => onFiltersChange?.({ category: option.value })}>{option.label}<span>{count}</span></button>;
+          return <button key={option.value} type="button" disabled={!onFiltersChange} aria-pressed={category === option.value} onFocus={(event) => event.currentTarget.scrollIntoView({ block: "nearest", inline: "nearest", behavior: "instant" })} onClick={() => onFiltersChange?.({ category: option.value })}>{option.label}<span>{count}</span></button>;
         })}
       </div>
       <div className="collection-results"><p role="status" aria-live="polite">{matches.length} {matches.length === 1 ? "story" : "stories"}{hasFilters ? ` of ${routes.length}` : " to explore"}</p>{hasFilters ? <button type="button" className="reset-filters" onClick={handleFiltersReset}>Reset filters <X size={14} aria-hidden="true" /></button> : <p>Every route fits into a day.</p>}</div>

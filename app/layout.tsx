@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { DM_Sans, DM_Serif_Display } from "next/font/google";
+import { DM_Sans } from "next/font/google";
 import { SiteHeader } from "@/common/components/SiteHeader";
 import { SiteFooter } from "@/common/components/SiteFooter";
 import { getSiteUrl } from "@/common/utils/site-url";
@@ -13,7 +13,6 @@ import { SiteAnalytics } from "@/common/components/SiteAnalytics";
 import "./globals.css";
 
 const bodyFont = DM_Sans({ subsets: ["latin"], display: "swap", variable: "--font-dm-sans" });
-const displayFont = DM_Serif_Display({ subsets: ["latin"], weight: "400", style: ["normal", "italic"], display: "swap", variable: "--font-dm-serif" });
 const { client } = getAdsenseConfig();
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
@@ -28,5 +27,5 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en" className={`${bodyFont.variable} ${displayFont.variable}`}><body><SavedRoutesProvider routeIds={dramaRoutes.map((route) => route.id)}><a className="skip-link" href="#main-content">Skip to content</a><div className="site-shell"><SiteHeader savedLink={<SavedNav />} /><main id="main-content">{children}</main><SiteFooter /></div><AdSenseScript /><StructuredData data={{ "@context": "https://schema.org", "@type": "Organization", "@id": `${getSiteUrl()}/#publisher`, name: "Scene Korea", url: getSiteUrl(), logo: `${getSiteUrl()}/icon.svg`, description: "Independent filming-location travel guides for visitors to Korea." }} /></SavedRoutesProvider>{process.env.VERCEL_ENV === "production" ? <SiteAnalytics /> : null}</body></html>;
+  return <html lang="en" className={bodyFont.variable}><body><SavedRoutesProvider routeIds={dramaRoutes.map((route) => route.id)}><a className="skip-link" href="#main-content">Skip to content</a><div className="site-shell"><SiteHeader savedLink={<SavedNav />} /><main id="main-content">{children}</main><SiteFooter /></div><AdSenseScript /><StructuredData data={{ "@context": "https://schema.org", "@type": "Organization", "@id": `${getSiteUrl()}/#publisher`, name: "Scene Korea", url: getSiteUrl(), logo: `${getSiteUrl()}/icon.svg`, description: "Independent filming-location travel guides for visitors to Korea." }} /></SavedRoutesProvider>{process.env.VERCEL_ENV === "production" ? <SiteAnalytics /> : null}</body></html>;
 }

@@ -9,7 +9,7 @@ export function SiteHeader({ savedLink }: { savedLink: ReactNode }) {
       <Link href="/#collection" className="collection-nav">The collection</Link>
       <Link href="/filming-locations" className="collection-nav">Browse titles</Link>
       {savedLink}
-      <Link href="/request" className="button button-small button-outline">Request a story <ArrowUpRight size={15} aria-hidden="true" /></Link>
+      <Link href="/request" className="button button-small button-outline" aria-label="Request a story"><span className="request-label-full">Request a story</span><span className="request-label-short">Request</span><ArrowUpRight size={15} aria-hidden="true" /></Link>
     </nav>
   </header>;
 }

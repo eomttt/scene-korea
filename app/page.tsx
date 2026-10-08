@@ -20,10 +20,13 @@ export default function HomePage() {
   return <>
     <StructuredData data={{ "@context": "https://schema.org", "@type": "WebSite", "@id": `${getSiteUrl()}/#website`, name: "Scene Korea", url: getSiteUrl(), inLanguage: "en", publisher: { "@id": `${getSiteUrl()}/#publisher` }, description: "Self-guided filming-location tours in Korea, from Korean dramas and films to international cinema." }} />
     <StructuredData data={{ "@context": "https://schema.org", "@type": "ItemList", name: "K-drama and film filming routes in Korea", numberOfItems: dramaRoutes.length, itemListElement: dramaRoutes.map((route, index) => ({ "@type": "ListItem", position: index + 1, name: `${route.title}: ${route.course}`, url: `${getSiteUrl()}/stories/${route.id}` })) }} />
-    <section className="hero"><div><p className="eyebrow">Self-guided filming-location tours in Korea</p><h1>Step into your favourite<br />K-drama & film locations.</h1></div><div className="hero-aside"><p>{dramaRoutes.length} scene-led routes from {new Set(dramaRoutes.map((route) => route.title)).size} dramas and films. Choose a story, then follow nearby filming locations in a day.</p><a href="#collection" className="text-link">Find your story <span aria-hidden="true">↓</span></a><Link href="/filming-locations" className="text-link">Browse filming locations by title ↗</Link></div></section>
+    <section className="hero">
+      <div><p className="eyebrow">K-drama & film travel</p><h1>Korea, on location.</h1></div>
+      <div className="hero-aside"><p>{dramaRoutes.length} self-guided routes from {new Set(dramaRoutes.map((route) => route.title)).size} films and series. All within a day.</p><Link href="/filming-locations" className="text-link">Browse by title <ArrowUpRight size={15} aria-hidden="true" /></Link></div>
+    </section>
     <DramaCollection routes={dramaRoutes.map(dramaRouteToCollectionItem)} />
     <section className="title-guide-links" aria-labelledby="title-guides-heading"><h2 id="title-guides-heading">One title, more than one day out</h2><p>Compare different filming-location routes from the same drama or film.</p><div>{titleGuides.map((guide) => <Link key={guide.slug} href={`/filming-locations/${guide.slug}`}>{guide.title} filming locations <ArrowUpRight size={14} aria-hidden="true" /></Link>)}</div></section>
-    <section className="request-banner"><div><p className="eyebrow">Your next story belongs here</p><h2>Still thinking about a scene?</h2><p>Tell us the title, or the moment you wish you could step into.</p></div><Link href="/request" className="button">Request a title or scene <ArrowUpRight size={17} aria-hidden="true" /></Link></section>
+    <section className="request-banner"><div><h2>A scene we missed?</h2><p>Send us the title and filming location you want to visit.</p></div><Link href="/request" className="button">Suggest a route <ArrowUpRight size={17} aria-hidden="true" /></Link></section>
     <AdSlot />
   </>;
 }
